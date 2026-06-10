@@ -1,1 +1,178 @@
-{"data":"aW1wb3J0IHR5cGUgeyBNZXRhZGF0YSB9IGZyb20gIm5leHQiOwppbXBvcnQgewogIE1haWwsCiAgUGhvbmUsCiAgTWFwUGluLAogIENsb2NrLAogIEZhY2Vib29rLAogIExpbmtlZGluLAogIFR3aXR0ZXIsCiAgWW91dHViZSwKfSBmcm9tICJsdWNpZGUtcmVhY3QiOwppbXBvcnQgUGFnZUhlcm8gZnJvbSAiQC9jb21wb25lbnRzL1BhZ2VIZXJvIjsKaW1wb3J0IFJldmVhbCBmcm9tICJAL2NvbXBvbmVudHMvUmV2ZWFsIjsKaW1wb3J0IENvbnRhY3RGb3JtIGZyb20gIkAvY29tcG9uZW50cy9Db250YWN0Rm9ybSI7CmltcG9ydCB7IHNpdGUgfSBmcm9tICJAL2xpYi9zaXRlIjsKCmV4cG9ydCBjb25zdCBtZXRhZGF0YTogTWV0YWRhdGEgPSB7CiAgdGl0bGU6ICJDb250YWN0IFVzIiwKICBkZXNjcmlwdGlvbjoKICAgICJHZXQgaW4gdG91Y2ggd2l0aCBBY2NvdGF4IEFjY291bnRpbmcgU2VydmljZXMgaW4gRHViYWkuIENhbGwsIGVtYWlsIG9yIHNlbmQgdXMgYSBtZXNzYWdlIGFuZCBvbmUgb2Ygb3VyIHJlcHJlc2VudGF0aXZlcyB3aWxsIHJlc3BvbmQgYXMgc29vbiBhcyBwb3NzaWJsZS4iLAp9OwoKY29uc3Qgc29jaWFscyA9IFsKICB7IGljb246IEZhY2Vib29rLCBocmVmOiBzaXRlLnNvY2lhbC5mYWNlYm9vaywgbGFiZWw6ICJGYWNlYm9vayIgfSwKICB7IGljb246IExpbmtlZGluLCBocmVmOiBzaXRlLnNvY2lhbC5saW5rZWRpbiwgbGFiZWw6ICJMaW5rZWRJbiIgfSwKICB7IGljb246IFR3aXR0ZXIsIGhyZWY6IHNpdGUuc29jaWFsLnR3aXR0ZXIsIGxhYmVsOiAiVHdpdHRlciAvIFgiIH0sCiAgeyBpY29uOiBZb3V0dWJlLCBocmVmOiBzaXRlLnNvY2lhbC55b3V0dWJlLCBsYWJlbDogIllvdVR1YmUiIH0sCl0uZmlsdGVyKChzKSA9PiBzLmhyZWYpOwoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gQ29udGFjdFBhZ2UoKSB7CiAgY29uc3QgbWFwU3JjID0gYGh0dHBzOi8vd3d3Lmdvb2dsZS5jb20vbWFwcz9xPSR7ZW5jb2RlVVJJQ29tcG9uZW50KAogICAgc2l0ZS5hZGRyZXNzLm1hcFF1ZXJ5LAogICl9Jm91dHB1dD1lbWJlZGA7CgogIHJldHVybiAoCiAgICA8PgogICAgICA8UGFnZUhlcm8KICAgICAgICBleWVicm93PSJDb250YWN0IFVzIgogICAgICAgIHRpdGxlPSJHZXQgaW4gdG91Y2ggd2l0aCBBY2NvdGF4IgogICAgICAgIGRlc2NyaXB0aW9uPSJBY2NvdGF4IHByb3ZpZGVzIHByb2Zlc3Npb25hbCBhY2NvdW50aW5nLCB0YXgsIFZBVCBjb25zdWx0aW5nIGFuZCBhZHZpc29yeSBzZXJ2aWNlcyB0byBjbGllbnRzIGFsbCBvdmVyIHRoZSBVQUUuIFdlJ3JlIGFuIEZUQS1hcHByb3ZlZCB0YXggYWdlbmN5IOKAlCBhbmQgaGVscCBpcyBqdXN0IGEgY2xpY2sgYXdheS4iCiAgICAgICAgYnJlYWRjcnVtYj17W3sgbGFiZWw6ICJIb21lIiwgaHJlZjogIi8iIH0sIHsgbGFiZWw6ICJDb250YWN0IiB9XX0KICAgICAgLz4KCiAgICAgIDxzZWN0aW9uIGNsYXNzTmFtZT0iYmctd2hpdGUgcHktMTYgc206cHktMjAiPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJjb250YWluZXIteCBncmlkIGdhcC0xMiBsZzpncmlkLWNvbHMtMTIiPgogICAgICAgICAgey8qIEluZm8gY29sdW1uICovfQogICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImxnOmNvbC1zcGFuLTUiPgogICAgICAgICAgICA8UmV2ZWFsPgogICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iZXllYnJvdyI+CiAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9ImgtcHggdy02IGJnLWN1cnJlbnQgb3BhY2l0eS02MCIgLz4gU3BlYWsgdG8gdXMKICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgPGgyIGNsYXNzTmFtZT0ibXQtMyBmb250LWRpc3BsYXkgdGV4dC0yeGwgZm9udC1ib2xkIHRyYWNraW5nLXRpZ2h0IHRleHQtbmF2eS05MDAgc206dGV4dC0zeGwiPgogICAgICAgICAgICAgICAgV2UncmUgaGVyZSBmb3IgeW91CiAgICAgICAgICAgICAgPC9oMj4KICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9Im10LTQgbGVhZGluZy1yZWxheGVkIHRleHQtbmF2eS02MDAiPgogICAgICAgICAgICAgICAgRm9yIGFueSBhY2NvdW50aW5nLXJlbGF0ZWQgcXVlcmllcywgcGxlYXNlIGNvbnRhY3QgdXMuIEEgbWVtYmVyCiAgICAgICAgICAgICAgICBvZiBvdXIgdGVhbSB3aWxsIGFsd2F5cyBiZSBoYXBweSB0byBhc3Npc3QuIFJlYWNoIHVzIGJ5IHBob25lIG9yCiAgICAgICAgICAgICAgICBlbWFpbCBhbmQgd2UnbGwgcmVzcG9uZCBhcyBzb29uIGFzIHBvc3NpYmxlLgogICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgPC9SZXZlYWw+CgogICAgICAgICAgICA8UmV2ZWFsIGRlbGF5PXsxMDB9IGNsYXNzTmFtZT0ibXQtOCBzcGFjZS15LTQiPgogICAgICAgICAgICAgIDxDb250YWN0Um93IGljb249e01haWx9IGxhYmVsPSJFbWFpbCB1cyI+CiAgICAgICAgICAgICAgICA8YQogICAgICAgICAgICAgICAgICBocmVmPXtgbWFpbHRvOiR7c2l0ZS5lbWFpbC5wcmltYXJ5fWB9CiAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0iYmxvY2sgdGV4dC1uYXZ5LTcwMCBob3Zlcjp0ZXh0LXRlYWwtNjAwIgogICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICB7c2l0ZS5lbWFpbC5wcmltYXJ5fQogICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICAgICAgPGEKICAgICAgICAgICAgICAgICAgaHJlZj17YG1haWx0bzoke3NpdGUuZW1haWwuc2Vjb25kYXJ5fWB9CiAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0iYmxvY2sgdGV4dC1uYXZ5LTcwMCBob3Zlcjp0ZXh0LXRlYWwtNjAwIgogICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICB7c2l0ZS5lbWFpbC5zZWNvbmRhcnl9CiAgICAgICAgICAgICAgICA8L2E+CiAgICAgICAgICAgICAgPC9Db250YWN0Um93PgoKICAgICAgICAgICAgICA8Q29udGFjdFJvdyBpY29uPXtQaG9uZX0gbGFiZWw9IkNhbGwgdXMiPgogICAgICAgICAgICAgICAge3NpdGUucGhvbmVzLm1hcCgocCkgPT4gKAogICAgICAgICAgICAgICAgICA8YQogICAgICAgICAgICAgICAgICAgIGtleT17cC5ocmVmfQogICAgICAgICAgICAgICAgICAgIGhyZWY9e3AuaHJlZn0KICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9ImJsb2NrIHRleHQtbmF2eS03MDAgaG92ZXI6dGV4dC10ZWFsLTYwMCIKICAgICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICAgIHtwLmRpc3BsYXl9CiAgICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgICAgICkpfQogICAgICAgICAgICAgIDwvQ29udGFjdFJvdz4KCiAgICAgICAgICAgICAgPENvbnRhY3RSb3cgaWNvbj17TWFwUGlufSBsYWJlbD0iVmlzaXQgdXMiPgogICAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LW5hdnktNzAwIj57c2l0ZS5hZGRyZXNzLmxpbmVzLmpvaW4oIiwgIil9PC9wPgogICAgICAgICAgICAgIDwvQ29udGFjdFJvdz4KCiAgICAgICAgICAgICAgPENvbnRhY3RSb3cgaWNvbj17Q2xvY2t9IGxhYmVsPSJPZmZpY2UgaG91cnMiPgogICAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LW5hdnktNzAwIj57c2l0ZS5ob3Vyc308L3A+CiAgICAgICAgICAgICAgPC9Db250YWN0Um93PgogICAgICAgICAgICA8L1JldmVhbD4KCiAgICAgICAgICAgIDxSZXZlYWwgZGVsYXk9ezE2MH0gY2xhc3NOYW1lPSJtdC04Ij4KICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtc20gZm9udC1zZW1pYm9sZCB0ZXh0LW5hdnktODAwIj5Gb2xsb3cgdXM8L3A+CiAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im10LTMgZmxleCBnYXAtMyI+CiAgICAgICAgICAgICAgICB7c29jaWFscy5tYXAoKHsgaWNvbjogSSwgaHJlZiwgbGFiZWwgfSkgPT4gKAogICAgICAgICAgICAgICAgICA8YQogICAgICAgICAgICAgICAgICAgIGtleT17bGFiZWx9CiAgICAgICAgICAgICAgICAgICAgaHJlZj17aHJlZn0KICAgICAgICAgICAgICAgICAgICB0YXJnZXQ9Il9ibGFuayIKICAgICAgICAgICAgICAgICAgICByZWw9Im5vb3BlbmVyIG5vcmVmZXJyZXIiCiAgICAgICAgICAgICAgICAgICAgYXJpYS1sYWJlbD17bGFiZWx9CiAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJpbmxpbmUtZmxleCBoLTExIHctMTEgaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIHJvdW5kZWQtbGcgYmctaW5rLTk1MCB0ZXh0LXdoaXRlIHRyYW5zaXRpb24tY29sb3JzIGhvdmVyOmJnLXRlYWwtNTAwIGhvdmVyOnRleHQtbmF2eS05NTAiCiAgICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAgICA8SSBjbGFzc05hbWU9ImgtNCB3LTQiIC8+CiAgICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgICAgICkpfQogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L1JldmVhbD4KICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgIHsvKiBGb3JtIGNvbHVtbiAqL30KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJsZzpjb2wtc3Bhbi03Ij4KICAgICAgICAgICAgPFJldmVhbCBkZWxheT17ODB9IGNsYXNzTmFtZT0icm91bmRlZC0yeGwgYm9yZGVyIGJvcmRlci1uYXZ5LTEwMCBiZy13aGl0ZSBwLTYgc2hhZG93LWNhcmQgc206cC04Ij4KICAgICAgICAgICAgICA8aDIgY2xhc3NOYW1lPSJmb250LWRpc3BsYXkgdGV4dC14bCBmb250LWJvbGQgdGV4dC1uYXZ5LTkwMCI+CiAgICAgICAgICAgICAgICBIZWxwIGlzIGp1c3QgYSBjbGljayBhd2F5CiAgICAgICAgICAgICAgPC9oMj4KICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9Im10LTEgdGV4dC1zbSB0ZXh0LW5hdnktNjAwIj4KICAgICAgICAgICAgICAgIEZpbGwgaW4gdGhlIGZvcm0gYmVsb3cgYW5kIG9uZSBvZiBvdXIgcmVwcmVzZW50YXRpdmVzIHdpbGwgcmV2ZXJ0CiAgICAgICAgICAgICAgICB0byB5b3UgYXMgc29vbiBhcyBwb3NzaWJsZS4KICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im10LTYiPgogICAgICAgICAgICAgICAgPENvbnRhY3RGb3JtIC8+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvUmV2ZWFsPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvc2VjdGlvbj4KCiAgICAgIHsvKiBNYXAgKi99CiAgICAgIDxzZWN0aW9uIGNsYXNzTmFtZT0icGItMjAiPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJjb250YWluZXIteCI+CiAgICAgICAgICA8UmV2ZWFsIGNsYXNzTmFtZT0ib3ZlcmZsb3ctaGlkZGVuIHJvdW5kZWQtMnhsIGJvcmRlciBib3JkZXItbmF2eS0xMDAgc2hhZG93LWNhcmQiPgogICAgICAgICAgICA8aWZyYW1lCiAgICAgICAgICAgICAgdGl0bGU9IkFjY290YXggb2ZmaWNlIGxvY2F0aW9uIgogICAgICAgICAgICAgIHNyYz17bWFwU3JjfQogICAgICAgICAgICAgIHdpZHRoPSIxMDAlIgogICAgICAgICAgICAgIGhlaWdodD0iNDIwIgogICAgICAgICAgICAgIGxvYWRpbmc9ImxhenkiCiAgICAgICAgICAgICAgcmVmZXJyZXJQb2xpY3k9Im5vLXJlZmVycmVyLXdoZW4tZG93bmdyYWRlIgogICAgICAgICAgICAgIGNsYXNzTmFtZT0iYmxvY2sgdy1mdWxsIgogICAgICAgICAgICAvPgogICAgICAgICAgPC9SZXZlYWw+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvc2VjdGlvbj4KICAgIDwvPgogICk7Cn0KCmZ1bmN0aW9uIENvbnRhY3RSb3coewogIGljb246IEljb24sCiAgbGFiZWwsCiAgY2hpbGRyZW4sCn06IHsKICBpY29uOiBSZWFjdC5Db21wb25lbnRUeXBlPHsgY2xhc3NOYW1lPzogc3RyaW5nIH0+OwogIGxhYmVsOiBzdHJpbmc7CiAgY2hpbGRyZW46IFJlYWN0LlJlYWN0Tm9kZTsKfSkgewogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBnYXAtNCByb3VuZGVkLXhsIGJvcmRlciBib3JkZXItbmF2eS0xMDAgYmctbmF2eS01MC80MCBwLTUiPgogICAgICA8c3BhbiBjbGFzc05hbWU9ImlubGluZS1mbGV4IGgtMTEgdy0xMSBzaHJpbmstMCBpdGVtcy1jZW50ZXIganVzdGlmeS1jZW50ZXIgcm91bmRlZC14bCBiZy1pbmstOTUwIHRleHQtdGVhbC00MDAiPgogICAgICAgIDxJY29uIGNsYXNzTmFtZT0iaC01IHctNSIgLz4KICAgICAgPC9zcGFuPgogICAgICA8ZGl2PgogICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC14cyBmb250LXNlbWlib2xkIHVwcGVyY2FzZSB0cmFja2luZy13aWRlciB0ZXh0LW5hdnktNDAwIj4KICAgICAgICAgIHtsYWJlbH0KICAgICAgICA8L3A+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9Im10LTEgdGV4dC1zbSBmb250LW1lZGl1bSI+e2NoaWxkcmVufTwvZGl2PgogICAgICA8L2Rpdj4KICAgIDwvZGl2PgogICk7Cn0K"}
+import type { Metadata } from "next";
+import {
+  Mail,
+  Phone,
+  MapPin,
+  Clock,
+  Facebook,
+  Linkedin,
+  Twitter,
+  Youtube,
+} from "lucide-react";
+import PageHero from "@/components/PageHero";
+import Reveal from "@/components/Reveal";
+import ContactForm from "@/components/ContactForm";
+import { site } from "@/lib/site";
+
+export const metadata: Metadata = {
+  title: "Contact Us",
+  description:
+    "Get in touch with Accotax Accounting Services in Dubai. Call, email or send us a message and one of our representatives will respond as soon as possible.",
+};
+
+const socials = [
+  { icon: Facebook, href: site.social.facebook, label: "Facebook" },
+  { icon: Linkedin, href: site.social.linkedin, label: "LinkedIn" },
+  { icon: Twitter, href: site.social.twitter, label: "Twitter / X" },
+  { icon: Youtube, href: site.social.youtube, label: "YouTube" },
+].filter((s) => s.href);
+
+export default function ContactPage() {
+  const mapSrc = `https://www.google.com/maps?q=${encodeURIComponent(
+    site.address.mapQuery,
+  )}&output=embed`;
+
+  return (
+    <>
+      <PageHero
+        eyebrow="Contact Us"
+        title="Get in touch with Accotax"
+        description="Accotax provides professional accounting, tax, VAT consulting and advisory services to clients all over the UAE. We're an FTA-approved tax agency — and help is just a click away."
+        breadcrumb={[{ label: "Home", href: "/" }, { label: "Contact" }]}
+      />
+
+      <section className="bg-white py-16 sm:py-20">
+        <div className="container-x grid gap-12 lg:grid-cols-12">
+          {/* Info column */}
+          <div className="lg:col-span-5">
+            <Reveal>
+              <span className="eyebrow">
+                <span className="h-px w-6 bg-current opacity-60" /> Speak to us
+              </span>
+              <h2 className="mt-3 font-display text-2xl font-bold tracking-tight text-navy-900 sm:text-3xl">
+                We're here for you
+              </h2>
+              <p className="mt-4 leading-relaxed text-navy-600">
+                For any accounting-related queries, please contact us. A member
+                of our team will always be happy to assist. Reach us by phone or
+                email and we'll respond as soon as possible.
+              </p>
+            </Reveal>
+
+            <Reveal delay={100} className="mt-8 space-y-4">
+              <ContactRow icon={Mail} label="Email us">
+                <a
+                  href={`mailto:${site.email.primary}`}
+                  className="block text-navy-700 hover:text-teal-600"
+                >
+                  {site.email.primary}
+                </a>
+                <a
+                  href={`mailto:${site.email.secondary}`}
+                  className="block text-navy-700 hover:text-teal-600"
+                >
+                  {site.email.secondary}
+                </a>
+              </ContactRow>
+
+              <ContactRow icon={Phone} label="Call us">
+                {site.phones.map((p) => (
+                  <a
+                    key={p.href}
+                    href={p.href}
+                    className="block text-navy-700 hover:text-teal-600"
+                  >
+                    {p.display}
+                  </a>
+                ))}
+              </ContactRow>
+
+              <ContactRow icon={MapPin} label="Visit us">
+                <p className="text-navy-700">{site.address.lines.join(", ")}</p>
+              </ContactRow>
+
+              <ContactRow icon={Clock} label="Office hours">
+                <p className="text-navy-700">{site.hours}</p>
+              </ContactRow>
+            </Reveal>
+
+            <Reveal delay={160} className="mt-8">
+              <p className="text-sm font-semibold text-navy-800">Follow us</p>
+              <div className="mt-3 flex gap-3">
+                {socials.map(({ icon: I, href, label }) => (
+                  <a
+                    key={label}
+                    href={href}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    aria-label={label}
+                    className="inline-flex h-11 w-11 items-center justify-center rounded-lg bg-ink-950 text-white transition-colors hover:bg-teal-500 hover:text-navy-950"
+                  >
+                    <I className="h-4 w-4" />
+                  </a>
+                ))}
+              </div>
+            </Reveal>
+          </div>
+
+          {/* Form column */}
+          <div className="lg:col-span-7">
+            <Reveal delay={80} className="rounded-2xl border border-navy-100 bg-white p-6 shadow-card sm:p-8">
+              <h2 className="font-display text-xl font-bold text-navy-900">
+                Help is just a click away
+              </h2>
+              <p className="mt-1 text-sm text-navy-600">
+                Fill in the form below and one of our representatives will revert
+                to you as soon as possible.
+              </p>
+              <div className="mt-6">
+                <ContactForm />
+              </div>
+            </Reveal>
+          </div>
+        </div>
+      </section>
+
+      {/* Map */}
+      <section className="pb-20">
+        <div className="container-x">
+          <Reveal className="overflow-hidden rounded-2xl border border-navy-100 shadow-card">
+            <iframe
+              title="Accotax office location"
+              src={mapSrc}
+              width="100%"
+              height="420"
+              loading="lazy"
+              referrerPolicy="no-referrer-when-downgrade"
+              className="block w-full"
+            />
+          </Reveal>
+        </div>
+      </section>
+    </>
+  );
+}
+
+function ContactRow({
+  icon: Icon,
+  label,
+  children,
+}: {
+  icon: React.ComponentType<{ className?: string }>;
+  label: string;
+  children: React.ReactNode;
+}) {
+  return (
+    <div className="flex gap-4 rounded-xl border border-navy-100 bg-navy-50/40 p-5">
+      <span className="inline-flex h-11 w-11 shrink-0 items-center justify-center rounded-xl bg-ink-950 text-teal-400">
+        <Icon className="h-5 w-5" />
+      </span>
+      <div>
+        <p className="text-xs font-semibold uppercase tracking-wider text-navy-400">
+          {label}
+        </p>
+        <div className="mt-1 text-sm font-medium">{children}</div>
+      </div>
+    </div>
+  );
+}

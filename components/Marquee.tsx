@@ -1,1 +1,26 @@
-{"data":"aW1wb3J0IHsgRG90IH0gZnJvbSAibHVjaWRlLXJlYWN0IjsKCi8qKgogKiBJbmZpbml0ZSBob3Jpem9udGFsIG1hcnF1ZWUgc3RyaXAuIFRoZSBpdGVtcyBhcmUgZHVwbGljYXRlZCBzbyB0aGUKICogdHJhbnNsYXRlWCgtNTAlKSBsb29wIGlzIHNlYW1sZXNzLgogKi8KZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gTWFycXVlZSh7IGl0ZW1zIH06IHsgaXRlbXM6IHN0cmluZ1tdIH0pIHsKICBjb25zdCByb3cgPSBbLi4uaXRlbXMsIC4uLml0ZW1zXTsKICByZXR1cm4gKAogICAgPGRpdiBjbGFzc05hbWU9Imdyb3VwIHJlbGF0aXZlIGZsZXggb3ZlcmZsb3ctaGlkZGVuIGJvcmRlci15IGJvcmRlci13aGl0ZS8xMCBiZy1pbmstOTAwIHB5LTUiPgogICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBzaHJpbmstMCBhbmltYXRlLW1hcnF1ZWUgaXRlbXMtY2VudGVyIGdhcC0wIGdyb3VwLWhvdmVyOlthbmltYXRpb24tcGxheS1zdGF0ZTpwYXVzZWRdIj4KICAgICAgICB7cm93Lm1hcCgoaXRlbSwgaSkgPT4gKAogICAgICAgICAgPHNwYW4ga2V5PXtpfSBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIj4KICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJweC02IGZvbnQtZGlzcGxheSB0ZXh0LWJhc2UgZm9udC1zZW1pYm9sZCB1cHBlcmNhc2UgdHJhY2tpbmctd2lkZSB0ZXh0LXdoaXRlLzgwIHNtOnRleHQtbGciPgogICAgICAgICAgICAgIHtpdGVtfQogICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgIDxEb3QgY2xhc3NOYW1lPSJoLTUgdy01IHRleHQtdGVhbC00MDAiIC8+CiAgICAgICAgICA8L3NwYW4+CiAgICAgICAgKSl9CiAgICAgIDwvZGl2PgogICAgICB7LyogZWRnZSBmYWRlcyAqL30KICAgICAgPGRpdiBjbGFzc05hbWU9InBvaW50ZXItZXZlbnRzLW5vbmUgYWJzb2x1dGUgaW5zZXQteS0wIGxlZnQtMCB3LTI0IGJnLWdyYWRpZW50LXRvLXIgZnJvbS1pbmstOTAwIHRvLXRyYW5zcGFyZW50IiAvPgogICAgICA8ZGl2IGNsYXNzTmFtZT0icG9pbnRlci1ldmVudHMtbm9uZSBhYnNvbHV0ZSBpbnNldC15LTAgcmlnaHQtMCB3LTI0IGJnLWdyYWRpZW50LXRvLWwgZnJvbS1pbmstOTAwIHRvLXRyYW5zcGFyZW50IiAvPgogICAgPC9kaXY+CiAgKTsKfQo="}
+import { Dot } from "lucide-react";
+
+/**
+ * Infinite horizontal marquee strip. The items are duplicated so the
+ * translateX(-50%) loop is seamless.
+ */
+export default function Marquee({ items }: { items: string[] }) {
+  const row = [...items, ...items];
+  return (
+    <div className="group relative flex overflow-hidden border-y border-white/10 bg-ink-900 py-5">
+      <div className="flex shrink-0 animate-marquee items-center gap-0 group-hover:[animation-play-state:paused]">
+        {row.map((item, i) => (
+          <span key={i} className="flex items-center">
+            <span className="px-6 font-display text-base font-semibold uppercase tracking-wide text-white/80 sm:text-lg">
+              {item}
+            </span>
+            <Dot className="h-5 w-5 text-teal-400" />
+          </span>
+        ))}
+      </div>
+      {/* edge fades */}
+      <div className="pointer-events-none absolute inset-y-0 left-0 w-24 bg-gradient-to-r from-ink-900 to-transparent" />
+      <div className="pointer-events-none absolute inset-y-0 right-0 w-24 bg-gradient-to-l from-ink-900 to-transparent" />
+    </div>
+  );
+}

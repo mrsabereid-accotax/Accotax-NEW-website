@@ -1,1 +1,45 @@
-{"data":"aW1wb3J0IFJldmVhbCBmcm9tICIuL1JldmVhbCI7CgpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBTZWN0aW9uSGVhZGluZyh7CiAgZXllYnJvdywKICB0aXRsZSwKICBkZXNjcmlwdGlvbiwKICBhbGlnbiA9ICJjZW50ZXIiLAogIGxpZ2h0ID0gZmFsc2UsCn06IHsKICBleWVicm93Pzogc3RyaW5nOwogIHRpdGxlOiBzdHJpbmc7CiAgZGVzY3JpcHRpb24/OiBzdHJpbmc7CiAgYWxpZ24/OiAiY2VudGVyIiB8ICJsZWZ0IjsKICBsaWdodD86IGJvb2xlYW47Cn0pIHsKICBjb25zdCBhbGlnbm1lbnQgPQogICAgYWxpZ24gPT09ICJjZW50ZXIiID8gIm14LWF1dG8gbWF4LXctMnhsIHRleHQtY2VudGVyIiA6ICJtYXgtdy0yeGwiOwoKICByZXR1cm4gKAogICAgPFJldmVhbCBjbGFzc05hbWU9e2FsaWdubWVudH0+CiAgICAgIHtleWVicm93ICYmICgKICAgICAgICA8c3BhbiBjbGFzc05hbWU9e2BleWVicm93ICR7bGlnaHQgPyAidGV4dC10ZWFsLTQwMCIgOiAiIn1gfT4KICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iaC1weCB3LTYgYmctY3VycmVudCBvcGFjaXR5LTYwIiAvPgogICAgICAgICAge2V5ZWJyb3d9CiAgICAgICAgPC9zcGFuPgogICAgICApfQogICAgICA8aDIKICAgICAgICBjbGFzc05hbWU9e2BtdC0zIGZvbnQtZGlzcGxheSB0ZXh0LTN4bCBmb250LWJvbGQgdHJhY2tpbmctdGlnaHQgc206dGV4dC00eGwgJHsKICAgICAgICAgIGxpZ2h0ID8gInRleHQtd2hpdGUiIDogInRleHQtbmF2eS05MDAiCiAgICAgICAgfWB9CiAgICAgID4KICAgICAgICB7dGl0bGV9CiAgICAgIDwvaDI+CiAgICAgIHtkZXNjcmlwdGlvbiAmJiAoCiAgICAgICAgPHAKICAgICAgICAgIGNsYXNzTmFtZT17YG10LTQgdGV4dC1iYXNlIGxlYWRpbmctcmVsYXhlZCBzbTp0ZXh0LWxnICR7CiAgICAgICAgICAgIGxpZ2h0ID8gInRleHQtbmF2eS0yMDAiIDogInRleHQtbmF2eS02MDAiCiAgICAgICAgICB9YH0KICAgICAgICA+CiAgICAgICAgICB7ZGVzY3JpcHRpb259CiAgICAgICAgPC9wPgogICAgICApfQogICAgPC9SZXZlYWw+CiAgKTsKfQo="}
+import Reveal from "./Reveal";
+
+export default function SectionHeading({
+  eyebrow,
+  title,
+  description,
+  align = "center",
+  light = false,
+}: {
+  eyebrow?: string;
+  title: string;
+  description?: string;
+  align?: "center" | "left";
+  light?: boolean;
+}) {
+  const alignment =
+    align === "center" ? "mx-auto max-w-2xl text-center" : "max-w-2xl";
+
+  return (
+    <Reveal className={alignment}>
+      {eyebrow && (
+        <span className={`eyebrow ${light ? "text-teal-400" : ""}`}>
+          <span className="h-px w-6 bg-current opacity-60" />
+          {eyebrow}
+        </span>
+      )}
+      <h2
+        className={`mt-3 font-display text-3xl font-bold tracking-tight sm:text-4xl ${
+          light ? "text-white" : "text-navy-900"
+        }`}
+      >
+        {title}
+      </h2>
+      {description && (
+        <p
+          className={`mt-4 text-base leading-relaxed sm:text-lg ${
+            light ? "text-navy-200" : "text-navy-600"
+          }`}
+        >
+          {description}
+        </p>
+      )}
+    </Reveal>
+  );
+}

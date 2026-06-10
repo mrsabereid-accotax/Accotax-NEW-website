@@ -1,1 +1,89 @@
-{"data":"InVzZSBjbGllbnQiOwoKaW1wb3J0IHsgdXNlUmVmIH0gZnJvbSAicmVhY3QiOwppbXBvcnQgTGluayBmcm9tICJuZXh0L2xpbmsiOwppbXBvcnQgSW1hZ2UgZnJvbSAibmV4dC9pbWFnZSI7CmltcG9ydCB7IEFycm93UmlnaHQsIEFycm93TGVmdCwgQXJyb3dVcFJpZ2h0IH0gZnJvbSAibHVjaWRlLXJlYWN0IjsKCmV4cG9ydCB0eXBlIENhcm91c2VsQ2FyZCA9IHsKICB0aXRsZTogc3RyaW5nOwogIHRhZ2xpbmU6IHN0cmluZzsKICBocmVmOiBzdHJpbmc7CiAgaW1hZ2U6IHN0cmluZzsKICBjb3VudD86IHN0cmluZzsKfTsKCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIFNlcnZpY2VDYXJvdXNlbCh7IGNhcmRzIH06IHsgY2FyZHM6IENhcm91c2VsQ2FyZFtdIH0pIHsKICBjb25zdCB0cmFja1JlZiA9IHVzZVJlZjxIVE1MRGl2RWxlbWVudCB8IG51bGw+KG51bGwpOwoKICBjb25zdCBzY3JvbGxCeSA9IChkaXI6IDEgfCAtMSkgPT4gewogICAgY29uc3QgZWwgPSB0cmFja1JlZi5jdXJyZW50OwogICAgaWYgKCFlbCkgcmV0dXJuOwogICAgY29uc3QgYW1vdW50ID0gTWF0aC5taW4oZWwuY2xpZW50V2lkdGggKiAwLjgsIDQyMCk7CiAgICBlbC5zY3JvbGxCeSh7IGxlZnQ6IGRpciAqIGFtb3VudCwgYmVoYXZpb3I6ICJzbW9vdGgiIH0pOwogIH07CgogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT0icmVsYXRpdmUiPgogICAgICB7LyogQ29udHJvbHMgKi99CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJtYi02IGZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktZW5kIGdhcC0zIj4KICAgICAgICA8YnV0dG9uCiAgICAgICAgICB0eXBlPSJidXR0b24iCiAgICAgICAgICBhcmlhLWxhYmVsPSJQcmV2aW91cyIKICAgICAgICAgIG9uQ2xpY2s9eygpID0+IHNjcm9sbEJ5KC0xKX0KICAgICAgICAgIGNsYXNzTmFtZT0iaW5saW5lLWZsZXggaC0xMSB3LTExIGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciByb3VuZGVkLWZ1bGwgYm9yZGVyIGJvcmRlci13aGl0ZS8yMCB0ZXh0LXdoaXRlIHRyYW5zaXRpb24tY29sb3JzIGhvdmVyOmJvcmRlci10ZWFsLTQwMCBob3ZlcjpiZy10ZWFsLTUwMCBob3Zlcjp0ZXh0LWluay05NTAiCiAgICAgICAgPgogICAgICAgICAgPEFycm93TGVmdCBjbGFzc05hbWU9ImgtNSB3LTUiIC8+CiAgICAgICAgPC9idXR0b24+CiAgICAgICAgPGJ1dHRvbgogICAgICAgICAgdHlwZT0iYnV0dG9uIgogICAgICAgICAgYXJpYS1sYWJlbD0iTmV4dCIKICAgICAgICAgIG9uQ2xpY2s9eygpID0+IHNjcm9sbEJ5KDEpfQogICAgICAgICAgY2xhc3NOYW1lPSJpbmxpbmUtZmxleCBoLTExIHctMTEgaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIHJvdW5kZWQtZnVsbCBib3JkZXIgYm9yZGVyLXdoaXRlLzIwIHRleHQtd2hpdGUgdHJhbnNpdGlvbi1jb2xvcnMgaG92ZXI6Ym9yZGVyLXRlYWwtNDAwIGhvdmVyOmJnLXRlYWwtNTAwIGhvdmVyOnRleHQtaW5rLTk1MCIKICAgICAgICA+CiAgICAgICAgICA8QXJyb3dSaWdodCBjbGFzc05hbWU9ImgtNSB3LTUiIC8+CiAgICAgICAgPC9idXR0b24+CiAgICAgIDwvZGl2PgoKICAgICAgPGRpdgogICAgICAgIHJlZj17dHJhY2tSZWZ9CiAgICAgICAgY2xhc3NOYW1lPSJmbGV4IHNuYXAteCBzbmFwLW1hbmRhdG9yeSBnYXAtNSBvdmVyZmxvdy14LWF1dG8gcGItNCBbc2Nyb2xsYmFyLXdpZHRoOm5vbmVdIFsmOjotd2Via2l0LXNjcm9sbGJhcl06aGlkZGVuIgogICAgICA+CiAgICAgICAge2NhcmRzLm1hcCgoY2FyZCkgPT4gKAogICAgICAgICAgPExpbmsKICAgICAgICAgICAga2V5PXtjYXJkLnRpdGxlfQogICAgICAgICAgICBocmVmPXtjYXJkLmhyZWZ9CiAgICAgICAgICAgIGNsYXNzTmFtZT0iZ3JvdXAgcmVsYXRpdmUgaC1bNDIwcHhdIHctWzMwMHB4XSBzaHJpbmstMCBzbmFwLXN0YXJ0IG92ZXJmbG93LWhpZGRlbiByb3VuZGVkLTN4bCBzbTp3LVszNDBweF0iCiAgICAgICAgICA+CiAgICAgICAgICAgIDxJbWFnZQogICAgICAgICAgICAgIHNyYz17Y2FyZC5pbWFnZX0KICAgICAgICAgICAgICBhbHQ9e2NhcmQudGl0bGV9CiAgICAgICAgICAgICAgZmlsbAogICAgICAgICAgICAgIHNpemVzPSIzNDBweCIKICAgICAgICAgICAgICBjbGFzc05hbWU9Im9iamVjdC1jb3ZlciB0cmFuc2l0aW9uLXRyYW5zZm9ybSBkdXJhdGlvbi03MDAgZWFzZS1vdXQgZ3JvdXAtaG92ZXI6c2NhbGUtMTEwIgogICAgICAgICAgICAvPgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYWJzb2x1dGUgaW5zZXQtMCBiZy1ncmFkaWVudC10by10IGZyb20taW5rLTk1MCB2aWEtaW5rLTk1MC80MCB0by10cmFuc3BhcmVudCB0cmFuc2l0aW9uLW9wYWNpdHkgZHVyYXRpb24tNTAwIGdyb3VwLWhvdmVyOmZyb20tdGVhbC05NTAvOTUgZ3JvdXAtaG92ZXI6dmlhLWluay05NTAvNTAiIC8+CiAgICAgICAgICAgIHtjYXJkLmNvdW50ICYmICgKICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9ImFic29sdXRlIHJpZ2h0LTUgdG9wLTUgcm91bmRlZC1mdWxsIGJvcmRlciBib3JkZXItd2hpdGUvMjUgYmctd2hpdGUvMTAgcHgtMyBweS0xIHRleHQteHMgZm9udC1zZW1pYm9sZCB0ZXh0LXdoaXRlIGJhY2tkcm9wLWJsdXIiPgogICAgICAgICAgICAgICAge2NhcmQuY291bnR9CiAgICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICApfQogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYWJzb2x1dGUgaW5zZXQteC0wIGJvdHRvbS0wIHAtNyI+CiAgICAgICAgICAgICAgPGgzIGNsYXNzTmFtZT0iZm9udC1kaXNwbGF5IHRleHQtMnhsIGZvbnQtYm9sZCB0ZXh0LXdoaXRlIj4KICAgICAgICAgICAgICAgIHtjYXJkLnRpdGxlfQogICAgICAgICAgICAgIDwvaDM+CiAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJtdC0yIHRleHQtc20gbGVhZGluZy1yZWxheGVkIHRleHQtd2hpdGUvODAiPgogICAgICAgICAgICAgICAge2NhcmQudGFnbGluZX0KICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJtdC00IGlubGluZS1mbGV4IGl0ZW1zLWNlbnRlciBnYXAtMiB0ZXh0LXNtIGZvbnQtc2VtaWJvbGQgdGV4dC10ZWFsLTMwMCI+CiAgICAgICAgICAgICAgICBFeHBsb3JlCiAgICAgICAgICAgICAgICA8QXJyb3dVcFJpZ2h0IGNsYXNzTmFtZT0iaC00IHctNCB0cmFuc2l0aW9uLXRyYW5zZm9ybSBkdXJhdGlvbi0zMDAgZ3JvdXAtaG92ZXI6dHJhbnNsYXRlLXgtMSBncm91cC1ob3ZlcjotdHJhbnNsYXRlLXktMSIgLz4KICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9ImFic29sdXRlIGluc2V0LTAgcm91bmRlZC0zeGwgcmluZy0xIHJpbmctaW5zZXQgcmluZy13aGl0ZS8xMCB0cmFuc2l0aW9uLWFsbCBkdXJhdGlvbi01MDAgZ3JvdXAtaG92ZXI6cmluZy10ZWFsLTQwMC81MCIgLz4KICAgICAgICAgIDwvTGluaz4KICAgICAgICApKX0KICAgICAgPC9kaXY+CiAgICA8L2Rpdj4KICApOwp9Cg=="}
+"use client";
+
+import { useRef } from "react";
+import Link from "next/link";
+import Image from "next/image";
+import { ArrowRight, ArrowLeft, ArrowUpRight } from "lucide-react";
+
+export type CarouselCard = {
+  title: string;
+  tagline: string;
+  href: string;
+  image: string;
+  count?: string;
+};
+
+export default function ServiceCarousel({ cards }: { cards: CarouselCard[] }) {
+  const trackRef = useRef<HTMLDivElement | null>(null);
+
+  const scrollBy = (dir: 1 | -1) => {
+    const el = trackRef.current;
+    if (!el) return;
+    const amount = Math.min(el.clientWidth * 0.8, 420);
+    el.scrollBy({ left: dir * amount, behavior: "smooth" });
+  };
+
+  return (
+    <div className="relative">
+      {/* Controls */}
+      <div className="mb-6 flex items-center justify-end gap-3">
+        <button
+          type="button"
+          aria-label="Previous"
+          onClick={() => scrollBy(-1)}
+          className="inline-flex h-11 w-11 items-center justify-center rounded-full border border-white/20 text-white transition-colors hover:border-teal-400 hover:bg-teal-500 hover:text-ink-950"
+        >
+          <ArrowLeft className="h-5 w-5" />
+        </button>
+        <button
+          type="button"
+          aria-label="Next"
+          onClick={() => scrollBy(1)}
+          className="inline-flex h-11 w-11 items-center justify-center rounded-full border border-white/20 text-white transition-colors hover:border-teal-400 hover:bg-teal-500 hover:text-ink-950"
+        >
+          <ArrowRight className="h-5 w-5" />
+        </button>
+      </div>
+
+      <div
+        ref={trackRef}
+        className="flex snap-x snap-mandatory gap-5 overflow-x-auto pb-4 [scrollbar-width:none] [&::-webkit-scrollbar]:hidden"
+      >
+        {cards.map((card) => (
+          <Link
+            key={card.title}
+            href={card.href}
+            className="group relative h-[420px] w-[300px] shrink-0 snap-start overflow-hidden rounded-3xl sm:w-[340px]"
+          >
+            <Image
+              src={card.image}
+              alt={card.title}
+              fill
+              sizes="340px"
+              className="object-cover transition-transform duration-700 ease-out group-hover:scale-110"
+            />
+            <div className="absolute inset-0 bg-gradient-to-t from-ink-950 via-ink-950/40 to-transparent transition-opacity duration-500 group-hover:from-teal-950/95 group-hover:via-ink-950/50" />
+            {card.count && (
+              <span className="absolute right-5 top-5 rounded-full border border-white/25 bg-white/10 px-3 py-1 text-xs font-semibold text-white backdrop-blur">
+                {card.count}
+              </span>
+            )}
+            <div className="absolute inset-x-0 bottom-0 p-7">
+              <h3 className="font-display text-2xl font-bold text-white">
+                {card.title}
+              </h3>
+              <p className="mt-2 text-sm leading-relaxed text-white/80">
+                {card.tagline}
+              </p>
+              <span className="mt-4 inline-flex items-center gap-2 text-sm font-semibold text-teal-300">
+                Explore
+                <ArrowUpRight className="h-4 w-4 transition-transform duration-300 group-hover:translate-x-1 group-hover:-translate-y-1" />
+              </span>
+            </div>
+            <span className="absolute inset-0 rounded-3xl ring-1 ring-inset ring-white/10 transition-all duration-500 group-hover:ring-teal-400/50" />
+          </Link>
+        ))}
+      </div>
+    </div>
+  );
+}

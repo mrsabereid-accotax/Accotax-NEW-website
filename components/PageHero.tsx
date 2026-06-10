@@ -1,1 +1,64 @@
-{"data":"aW1wb3J0IExpbmsgZnJvbSAibmV4dC9saW5rIjsKaW1wb3J0IEltYWdlIGZyb20gIm5leHQvaW1hZ2UiOwppbXBvcnQgeyBDaGV2cm9uUmlnaHQgfSBmcm9tICJsdWNpZGUtcmVhY3QiOwoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gUGFnZUhlcm8oewogIGV5ZWJyb3csCiAgdGl0bGUsCiAgZGVzY3JpcHRpb24sCiAgYnJlYWRjcnVtYiwKfTogewogIGV5ZWJyb3c/OiBzdHJpbmc7CiAgdGl0bGU6IHN0cmluZzsKICBkZXNjcmlwdGlvbj86IHN0cmluZzsKICBicmVhZGNydW1iPzogeyBsYWJlbDogc3RyaW5nOyBocmVmPzogc3RyaW5nIH1bXTsKfSkgewogIHJldHVybiAoCiAgICA8c2VjdGlvbiBjbGFzc05hbWU9InJlbGF0aXZlIG92ZXJmbG93LWhpZGRlbiBiZy1pbmstOTUwIj4KICAgICAgPEltYWdlCiAgICAgICAgc3JjPSIvaW1hZ2VzL2hlcm8tc2t5bGluZS5qcGciCiAgICAgICAgYWx0PSIiCiAgICAgICAgZmlsbAogICAgICAgIHNpemVzPSIxMDB2dyIKICAgICAgICBjbGFzc05hbWU9Im9iamVjdC1jb3ZlciBvcGFjaXR5LTE1IgogICAgICAvPgogICAgICA8ZGl2IGNsYXNzTmFtZT0icG9pbnRlci1ldmVudHMtbm9uZSBhYnNvbHV0ZSBpbnNldC0wIGJnLWdyYWRpZW50LXRvLWJyIGZyb20taW5rLTk1MCB2aWEtaW5rLTk1MC85MiB0by10ZWFsLTk1MC83NSIgLz4KICAgICAgey8qIHN1YnRsZSBncmlkIC8gZ2xvdyAqL30KICAgICAgPGRpdiBjbGFzc05hbWU9InBvaW50ZXItZXZlbnRzLW5vbmUgYWJzb2x1dGUgaW5zZXQtMCBiZy1bcmFkaWFsLWdyYWRpZW50KGNpcmNsZV9hdF90b3BfcmlnaHQsX3JnYmEoMjAxLDE2MiwzOSwwLjE0KSxfdHJhbnNwYXJlbnRfNTUlKV0iIC8+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJwb2ludGVyLWV2ZW50cy1ub25lIGFic29sdXRlIC1ib3R0b20tMjQgbGVmdC0xLzQgaC03MiB3LTcyIHJvdW5kZWQtZnVsbCBiZy1uYXZ5LTUwMC8yMCBibHVyLTN4bCIgLz4KICAgICAgPGRpdiBjbGFzc05hbWU9ImNvbnRhaW5lci14IHJlbGF0aXZlIHB5LTE2IHNtOnB5LTIwIj4KICAgICAgICB7YnJlYWRjcnVtYiAmJiAoCiAgICAgICAgICA8bmF2CiAgICAgICAgICAgIGFyaWEtbGFiZWw9IkJyZWFkY3J1bWIiCiAgICAgICAgICAgIGNsYXNzTmFtZT0ibWItNSBmbGV4IGZsZXgtd3JhcCBpdGVtcy1jZW50ZXIgZ2FwLTEuNSB0ZXh0LXNtIHRleHQtbmF2eS0zMDAiCiAgICAgICAgICA+CiAgICAgICAgICAgIHticmVhZGNydW1iLm1hcCgoYiwgaSkgPT4gKAogICAgICAgICAgICAgIDxzcGFuIGtleT17Yi5sYWJlbH0gY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMS41Ij4KICAgICAgICAgICAgICAgIHtpID4gMCAmJiA8Q2hldnJvblJpZ2h0IGNsYXNzTmFtZT0iaC0zLjUgdy0zLjUgdGV4dC1uYXZ5LTUwMCIgLz59CiAgICAgICAgICAgICAgICB7Yi5ocmVmID8gKAogICAgICAgICAgICAgICAgICA8TGluawogICAgICAgICAgICAgICAgICAgIGhyZWY9e2IuaHJlZn0KICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9InRyYW5zaXRpb24tY29sb3JzIGhvdmVyOnRleHQtdGVhbC00MDAiCiAgICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAgICB7Yi5sYWJlbH0KICAgICAgICAgICAgICAgICAgPC9MaW5rPgogICAgICAgICAgICAgICAgKSA6ICgKICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LXRlYWwtNDAwIj57Yi5sYWJlbH08L3NwYW4+CiAgICAgICAgICAgICAgICApfQogICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgKSl9CiAgICAgICAgICA8L25hdj4KICAgICAgICApfQogICAgICAgIHtleWVicm93ICYmIDxzcGFuIGNsYXNzTmFtZT0iZXllYnJvdyB0ZXh0LXRlYWwtNDAwIj57ZXllYnJvd308L3NwYW4+fQogICAgICAgIDxoMSBjbGFzc05hbWU9Im10LTMgbWF4LXctM3hsIGZvbnQtZGlzcGxheSB0ZXh0LTR4bCBmb250LWJvbGQgdHJhY2tpbmctdGlnaHQgdGV4dC13aGl0ZSBzbTp0ZXh0LTV4bCI+CiAgICAgICAgICB7dGl0bGV9CiAgICAgICAgPC9oMT4KICAgICAgICB7ZGVzY3JpcHRpb24gJiYgKAogICAgICAgICAgPHAgY2xhc3NOYW1lPSJtdC00IG1heC13LTJ4bCB0ZXh0LWJhc2UgbGVhZGluZy1yZWxheGVkIHRleHQtbmF2eS0yMDAgc206dGV4dC1sZyI+CiAgICAgICAgICAgIHtkZXNjcmlwdGlvbn0KICAgICAgICAgIDwvcD4KICAgICAgICApfQogICAgICA8L2Rpdj4KICAgIDwvc2VjdGlvbj4KICApOwp9Cg=="}
+import Link from "next/link";
+import Image from "next/image";
+import { ChevronRight } from "lucide-react";
+
+export default function PageHero({
+  eyebrow,
+  title,
+  description,
+  breadcrumb,
+}: {
+  eyebrow?: string;
+  title: string;
+  description?: string;
+  breadcrumb?: { label: string; href?: string }[];
+}) {
+  return (
+    <section className="relative overflow-hidden bg-ink-950">
+      <Image
+        src="/images/hero-skyline.jpg"
+        alt=""
+        fill
+        sizes="100vw"
+        className="object-cover opacity-15"
+      />
+      <div className="pointer-events-none absolute inset-0 bg-gradient-to-br from-ink-950 via-ink-950/92 to-teal-950/75" />
+      {/* subtle grid / glow */}
+      <div className="pointer-events-none absolute inset-0 bg-[radial-gradient(circle_at_top_right,_rgba(201,162,39,0.14),_transparent_55%)]" />
+      <div className="pointer-events-none absolute -bottom-24 left-1/4 h-72 w-72 rounded-full bg-navy-500/20 blur-3xl" />
+      <div className="container-x relative py-16 sm:py-20">
+        {breadcrumb && (
+          <nav
+            aria-label="Breadcrumb"
+            className="mb-5 flex flex-wrap items-center gap-1.5 text-sm text-navy-300"
+          >
+            {breadcrumb.map((b, i) => (
+              <span key={b.label} className="flex items-center gap-1.5">
+                {i > 0 && <ChevronRight className="h-3.5 w-3.5 text-navy-500" />}
+                {b.href ? (
+                  <Link
+                    href={b.href}
+                    className="transition-colors hover:text-teal-400"
+                  >
+                    {b.label}
+                  </Link>
+                ) : (
+                  <span className="text-teal-400">{b.label}</span>
+                )}
+              </span>
+            ))}
+          </nav>
+        )}
+        {eyebrow && <span className="eyebrow text-teal-400">{eyebrow}</span>}
+        <h1 className="mt-3 max-w-3xl font-display text-4xl font-bold tracking-tight text-white sm:text-5xl">
+          {title}
+        </h1>
+        {description && (
+          <p className="mt-4 max-w-2xl text-base leading-relaxed text-navy-200 sm:text-lg">
+            {description}
+          </p>
+        )}
+      </div>
+    </section>
+  );
+}

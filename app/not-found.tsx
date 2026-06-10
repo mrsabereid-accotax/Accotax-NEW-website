@@ -1,1 +1,27 @@
-{"data":"aW1wb3J0IExpbmsgZnJvbSAibmV4dC9saW5rIjsKaW1wb3J0IHsgSG9tZSwgQXJyb3dSaWdodCB9IGZyb20gImx1Y2lkZS1yZWFjdCI7CgpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBOb3RGb3VuZCgpIHsKICByZXR1cm4gKAogICAgPHNlY3Rpb24gY2xhc3NOYW1lPSJmbGV4IG1pbi1oLVs2MHZoXSBpdGVtcy1jZW50ZXIgYmctaW5rLTk1MCI+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJjb250YWluZXIteCBweS0yMCB0ZXh0LWNlbnRlciI+CiAgICAgICAgPHAgY2xhc3NOYW1lPSJmb250LWRpc3BsYXkgdGV4dC03eGwgZm9udC1leHRyYWJvbGQgdGV4dC10ZWFsLTQwMCI+NDA0PC9wPgogICAgICAgIDxoMSBjbGFzc05hbWU9Im10LTQgZm9udC1kaXNwbGF5IHRleHQtMnhsIGZvbnQtYm9sZCB0ZXh0LXdoaXRlIHNtOnRleHQtM3hsIj4KICAgICAgICAgIFBhZ2Ugbm90IGZvdW5kCiAgICAgICAgPC9oMT4KICAgICAgICA8cCBjbGFzc05hbWU9Im14LWF1dG8gbXQtMyBtYXgtdy1tZCB0ZXh0LW5hdnktMzAwIj4KICAgICAgICAgIFRoZSBwYWdlIHlvdSdyZSBsb29raW5nIGZvciBkb2Vzbid0IGV4aXN0IG9yIGhhcyBiZWVuIG1vdmVkLiBMZXQncyBnZXQKICAgICAgICAgIHlvdSBiYWNrIG9uIHRyYWNrLgogICAgICAgIDwvcD4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibXQtOCBmbGV4IGZsZXgtY29sIGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciBnYXAtMyBzbTpmbGV4LXJvdyI+CiAgICAgICAgICA8TGluayBocmVmPSIvIiBjbGFzc05hbWU9ImJ0bi1nb2xkIj4KICAgICAgICAgICAgPEhvbWUgY2xhc3NOYW1lPSJoLTQgdy00IiAvPiBCYWNrIHRvIEhvbWUKICAgICAgICAgIDwvTGluaz4KICAgICAgICAgIDxMaW5rIGhyZWY9Ii9zZXJ2aWNlcyIgY2xhc3NOYW1lPSJidG4tZ2hvc3QtbGlnaHQiPgogICAgICAgICAgICBCcm93c2UgU2VydmljZXMgPEFycm93UmlnaHQgY2xhc3NOYW1lPSJoLTQgdy00IiAvPgogICAgICAgICAgPC9MaW5rPgogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KICAgIDwvc2VjdGlvbj4KICApOwp9Cg=="}
+import Link from "next/link";
+import { Home, ArrowRight } from "lucide-react";
+
+export default function NotFound() {
+  return (
+    <section className="flex min-h-[60vh] items-center bg-ink-950">
+      <div className="container-x py-20 text-center">
+        <p className="font-display text-7xl font-extrabold text-teal-400">404</p>
+        <h1 className="mt-4 font-display text-2xl font-bold text-white sm:text-3xl">
+          Page not found
+        </h1>
+        <p className="mx-auto mt-3 max-w-md text-navy-300">
+          The page you're looking for doesn't exist or has been moved. Let's get
+          you back on track.
+        </p>
+        <div className="mt-8 flex flex-col items-center justify-center gap-3 sm:flex-row">
+          <Link href="/" className="btn-gold">
+            <Home className="h-4 w-4" /> Back to Home
+          </Link>
+          <Link href="/services" className="btn-ghost-light">
+            Browse Services <ArrowRight className="h-4 w-4" />
+          </Link>
+        </div>
+      </div>
+    </section>
+  );
+}

@@ -1,1 +1,9 @@
-{"data":"aW1wb3J0IHR5cGUgeyBNZXRhZGF0YVJvdXRlIH0gZnJvbSAibmV4dCI7CmltcG9ydCB7IHNpdGUgfSBmcm9tICJAL2xpYi9zaXRlIjsKCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIHJvYm90cygpOiBNZXRhZGF0YVJvdXRlLlJvYm90cyB7CiAgcmV0dXJuIHsKICAgIHJ1bGVzOiB7IHVzZXJBZ2VudDogIioiLCBhbGxvdzogIi8iIH0sCiAgICBzaXRlbWFwOiBgJHtzaXRlLnVybH0vc2l0ZW1hcC54bWxgLAogIH07Cn0K"}
+import type { MetadataRoute } from "next";
+import { site } from "@/lib/site";
+
+export default function robots(): MetadataRoute.Robots {
+  return {
+    rules: { userAgent: "*", allow: "/" },
+    sitemap: `${site.url}/sitemap.xml`,
+  };
+}

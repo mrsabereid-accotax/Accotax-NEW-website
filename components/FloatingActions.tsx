@@ -1,1 +1,48 @@
-{"data":"InVzZSBjbGllbnQiOwoKaW1wb3J0IHsgdXNlRWZmZWN0LCB1c2VTdGF0ZSB9IGZyb20gInJlYWN0IjsKaW1wb3J0IHsgQXJyb3dVcCwgTWVzc2FnZUNpcmNsZSB9IGZyb20gImx1Y2lkZS1yZWFjdCI7CmltcG9ydCB7IHNpdGUgfSBmcm9tICJAL2xpYi9zaXRlIjsKCi8qKgogKiBGaXhlZCBib3R0b20tcmlnaHQgYWN0aW9uczogYSBwZXJzaXN0ZW50IFdoYXRzQXBwIGJ1dHRvbiAobGVhZCBjYXB0dXJlKSBhbmQKICogYSBiYWNrLXRvLXRvcCBidXR0b24gdGhhdCBmYWRlcyBpbiBvbmNlIHRoZSB1c2VyIHNjcm9sbHMgZG93bi4KICovCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIEZsb2F0aW5nQWN0aW9ucygpIHsKICBjb25zdCBbc2hvd1RvcCwgc2V0U2hvd1RvcF0gPSB1c2VTdGF0ZShmYWxzZSk7CgogIHVzZUVmZmVjdCgoKSA9PiB7CiAgICBjb25zdCBvblNjcm9sbCA9ICgpID0+IHNldFNob3dUb3Aod2luZG93LnNjcm9sbFkgPiA2MDApOwogICAgb25TY3JvbGwoKTsKICAgIHdpbmRvdy5hZGRFdmVudExpc3RlbmVyKCJzY3JvbGwiLCBvblNjcm9sbCwgeyBwYXNzaXZlOiB0cnVlIH0pOwogICAgcmV0dXJuICgpID0+IHdpbmRvdy5yZW1vdmVFdmVudExpc3RlbmVyKCJzY3JvbGwiLCBvblNjcm9sbCk7CiAgfSwgW10pOwoKICByZXR1cm4gKAogICAgPGRpdiBjbGFzc05hbWU9ImZpeGVkIGJvdHRvbS01IHJpZ2h0LTUgei00MCBmbGV4IGZsZXgtY29sIGl0ZW1zLWNlbnRlciBnYXAtMyI+CiAgICAgIDxidXR0b24KICAgICAgICB0eXBlPSJidXR0b24iCiAgICAgICAgYXJpYS1sYWJlbD0iQmFjayB0byB0b3AiCiAgICAgICAgb25DbGljaz17KCkgPT4gd2luZG93LnNjcm9sbFRvKHsgdG9wOiAwLCBiZWhhdmlvcjogInNtb290aCIgfSl9CiAgICAgICAgY2xhc3NOYW1lPXtgaW5saW5lLWZsZXggaC0xMSB3LTExIGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciByb3VuZGVkLWZ1bGwgYmctaW5rLTk1MCB0ZXh0LXdoaXRlIHNoYWRvdy1sZyByaW5nLTEgcmluZy13aGl0ZS8xMCB0cmFuc2l0aW9uLWFsbCBkdXJhdGlvbi0zMDAgaG92ZXI6YmctaW5rLTgwMCAkewogICAgICAgICAgc2hvd1RvcAogICAgICAgICAgICA/ICJ0cmFuc2xhdGUteS0wIG9wYWNpdHktMTAwIgogICAgICAgICAgICA6ICJwb2ludGVyLWV2ZW50cy1ub25lIHRyYW5zbGF0ZS15LTMgb3BhY2l0eS0wIgogICAgICAgIH1gfQogICAgICA+CiAgICAgICAgPEFycm93VXAgY2xhc3NOYW1lPSJoLTUgdy01IiAvPgogICAgICA8L2J1dHRvbj4KCiAgICAgIDxhCiAgICAgICAgaHJlZj17c2l0ZS53aGF0c2FwcH0KICAgICAgICB0YXJnZXQ9Il9ibGFuayIKICAgICAgICByZWw9Im5vb3BlbmVyIG5vcmVmZXJyZXIiCiAgICAgICAgYXJpYS1sYWJlbD0iQ2hhdCB3aXRoIHVzIG9uIFdoYXRzQXBwIgogICAgICAgIGNsYXNzTmFtZT0iZ3JvdXAgaW5saW5lLWZsZXggaC0xNCB3LTE0IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciByb3VuZGVkLWZ1bGwgYmctdGVhbC01MDAgdGV4dC1pbmstOTUwIHNoYWRvdy14bCBzaGFkb3ctdGVhbC01MDAvMzAgdHJhbnNpdGlvbi10cmFuc2Zvcm0gZHVyYXRpb24tMzAwIGhvdmVyOnNjYWxlLTEwNSIKICAgICAgPgogICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iYWJzb2x1dGUgaC0xNCB3LTE0IGFuaW1hdGUtcGluZyByb3VuZGVkLWZ1bGwgYmctdGVhbC01MDAvNDAgW2FuaW1hdGlvbi1kdXJhdGlvbjoyLjVzXSBncm91cC1ob3ZlcjpoaWRkZW4iIC8+CiAgICAgICAgPE1lc3NhZ2VDaXJjbGUgY2xhc3NOYW1lPSJyZWxhdGl2ZSBoLTcgdy03IiAvPgogICAgICA8L2E+CiAgICA8L2Rpdj4KICApOwp9Cg=="}
+"use client";
+
+import { useEffect, useState } from "react";
+import { ArrowUp, MessageCircle } from "lucide-react";
+import { site } from "@/lib/site";
+
+/**
+ * Fixed bottom-right actions: a persistent WhatsApp button (lead capture) and
+ * a back-to-top button that fades in once the user scrolls down.
+ */
+export default function FloatingActions() {
+  const [showTop, setShowTop] = useState(false);
+
+  useEffect(() => {
+    const onScroll = () => setShowTop(window.scrollY > 600);
+    onScroll();
+    window.addEventListener("scroll", onScroll, { passive: true });
+    return () => window.removeEventListener("scroll", onScroll);
+  }, []);
+
+  return (
+    <div className="fixed bottom-5 right-5 z-40 flex flex-col items-center gap-3">
+      <button
+        type="button"
+        aria-label="Back to top"
+        onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
+        className={`inline-flex h-11 w-11 items-center justify-center rounded-full bg-ink-950 text-white shadow-lg ring-1 ring-white/10 transition-all duration-300 hover:bg-ink-800 ${
+          showTop
+            ? "translate-y-0 opacity-100"
+            : "pointer-events-none translate-y-3 opacity-0"
+        }`}
+      >
+        <ArrowUp className="h-5 w-5" />
+      </button>
+
+      <a
+        href={site.whatsapp}
+        target="_blank"
+        rel="noopener noreferrer"
+        aria-label="Chat with us on WhatsApp"
+        className="group inline-flex h-14 w-14 items-center justify-center rounded-full bg-teal-500 text-ink-950 shadow-xl shadow-teal-500/30 transition-transform duration-300 hover:scale-105"
+      >
+        <span className="absolute h-14 w-14 animate-ping rounded-full bg-teal-500/40 [animation-duration:2.5s] group-hover:hidden" />
+        <MessageCircle className="relative h-7 w-7" />
+      </a>
+    </div>
+  );
+}

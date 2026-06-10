@@ -1,1 +1,217 @@
-{"data":"InVzZSBjbGllbnQiOwoKaW1wb3J0IHsgdXNlU3RhdGUgfSBmcm9tICJyZWFjdCI7CmltcG9ydCB7IFNlbmQsIENoZWNrQ2lyY2xlMiwgQWxlcnRDaXJjbGUgfSBmcm9tICJsdWNpZGUtcmVhY3QiOwppbXBvcnQgeyBzaXRlIH0gZnJvbSAiQC9saWIvc2l0ZSI7Cgp0eXBlIFN0YXR1cyA9ICJpZGxlIiB8ICJzdWJtaXR0aW5nIiB8ICJzdWNjZXNzIiB8ICJlcnJvciI7CgovKioKICogTGVhZC1jYXB0dXJlIGZvcm0uCiAqCiAqIFNldCBORVhUX1BVQkxJQ19XRUIzRk9STVNfQUNDRVNTX0tFWSAoZnJlZSBrZXkgZnJvbSBodHRwczovL3dlYjNmb3Jtcy5jb20pIHRvCiAqIGRlbGl2ZXIgc3VibWlzc2lvbnMgc3RyYWlnaHQgdG8geW91ciBpbmJveCDigJQgbm8gc2VydmVyIHJlcXVpcmVkLiBJZiB0aGUga2V5CiAqIGlzIG5vdCBzZXQsIHRoZSBmb3JtIGdyYWNlZnVsbHkgZmFsbHMgYmFjayB0byBvcGVuaW5nIHRoZSB2aXNpdG9yJ3MgZW1haWwKICogY2xpZW50IChtYWlsdG86KSwgc28gaXQgYWx3YXlzIHdvcmtzLgogKi8KY29uc3QgQUNDRVNTX0tFWSA9IHByb2Nlc3MuZW52Lk5FWFRfUFVCTElDX1dFQjNGT1JNU19BQ0NFU1NfS0VZOwoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gQ29udGFjdEZvcm0oKSB7CiAgY29uc3QgW3N0YXR1cywgc2V0U3RhdHVzXSA9IHVzZVN0YXRlPFN0YXR1cz4oImlkbGUiKTsKICBjb25zdCBbZm9ybSwgc2V0Rm9ybV0gPSB1c2VTdGF0ZSh7CiAgICBuYW1lOiAiIiwKICAgIGVtYWlsOiAiIiwKICAgIHBob25lOiAiIiwKICAgIHNlcnZpY2U6ICIiLAogICAgbWVzc2FnZTogIiIsCiAgICBib3RjaGVjazogIiIsIC8vIGhvbmV5cG90IChtdXN0IHN0YXkgZW1wdHkpCiAgfSk7CgogIGNvbnN0IHVwZGF0ZSA9CiAgICAoa2V5OiBrZXlvZiB0eXBlb2YgZm9ybSkgPT4KICAgICgKICAgICAgZTogUmVhY3QuQ2hhbmdlRXZlbnQ8CiAgICAgICAgSFRNTElucHV0RWxlbWVudCB8IEhUTUxUZXh0QXJlYUVsZW1lbnQgfCBIVE1MU2VsZWN0RWxlbWVudAogICAgICA+LAogICAgKSA9PgogICAgICBzZXRGb3JtKChmKSA9PiAoeyAuLi5mLCBba2V5XTogZS50YXJnZXQudmFsdWUgfSkpOwoKICBjb25zdCBtYWlsdG9GYWxsYmFjayA9ICgpID0+IHsKICAgIGNvbnN0IHN1YmplY3QgPSBlbmNvZGVVUklDb21wb25lbnQoCiAgICAgIGBXZWJzaXRlIGVucXVpcnkke2Zvcm0uc2VydmljZSA/IGAg4oCUICR7Zm9ybS5zZXJ2aWNlfWAgOiAiIn0gZnJvbSAke2Zvcm0ubmFtZX1gLAogICAgKTsKICAgIGNvbnN0IGJvZHkgPSBlbmNvZGVVUklDb21wb25lbnQoCiAgICAgIGBOYW1lOiAke2Zvcm0ubmFtZX1cbkVtYWlsOiAke2Zvcm0uZW1haWx9XG5QaG9uZTogJHtmb3JtLnBob25lfVxuU2VydmljZTogJHtmb3JtLnNlcnZpY2V9XG5cbiR7Zm9ybS5tZXNzYWdlfWAsCiAgICApOwogICAgd2luZG93LmxvY2F0aW9uLmhyZWYgPSBgbWFpbHRvOiR7c2l0ZS5lbWFpbC5wcmltYXJ5fT9zdWJqZWN0PSR7c3ViamVjdH0mYm9keT0ke2JvZHl9YDsKICB9OwoKICBjb25zdCBoYW5kbGVTdWJtaXQgPSBhc3luYyAoZTogUmVhY3QuRm9ybUV2ZW50KSA9PiB7CiAgICBlLnByZXZlbnREZWZhdWx0KCk7CiAgICBpZiAoZm9ybS5ib3RjaGVjaykgcmV0dXJuOyAvLyBib3QgY2F1Z2h0CiAgICBzZXRTdGF0dXMoInN1Ym1pdHRpbmciKTsKCiAgICAvLyBObyBiYWNrZW5kIGtleSBjb25maWd1cmVkIOKGkiB1c2UgdGhlIGVtYWlsLWNsaWVudCBmYWxsYmFjay4KICAgIGlmICghQUNDRVNTX0tFWSkgewogICAgICBtYWlsdG9GYWxsYmFjaygpOwogICAgICBzZXRUaW1lb3V0KCgpID0+IHNldFN0YXR1cygic3VjY2VzcyIpLCA2MDApOwogICAgICByZXR1cm47CiAgICB9CgogICAgdHJ5IHsKICAgICAgY29uc3QgcmVzID0gYXdhaXQgZmV0Y2goImh0dHBzOi8vYXBpLndlYjNmb3Jtcy5jb20vc3VibWl0IiwgewogICAgICAgIG1ldGhvZDogIlBPU1QiLAogICAgICAgIGhlYWRlcnM6IHsgIkNvbnRlbnQtVHlwZSI6ICJhcHBsaWNhdGlvbi9qc29uIiwgQWNjZXB0OiAiYXBwbGljYXRpb24vanNvbiIgfSwKICAgICAgICBib2R5OiBKU09OLnN0cmluZ2lmeSh7CiAgICAgICAgICBhY2Nlc3Nfa2V5OiBBQ0NFU1NfS0VZLAogICAgICAgICAgc3ViamVjdDogYE5ldyB3ZWJzaXRlIGVucXVpcnkke2Zvcm0uc2VydmljZSA/IGAg4oCUICR7Zm9ybS5zZXJ2aWNlfWAgOiAiIn0gZnJvbSAke2Zvcm0ubmFtZX1gLAogICAgICAgICAgZnJvbV9uYW1lOiBgJHtzaXRlLnNob3J0TmFtZX0gV2Vic2l0ZWAsCiAgICAgICAgICBuYW1lOiBmb3JtLm5hbWUsCiAgICAgICAgICBlbWFpbDogZm9ybS5lbWFpbCwKICAgICAgICAgIHBob25lOiBmb3JtLnBob25lLAogICAgICAgICAgc2VydmljZTogZm9ybS5zZXJ2aWNlLAogICAgICAgICAgbWVzc2FnZTogZm9ybS5tZXNzYWdlLAogICAgICAgIH0pLAogICAgICB9KTsKICAgICAgY29uc3QgZGF0YSA9IGF3YWl0IHJlcy5qc29uKCk7CiAgICAgIHNldFN0YXR1cyhkYXRhLnN1Y2Nlc3MgPyAic3VjY2VzcyIgOiAiZXJyb3IiKTsKICAgIH0gY2F0Y2ggewogICAgICBzZXRTdGF0dXMoImVycm9yIik7CiAgICB9CiAgfTsKCiAgaWYgKHN0YXR1cyA9PT0gInN1Y2Nlc3MiKSB7CiAgICByZXR1cm4gKAogICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBmbGV4LWNvbCBpdGVtcy1jZW50ZXIganVzdGlmeS1jZW50ZXIgcm91bmRlZC0yeGwgYm9yZGVyIGJvcmRlci1uYXZ5LTEwMCBiZy10ZWFsLTUwLzYwIHAtMTAgdGV4dC1jZW50ZXIiPgogICAgICAgIDxDaGVja0NpcmNsZTIgY2xhc3NOYW1lPSJoLTEyIHctMTIgdGV4dC10ZWFsLTUwMCIgLz4KICAgICAgICA8aDMgY2xhc3NOYW1lPSJtdC00IGZvbnQtZGlzcGxheSB0ZXh0LXhsIGZvbnQtYm9sZCB0ZXh0LW5hdnktOTAwIj4KICAgICAgICAgIFRoYW5rIHlvdSEKICAgICAgICA8L2gzPgogICAgICAgIDxwIGNsYXNzTmFtZT0ibXQtMiBtYXgtdy1zbSB0ZXh0LXNtIHRleHQtbmF2eS02MDAiPgogICAgICAgICAgWW91ciBtZXNzYWdlIGhhcyBiZWVuIHNlbnQuIE9uZSBvZiBvdXIgcmVwcmVzZW50YXRpdmVzIHdpbGwgZ2V0IGJhY2sgdG8KICAgICAgICAgIHlvdSBhcyBzb29uIGFzIHBvc3NpYmxlLgogICAgICAgIDwvcD4KICAgICAgPC9kaXY+CiAgICApOwogIH0KCiAgY29uc3QgZmllbGRDbGFzcyA9CiAgICAidy1mdWxsIHJvdW5kZWQtbGcgYm9yZGVyIGJvcmRlci1uYXZ5LTIwMCBiZy13aGl0ZSBweC00IHB5LTMgdGV4dC1zbSB0ZXh0LW5hdnktOTAwIHBsYWNlaG9sZGVyOnRleHQtbmF2eS00MDAgdHJhbnNpdGlvbi1jb2xvcnMgZm9jdXM6Ym9yZGVyLXRlYWwtNTAwIGZvY3VzOm91dGxpbmUtbm9uZSBmb2N1czpyaW5nLTIgZm9jdXM6cmluZy10ZWFsLTUwMC8xNSI7CgogIHJldHVybiAoCiAgICA8Zm9ybSBvblN1Ym1pdD17aGFuZGxlU3VibWl0fSBjbGFzc05hbWU9InNwYWNlLXktNCI+CiAgICAgIHsvKiBIb25leXBvdCBmaWVsZCDigJQgaGlkZGVuIGZyb20gaHVtYW5zICovfQogICAgICA8aW5wdXQKICAgICAgICB0eXBlPSJ0ZXh0IgogICAgICAgIG5hbWU9ImJvdGNoZWNrIgogICAgICAgIHZhbHVlPXtmb3JtLmJvdGNoZWNrfQogICAgICAgIG9uQ2hhbmdlPXt1cGRhdGUoImJvdGNoZWNrIil9CiAgICAgICAgY2xhc3NOYW1lPSJoaWRkZW4iCiAgICAgICAgdGFiSW5kZXg9ey0xfQogICAgICAgIGF1dG9Db21wbGV0ZT0ib2ZmIgogICAgICAgIGFyaWEtaGlkZGVuPSJ0cnVlIgogICAgICAvPgoKICAgICAgPGRpdiBjbGFzc05hbWU9ImdyaWQgZ2FwLTQgc206Z3JpZC1jb2xzLTIiPgogICAgICAgIDxkaXY+CiAgICAgICAgICA8bGFiZWwgaHRtbEZvcj0ibmFtZSIgY2xhc3NOYW1lPSJtYi0xLjUgYmxvY2sgdGV4dC1zbSBmb250LW1lZGl1bSB0ZXh0LW5hdnktODAwIj4KICAgICAgICAgICAgTmFtZSA8c3BhbiBjbGFzc05hbWU9InRleHQtdGVhbC02MDAiPio8L3NwYW4+CiAgICAgICAgICA8L2xhYmVsPgogICAgICAgICAgPGlucHV0CiAgICAgICAgICAgIGlkPSJuYW1lIgogICAgICAgICAgICByZXF1aXJlZAogICAgICAgICAgICB2YWx1ZT17Zm9ybS5uYW1lfQogICAgICAgICAgICBvbkNoYW5nZT17dXBkYXRlKCJuYW1lIil9CiAgICAgICAgICAgIGNsYXNzTmFtZT17ZmllbGRDbGFzc30KICAgICAgICAgICAgcGxhY2Vob2xkZXI9IllvdXIgZnVsbCBuYW1lIgogICAgICAgICAgLz4KICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2PgogICAgICAgICAgPGxhYmVsIGh0bWxGb3I9ImVtYWlsIiBjbGFzc05hbWU9Im1iLTEuNSBibG9jayB0ZXh0LXNtIGZvbnQtbWVkaXVtIHRleHQtbmF2eS04MDAiPgogICAgICAgICAgICBFbWFpbCA8c3BhbiBjbGFzc05hbWU9InRleHQtdGVhbC02MDAiPio8L3NwYW4+CiAgICAgICAgICA8L2xhYmVsPgogICAgICAgICAgPGlucHV0CiAgICAgICAgICAgIGlkPSJlbWFpbCIKICAgICAgICAgICAgdHlwZT0iZW1haWwiCiAgICAgICAgICAgIHJlcXVpcmVkCiAgICAgICAgICAgIHZhbHVlPXtmb3JtLmVtYWlsfQogICAgICAgICAgICBvbkNoYW5nZT17dXBkYXRlKCJlbWFpbCIpfQogICAgICAgICAgICBjbGFzc05hbWU9e2ZpZWxkQ2xhc3N9CiAgICAgICAgICAgIHBsYWNlaG9sZGVyPSJ5b3VAY29tcGFueS5jb20iCiAgICAgICAgICAvPgogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KCiAgICAgIDxkaXYgY2xhc3NOYW1lPSJncmlkIGdhcC00IHNtOmdyaWQtY29scy0yIj4KICAgICAgICA8ZGl2PgogICAgICAgICAgPGxhYmVsIGh0bWxGb3I9InBob25lIiBjbGFzc05hbWU9Im1iLTEuNSBibG9jayB0ZXh0LXNtIGZvbnQtbWVkaXVtIHRleHQtbmF2eS04MDAiPgogICAgICAgICAgICBQaG9uZSBOdW1iZXIgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LXRlYWwtNjAwIj4qPC9zcGFuPgogICAgICAgICAgPC9sYWJlbD4KICAgICAgICAgIDxpbnB1dAogICAgICAgICAgICBpZD0icGhvbmUiCiAgICAgICAgICAgIHR5cGU9InRlbCIKICAgICAgICAgICAgcmVxdWlyZWQKICAgICAgICAgICAgdmFsdWU9e2Zvcm0ucGhvbmV9CiAgICAgICAgICAgIG9uQ2hhbmdlPXt1cGRhdGUoInBob25lIil9CiAgICAgICAgICAgIGNsYXNzTmFtZT17ZmllbGRDbGFzc30KICAgICAgICAgICAgcGxhY2Vob2xkZXI9Iis5NzEgLi4uIgogICAgICAgICAgLz4KICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2PgogICAgICAgICAgPGxhYmVsIGh0bWxGb3I9InNlcnZpY2UiIGNsYXNzTmFtZT0ibWItMS41IGJsb2NrIHRleHQtc20gZm9udC1tZWRpdW0gdGV4dC1uYXZ5LTgwMCI+CiAgICAgICAgICAgIFNlcnZpY2Ugb2YgSW50ZXJlc3QKICAgICAgICAgIDwvbGFiZWw+CiAgICAgICAgICA8c2VsZWN0CiAgICAgICAgICAgIGlkPSJzZXJ2aWNlIgogICAgICAgICAgICB2YWx1ZT17Zm9ybS5zZXJ2aWNlfQogICAgICAgICAgICBvbkNoYW5nZT17dXBkYXRlKCJzZXJ2aWNlIil9CiAgICAgICAgICAgIGNsYXNzTmFtZT17ZmllbGRDbGFzc30KICAgICAgICAgID4KICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iIj5TZWxlY3QgYSBzZXJ2aWNlPC9vcHRpb24+CiAgICAgICAgICAgIDxvcHRpb24+QWNjb3VudGluZyAmYW1wOyBCb29ra2VlcGluZzwvb3B0aW9uPgogICAgICAgICAgICA8b3B0aW9uPkNvcnBvcmF0ZSBUYXg8L29wdGlvbj4KICAgICAgICAgICAgPG9wdGlvbj5WQVQgLyBUYXggU2VydmljZXM8L29wdGlvbj4KICAgICAgICAgICAgPG9wdGlvbj5Db21wYW55IFNldHVwIChNYWlubGFuZCAvIEZyZWUgWm9uZSk8L29wdGlvbj4KICAgICAgICAgICAgPG9wdGlvbj5BZHZpc29yeSAvIEJ1c2luZXNzIENvbnN1bHRpbmc8L29wdGlvbj4KICAgICAgICAgICAgPG9wdGlvbj5BdWRpdDwvb3B0aW9uPgogICAgICAgICAgICA8b3B0aW9uPk90aGVyPC9vcHRpb24+CiAgICAgICAgICA8L3NlbGVjdD4KICAgICAgICA8L2Rpdj4KICAgICAgPC9kaXY+CgogICAgICA8ZGl2PgogICAgICAgIDxsYWJlbCBodG1sRm9yPSJtZXNzYWdlIiBjbGFzc05hbWU9Im1iLTEuNSBibG9jayB0ZXh0LXNtIGZvbnQtbWVkaXVtIHRleHQtbmF2eS04MDAiPgogICAgICAgICAgTWVzc2FnZQogICAgICAgIDwvbGFiZWw+CiAgICAgICAgPHRleHRhcmVhCiAgICAgICAgICBpZD0ibWVzc2FnZSIKICAgICAgICAgIHJvd3M9ezV9CiAgICAgICAgICB2YWx1ZT17Zm9ybS5tZXNzYWdlfQogICAgICAgICAgb25DaGFuZ2U9e3VwZGF0ZSgibWVzc2FnZSIpfQogICAgICAgICAgY2xhc3NOYW1lPXtmaWVsZENsYXNzfQogICAgICAgICAgcGxhY2Vob2xkZXI9IlRlbGwgdXMgYnJpZWZseSBob3cgd2UgY2FuIGhlbHDigKYiCiAgICAgICAgLz4KICAgICAgPC9kaXY+CgogICAgICB7c3RhdHVzID09PSAiZXJyb3IiICYmICgKICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTIgcm91bmRlZC1sZyBiZy1yZWQtNTAgcHgtNCBweS0zIHRleHQtc20gdGV4dC1yZWQtNzAwIj4KICAgICAgICAgIDxBbGVydENpcmNsZSBjbGFzc05hbWU9ImgtNCB3LTQgc2hyaW5rLTAiIC8+CiAgICAgICAgICBTb21ldGhpbmcgd2VudCB3cm9uZy4gUGxlYXNlIHRyeSBhZ2Fpbiwgb3IgZW1haWwgdXMgYXQge3NpdGUuZW1haWwucHJpbWFyeX0uCiAgICAgICAgPC9kaXY+CiAgICAgICl9CgogICAgICA8YnV0dG9uCiAgICAgICAgdHlwZT0ic3VibWl0IgogICAgICAgIGRpc2FibGVkPXtzdGF0dXMgPT09ICJzdWJtaXR0aW5nIn0KICAgICAgICBjbGFzc05hbWU9ImJ0bi1nb2xkIHctZnVsbCBkaXNhYmxlZDpvcGFjaXR5LTcwIgogICAgICA+CiAgICAgICAge3N0YXR1cyA9PT0gInN1Ym1pdHRpbmciID8gIlNlbmRpbmfigKYiIDogIkdldCBIZWxwIE5vdyJ9CiAgICAgICAgPFNlbmQgY2xhc3NOYW1lPSJoLTQgdy00IiAvPgogICAgICA8L2J1dHRvbj4KICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LWNlbnRlciB0ZXh0LXhzIHRleHQtbmF2eS00MDAiPgogICAgICAgIFdlIHJlc3BlY3QgeW91ciBwcml2YWN5LiBZb3VyIGRldGFpbHMgYXJlIG9ubHkgdXNlZCB0byByZXNwb25kIHRvIHlvdXIKICAgICAgICBlbnF1aXJ5LgogICAgICA8L3A+CiAgICA8L2Zvcm0+CiAgKTsKfQo="}
+"use client";
+
+import { useState } from "react";
+import { Send, CheckCircle2, AlertCircle } from "lucide-react";
+import { site } from "@/lib/site";
+
+type Status = "idle" | "submitting" | "success" | "error";
+
+/**
+ * Lead-capture form.
+ *
+ * Set NEXT_PUBLIC_WEB3FORMS_ACCESS_KEY (free key from https://web3forms.com) to
+ * deliver submissions straight to your inbox — no server required. If the key
+ * is not set, the form gracefully falls back to opening the visitor's email
+ * client (mailto:), so it always works.
+ */
+const ACCESS_KEY = process.env.NEXT_PUBLIC_WEB3FORMS_ACCESS_KEY;
+
+export default function ContactForm() {
+  const [status, setStatus] = useState<Status>("idle");
+  const [form, setForm] = useState({
+    name: "",
+    email: "",
+    phone: "",
+    service: "",
+    message: "",
+    botcheck: "", // honeypot (must stay empty)
+  });
+
+  const update =
+    (key: keyof typeof form) =>
+    (
+      e: React.ChangeEvent<
+        HTMLInputElement | HTMLTextAreaElement | HTMLSelectElement
+      >,
+    ) =>
+      setForm((f) => ({ ...f, [key]: e.target.value }));
+
+  const mailtoFallback = () => {
+    const subject = encodeURIComponent(
+      `Website enquiry${form.service ? ` — ${form.service}` : ""} from ${form.name}`,
+    );
+    const body = encodeURIComponent(
+      `Name: ${form.name}\nEmail: ${form.email}\nPhone: ${form.phone}\nService: ${form.service}\n\n${form.message}`,
+    );
+    window.location.href = `mailto:${site.email.primary}?subject=${subject}&body=${body}`;
+  };
+
+  const handleSubmit = async (e: React.FormEvent) => {
+    e.preventDefault();
+    if (form.botcheck) return; // bot caught
+    setStatus("submitting");
+
+    // No backend key configured → use the email-client fallback.
+    if (!ACCESS_KEY) {
+      mailtoFallback();
+      setTimeout(() => setStatus("success"), 600);
+      return;
+    }
+
+    try {
+      const res = await fetch("https://api.web3forms.com/submit", {
+        method: "POST",
+        headers: { "Content-Type": "application/json", Accept: "application/json" },
+        body: JSON.stringify({
+          access_key: ACCESS_KEY,
+          subject: `New website enquiry${form.service ? ` — ${form.service}` : ""} from ${form.name}`,
+          from_name: `${site.shortName} Website`,
+          name: form.name,
+          email: form.email,
+          phone: form.phone,
+          service: form.service,
+          message: form.message,
+        }),
+      });
+      const data = await res.json();
+      setStatus(data.success ? "success" : "error");
+    } catch {
+      setStatus("error");
+    }
+  };
+
+  if (status === "success") {
+    return (
+      <div className="flex flex-col items-center justify-center rounded-2xl border border-navy-100 bg-teal-50/60 p-10 text-center">
+        <CheckCircle2 className="h-12 w-12 text-teal-500" />
+        <h3 className="mt-4 font-display text-xl font-bold text-navy-900">
+          Thank you!
+        </h3>
+        <p className="mt-2 max-w-sm text-sm text-navy-600">
+          Your message has been sent. One of our representatives will get back to
+          you as soon as possible.
+        </p>
+      </div>
+    );
+  }
+
+  const fieldClass =
+    "w-full rounded-lg border border-navy-200 bg-white px-4 py-3 text-sm text-navy-900 placeholder:text-navy-400 transition-colors focus:border-teal-500 focus:outline-none focus:ring-2 focus:ring-teal-500/15";
+
+  return (
+    <form onSubmit={handleSubmit} className="space-y-4">
+      {/* Honeypot field — hidden from humans */}
+      <input
+        type="text"
+        name="botcheck"
+        value={form.botcheck}
+        onChange={update("botcheck")}
+        className="hidden"
+        tabIndex={-1}
+        autoComplete="off"
+        aria-hidden="true"
+      />
+
+      <div className="grid gap-4 sm:grid-cols-2">
+        <div>
+          <label htmlFor="name" className="mb-1.5 block text-sm font-medium text-navy-800">
+            Name <span className="text-teal-600">*</span>
+          </label>
+          <input
+            id="name"
+            required
+            value={form.name}
+            onChange={update("name")}
+            className={fieldClass}
+            placeholder="Your full name"
+          />
+        </div>
+        <div>
+          <label htmlFor="email" className="mb-1.5 block text-sm font-medium text-navy-800">
+            Email <span className="text-teal-600">*</span>
+          </label>
+          <input
+            id="email"
+            type="email"
+            required
+            value={form.email}
+            onChange={update("email")}
+            className={fieldClass}
+            placeholder="you@company.com"
+          />
+        </div>
+      </div>
+
+      <div className="grid gap-4 sm:grid-cols-2">
+        <div>
+          <label htmlFor="phone" className="mb-1.5 block text-sm font-medium text-navy-800">
+            Phone Number <span className="text-teal-600">*</span>
+          </label>
+          <input
+            id="phone"
+            type="tel"
+            required
+            value={form.phone}
+            onChange={update("phone")}
+            className={fieldClass}
+            placeholder="+971 ..."
+          />
+        </div>
+        <div>
+          <label htmlFor="service" className="mb-1.5 block text-sm font-medium text-navy-800">
+            Service of Interest
+          </label>
+          <select
+            id="service"
+            value={form.service}
+            onChange={update("service")}
+            className={fieldClass}
+          >
+            <option value="">Select a service</option>
+            <option>Accounting &amp; Bookkeeping</option>
+            <option>Corporate Tax</option>
+            <option>VAT / Tax Services</option>
+            <option>Company Setup (Mainland / Free Zone)</option>
+            <option>Advisory / Business Consulting</option>
+            <option>Audit</option>
+            <option>Other</option>
+          </select>
+        </div>
+      </div>
+
+      <div>
+        <label htmlFor="message" className="mb-1.5 block text-sm font-medium text-navy-800">
+          Message
+        </label>
+        <textarea
+          id="message"
+          rows={5}
+          value={form.message}
+          onChange={update("message")}
+          className={fieldClass}
+          placeholder="Tell us briefly how we can help…"
+        />
+      </div>
+
+      {status === "error" && (
+        <div className="flex items-center gap-2 rounded-lg bg-red-50 px-4 py-3 text-sm text-red-700">
+          <AlertCircle className="h-4 w-4 shrink-0" />
+          Something went wrong. Please try again, or email us at {site.email.primary}.
+        </div>
+      )}
+
+      <button
+        type="submit"
+        disabled={status === "submitting"}
+        className="btn-gold w-full disabled:opacity-70"
+      >
+        {status === "submitting" ? "Sending…" : "Get Help Now"}
+        <Send className="h-4 w-4" />
+      </button>
+      <p className="text-center text-xs text-navy-400">
+        We respect your privacy. Your details are only used to respond to your
+        enquiry.
+      </p>
+    </form>
+  );
+}

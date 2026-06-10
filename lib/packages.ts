@@ -1,1 +1,187 @@
-{"data":"LyoqCiAqIFNlcnZpY2UgcGFja2FnZXMuCiAqCiAqIE5PVEU6IFByaWNlcyBhcmUgaW50ZW50aW9uYWxseSBOT1QgZGlzcGxheWVkIG9uIHRoZSB3ZWJzaXRlIOKAlCB0aGUgUGFja2FnZXMKICogcGFnZSBzaG93cyAiUHJpY2luZyBvbiByZXF1ZXN0IiBhbmQgYSAiUmVxdWVzdCBhIFF1b3RlIiBDVEEgaW5zdGVhZC4gVGhlCiAqIGBwcmljZWAgLyBgcGVyaW9kYCB2YWx1ZXMgYmVsb3cgYXJlIGtlcHQgZm9yIGludGVybmFsIHJlZmVyZW5jZSBvbmx5IChzb3VyY2VkCiAqIGZyb20gdGhlIG9yaWdpbmFsIFdvcmRQcmVzcyBzaXRlKS4gVG8gc2hvdyBwcmljZXMgYWdhaW4sIHJlLWFkZCB0aGUgcHJpY2UKICogYmxvY2sgaW4gYGFwcC9wYWNrYWdlcy9wYWdlLnRzeGAuCiAqLwoKZXhwb3J0IHR5cGUgUGFja2FnZSA9IHsKICBuYW1lOiBzdHJpbmc7CiAgc3VidGl0bGU/OiBzdHJpbmc7CiAgcHJpY2U6IHN0cmluZzsKICBwZXJpb2Q/OiBzdHJpbmc7CiAgZmVhdHVyZXM6IHN0cmluZ1tdOwogIGZlYXR1cmVkPzogYm9vbGVhbjsKfTsKCmV4cG9ydCB0eXBlIFBhY2thZ2VHcm91cCA9IHsKICBpZDogc3RyaW5nOwogIHRpdGxlOiBzdHJpbmc7CiAgaW50cm8/OiBzdHJpbmc7CiAgcGFja2FnZXM6IFBhY2thZ2VbXTsKfTsKCmNvbnN0IGFjY291bnRpbmdGZWF0dXJlcyA9IFsKICAiTW9udGhseSBmaW5hbmNpYWwgcmVwb3J0czogUHJvZml0ICYgTG9zcyBTdGF0ZW1lbnQgYW5kIEJhbGFuY2UgU2hlZXQiLAogICJDb21wcmVoZW5zaXZlIGJvb2trZWVwaW5nIGFuZCBqb3VybmFsIGVudHJpZXMiLAogICJBY2N1cmF0ZSBjYWxjdWxhdGlvbiBvZiBwYXJ0bmVycycgY3VycmVudCBhY2NvdW50cyIsCiAgIkJhbmsgcmVjb25jaWxpYXRpb24sIHByZXBhaWQgZXhwZW5zZXMsIGRlcHJlY2lhdGlvbiwgYW1vcnRpc2F0aW9uIGFuZCBhc3NldCBtYW5hZ2VtZW50IiwKICAiRGVidG9ycyBhbmQgY3JlZGl0b3JzIGJhbGFuY2VzIiwKICAiUGF5cm9sbCBhbmQgZW1wbG95ZWVzJyBlbmQtb2Ytc2VydmljZSBjYWxjdWxhdGlvbiIsCiAgIlF1YXJ0ZXJseSBWQVQgcmV0dXJuIHN1Ym1pc3Npb24iLAogICJUYXggY29uc3VsdGFuY3kgKFZBVCAvIEV4Y2lzZSkiLAogICJUUk4gcmVnaXN0cmF0aW9uIChWQVQgLyBFeGNpc2UpIiwKICAiVkFUIHJldHVybiBmaWxpbmcgJiByZXBvcnRpbmciLAogICJBbm51YWwgRlRBIGFjY291bnQgYW1lbmRtZW50cyIsCiAgIkRvY3VtZW50IGFyY2hpdmluZyBmb3IgNSB5ZWFycyIsCl07CgpleHBvcnQgY29uc3QgcGFja2FnZUdyb3VwczogUGFja2FnZUdyb3VwW10gPSBbCiAgewogICAgaWQ6ICJhY2NvdW50aW5nIiwKICAgIHRpdGxlOiAiQWNjb3VudGluZyBQYWNrYWdlcyIsCiAgICBpbnRybzoKICAgICAgIkZ1bGwtc2VydmljZSBtb250aGx5IGJvb2trZWVwaW5nIGFuZCBhY2NvdW50aW5nLCB3aXRoIFZBVCBjb21wbGlhbmNlIGJ1aWx0IGluLiIsCiAgICBwYWNrYWdlczogWwogICAgICB7CiAgICAgICAgbmFtZTogIkJhc2ljIiwKICAgICAgICBzdWJ0aXRsZTogIjHigJMyNTAgdm91Y2hlcnMgLyB0cmFuc2FjdGlvbnMiLAogICAgICAgIHByaWNlOiAiQUVEIDc1MCIsCiAgICAgICAgcGVyaW9kOiAiLyBtb250aCIsCiAgICAgICAgZmVhdHVyZXM6IGFjY291bnRpbmdGZWF0dXJlcywKICAgICAgfSwKICAgICAgewogICAgICAgIG5hbWU6ICJTdGFuZGFyZCIsCiAgICAgICAgc3VidGl0bGU6ICIx4oCTNTAwIHZvdWNoZXJzIC8gdHJhbnNhY3Rpb25zIiwKICAgICAgICBwcmljZTogIkFFRCAxLDAwMCIsCiAgICAgICAgcGVyaW9kOiAiLyBtb250aCIsCiAgICAgICAgZmVhdHVyZWQ6IHRydWUsCiAgICAgICAgZmVhdHVyZXM6IGFjY291bnRpbmdGZWF0dXJlcywKICAgICAgfSwKICAgICAgewogICAgICAgIG5hbWU6ICJQcmVtaXVtIiwKICAgICAgICBzdWJ0aXRsZTogIlRhaWxvcmVkIGp1c3QgZm9yIHlvdSIsCiAgICAgICAgcHJpY2U6ICJDdXN0b21pc2VkIiwKICAgICAgICBmZWF0dXJlczogWwogICAgICAgICAgIkEgcGFja2FnZSB0YWlsb3JlZCB0byB5b3VyIGV4YWN0IG5lZWRzIGFuZCByZXF1aXJlbWVudHMiLAogICAgICAgICAgIkZ1bGwgYm9va2tlZXBpbmcgYW5kIHRheGF0aW9uIHNlcnZpY2VzIiwKICAgICAgICAgICJBIGRlZGljYXRlZCBhY2NvdW50YW50IGZvciB5b3VyIGJ1c2luZXNzIiwKICAgICAgICAgICJFdmVyeXRoaW5nIGluIHRoZSBTdGFuZGFyZCBwYWNrYWdlLCBzY2FsZWQgdG8geW91ciB2b2x1bWUiLAogICAgICAgIF0sCiAgICAgIH0sCiAgICBdLAogIH0sCiAgewogICAgaWQ6ICJ2YXQiLAogICAgdGl0bGU6ICJWQVQgUGFja2FnZXMiLAogICAgaW50cm86ICJGb2N1c2VkIFZBVCBjb21wbGlhbmNlIHBhY2thZ2VzIGJpbGxlZCBxdWFydGVybHkuIiwKICAgIHBhY2thZ2VzOiBbCiAgICAgIHsKICAgICAgICBuYW1lOiAiVkFUIFN1Ym1pc3Npb24iLAogICAgICAgIHByaWNlOiAiQUVEIDMwMCIsCiAgICAgICAgcGVyaW9kOiAiLyBxdWFydGVyIiwKICAgICAgICBmZWF0dXJlczogWwogICAgICAgICAgIlZBVCBoZWFsdGggY2hlY2siLAogICAgICAgICAgIlZBVCByZXR1cm4gc3VibWlzc2lvbiIsCiAgICAgICAgICAiUmVsYXRlZCBjb25zdWx0YW5jeSIsCiAgICAgICAgXSwKICAgICAgfSwKICAgICAgewogICAgICAgIG5hbWU6ICJUQVggU2VydmljZXMiLAogICAgICAgIHByaWNlOiAiRnJvbSBBRUQgNTAwIiwKICAgICAgICBwZXJpb2Q6ICIvIHF1YXJ0ZXIiLAogICAgICAgIGZlYXR1cmVkOiB0cnVlLAogICAgICAgIGZlYXR1cmVzOiBbCiAgICAgICAgICAiUmV2aWV3IGRhdGEgYW5kIHF1YWxpdHkgYXNzdXJhbmNlIiwKICAgICAgICAgICJWQVQgcmV0dXJuIHN1Ym1pc3Npb24iLAogICAgICAgICAgIlZBVCByZWZ1bmQiLAogICAgICAgICAgIlJlbGF0ZWQgY29uc3VsdGFuY3kiLAogICAgICAgIF0sCiAgICAgIH0sCiAgICAgIHsKICAgICAgICBuYW1lOiAiVkFUIEFjY291bnRpbmciLAogICAgICAgIHByaWNlOiAiRnJvbSBBRUQgNzUwIiwKICAgICAgICBwZXJpb2Q6ICIvIHF1YXJ0ZXIiLAogICAgICAgIGZlYXR1cmVzOiBbCiAgICAgICAgICAiUHJlcGFyaW5nIHRoZSBWQVQgcmV0dXJuIiwKICAgICAgICAgICJWQVQgcmV0dXJuIHN1Ym1pc3Npb24iLAogICAgICAgICAgIlJldmlldyBhbmQgcXVhbGl0eSBhc3N1cmFuY2UiLAogICAgICAgICAgIlZBVCByZWZ1bmQiLAogICAgICAgICAgIlJlbGF0ZWQgY29uc3VsdGFuY3kiLAogICAgICAgIF0sCiAgICAgIH0sCiAgICBdLAogIH0sCiAgewogICAgaWQ6ICJvdGhlciIsCiAgICB0aXRsZTogIk90aGVyIFBhY2thZ2VzIiwKICAgIGludHJvOiAiT25lLXRpbWUgYW5kIHNwZWNpYWxpc3Qgc2VydmljZXMgZm9yIHNwZWNpZmljIGNvbXBsaWFuY2UgbmVlZHMuIiwKICAgIHBhY2thZ2VzOiBbCiAgICAgIHsKICAgICAgICBuYW1lOiAiVkFUIC8gRXhjaXNlIFJlZ2lzdHJhdGlvbiIsCiAgICAgICAgcHJpY2U6ICJBRUQgNDAwIiwKICAgICAgICBwZXJpb2Q6ICJvbmUgdGltZSIsCiAgICAgICAgZmVhdHVyZXM6IFsiVFJOIHJlZ2lzdHJhdGlvbiIsICJSZWxhdGVkIGNvbnN1bHRhbmN5Il0sCiAgICAgIH0sCiAgICAgIHsKICAgICAgICBuYW1lOiAiVkFUIC8gRXhjaXNlIERlLVJlZ2lzdHJhdGlvbiIsCiAgICAgICAgcHJpY2U6ICJBRUQgODAwIiwKICAgICAgICBwZXJpb2Q6ICJvbmUgdGltZSIsCiAgICAgICAgZmVhdHVyZXM6IFsiVFJOIGRlLXJlZ2lzdHJhdGlvbiIsICJMYXN0LXF1YXJ0ZXIgVkFUIHJldHVybiBmaWxpbmciXSwKICAgICAgfSwKICAgICAgewogICAgICAgIG5hbWU6ICJGVEEgQWNjb3VudCBVcGRhdGUiLAogICAgICAgIHByaWNlOiAiQUVEIDMwMCIsCiAgICAgICAgcGVyaW9kOiAib25lIHRpbWUiLAogICAgICAgIGZlYXR1cmVzOiBbIkZUQSBhY2NvdW50IGFtZW5kbWVudHMgKGFubnVhbGx5KSIsICJGVEEgY29tbXVuaWNhdGlvbiJdLAogICAgICB9LAogICAgICB7CiAgICAgICAgbmFtZTogIlJlY29uc2lkZXJhdGlvbiIsCiAgICAgICAgcHJpY2U6ICJBRUQgMSwwMDAiLAogICAgICAgIHBlcmlvZDogIm9uZSB0aW1lIiwKICAgICAgICBmZWF0dXJlczogWwogICAgICAgICAgIlJlY29uc2lkZXJhdGlvbiBhcHBsaWNhdGlvbiBmb3IgVkFUIC8gRXhjaXNlLXJlbGF0ZWQgcGVuYWx0aWVzIiwKICAgICAgICBdLAogICAgICB9LAogICAgICB7CiAgICAgICAgbmFtZTogIlVBRSBOYXRpb25hbCBWQVQgUmVmdW5kIiwKICAgICAgICBwcmljZTogIkFzIHBlciByZWZ1bmQgYW1vdW50IiwKICAgICAgICBmZWF0dXJlczogWwogICAgICAgICAgIlByZXBhcmF0aW9uIG9mIHJlbGV2YW50IGRvY3VtZW50cyIsCiAgICAgICAgICAiRlRBIGNvbW11bmljYXRpb24iLAogICAgICAgIF0sCiAgICAgIH0sCiAgICAgIHsKICAgICAgICBuYW1lOiAiVkFUIEF1ZGl0aW5nIiwKICAgICAgICBwcmljZTogIkZyb20gQUVEIDIsMDAwIiwKICAgICAgICBmZWF0dXJlczogWyJWQVQgYXVkaXRpbmcgJiByZXBvcnRpbmciLCAiRlRBIGNvbW11bmljYXRpb24iXSwKICAgICAgfSwKICAgICAgewogICAgICAgIG5hbWU6ICJBdWRpdGluZyBTZXJ2aWNlIiwKICAgICAgICBwcmljZTogIkZyb20gQUVEIDEsNTAwIiwKICAgICAgICBmZWF0dXJlczogWyJBbm51YWwgZmluYW5jaWFsIGF1ZGl0IiwgIkF1dGhvcmlzZWQgYXVkaXQgcmVwb3J0Il0sCiAgICAgIH0sCiAgICAgIHsKICAgICAgICBuYW1lOiAiVEFYIENvbnN1bHRpbmciLAogICAgICAgIHByaWNlOiAiQ3VzdG9taXNlZCIsCiAgICAgICAgZmVhdHVyZXM6IFsKICAgICAgICAgICJRdWFydGVybHkgVkFUIGZpbGluZyBzdWJtaXNzaW9uIiwKICAgICAgICAgICJUYXggY29uc3VsdGluZyBhbmQgY29tcGxpYW5jZSIsCiAgICAgICAgXSwKICAgICAgfSwKICAgICAgewogICAgICAgIG5hbWU6ICJUQVggQWdlbnQiLAogICAgICAgIHByaWNlOiAiQ3VzdG9taXNlZCIsCiAgICAgICAgZmVhdHVyZXM6IFsKICAgICAgICAgICJTdWJtaXQgdGF4IHJldHVybnMgdG8gdGhlIEZUQSIsCiAgICAgICAgICAiUmVjb25zaWRlcmF0aW9uIHJlcXVlc3RzIiwKICAgICAgICAgICJTdWJtaXQgdm9sdW50YXJ5IGRlY2xhcmF0aW9ucyB0byB0aGUgRlRBIiwKICAgICAgICAgICJUYXggY29uc3VsdGluZyBhbmQgY29tcGxpYW5jZSIsCiAgICAgICAgXSwKICAgICAgfSwKICAgIF0sCiAgfSwKXTsK"}
+/**
+ * Service packages.
+ *
+ * NOTE: Prices are intentionally NOT displayed on the website — the Packages
+ * page shows "Pricing on request" and a "Request a Quote" CTA instead. The
+ * `price` / `period` values below are kept for internal reference only (sourced
+ * from the original WordPress site). To show prices again, re-add the price
+ * block in `app/packages/page.tsx`.
+ */
+
+export type Package = {
+  name: string;
+  subtitle?: string;
+  price: string;
+  period?: string;
+  features: string[];
+  featured?: boolean;
+};
+
+export type PackageGroup = {
+  id: string;
+  title: string;
+  intro?: string;
+  packages: Package[];
+};
+
+const accountingFeatures = [
+  "Monthly financial reports: Profit & Loss Statement and Balance Sheet",
+  "Comprehensive bookkeeping and journal entries",
+  "Accurate calculation of partners' current accounts",
+  "Bank reconciliation, prepaid expenses, depreciation, amortisation and asset management",
+  "Debtors and creditors balances",
+  "Payroll and employees' end-of-service calculation",
+  "Quarterly VAT return submission",
+  "Tax consultancy (VAT / Excise)",
+  "TRN registration (VAT / Excise)",
+  "VAT return filing & reporting",
+  "Annual FTA account amendments",
+  "Document archiving for 5 years",
+];
+
+export const packageGroups: PackageGroup[] = [
+  {
+    id: "accounting",
+    title: "Accounting Packages",
+    intro:
+      "Full-service monthly bookkeeping and accounting, with VAT compliance built in.",
+    packages: [
+      {
+        name: "Basic",
+        subtitle: "1–250 vouchers / transactions",
+        price: "AED 750",
+        period: "/ month",
+        features: accountingFeatures,
+      },
+      {
+        name: "Standard",
+        subtitle: "1–500 vouchers / transactions",
+        price: "AED 1,000",
+        period: "/ month",
+        featured: true,
+        features: accountingFeatures,
+      },
+      {
+        name: "Premium",
+        subtitle: "Tailored just for you",
+        price: "Customised",
+        features: [
+          "A package tailored to your exact needs and requirements",
+          "Full bookkeeping and taxation services",
+          "A dedicated accountant for your business",
+          "Everything in the Standard package, scaled to your volume",
+        ],
+      },
+    ],
+  },
+  {
+    id: "vat",
+    title: "VAT Packages",
+    intro: "Focused VAT compliance packages billed quarterly.",
+    packages: [
+      {
+        name: "VAT Submission",
+        price: "AED 300",
+        period: "/ quarter",
+        features: [
+          "VAT health check",
+          "VAT return submission",
+          "Related consultancy",
+        ],
+      },
+      {
+        name: "TAX Services",
+        price: "From AED 500",
+        period: "/ quarter",
+        featured: true,
+        features: [
+          "Review data and quality assurance",
+          "VAT return submission",
+          "VAT refund",
+          "Related consultancy",
+        ],
+      },
+      {
+        name: "VAT Accounting",
+        price: "From AED 750",
+        period: "/ quarter",
+        features: [
+          "Preparing the VAT return",
+          "VAT return submission",
+          "Review and quality assurance",
+          "VAT refund",
+          "Related consultancy",
+        ],
+      },
+    ],
+  },
+  {
+    id: "other",
+    title: "Other Packages",
+    intro: "One-time and specialist services for specific compliance needs.",
+    packages: [
+      {
+        name: "VAT / Excise Registration",
+        price: "AED 400",
+        period: "one time",
+        features: ["TRN registration", "Related consultancy"],
+      },
+      {
+        name: "VAT / Excise De-Registration",
+        price: "AED 800",
+        period: "one time",
+        features: ["TRN de-registration", "Last-quarter VAT return filing"],
+      },
+      {
+        name: "FTA Account Update",
+        price: "AED 300",
+        period: "one time",
+        features: ["FTA account amendments (annually)", "FTA communication"],
+      },
+      {
+        name: "Reconsideration",
+        price: "AED 1,000",
+        period: "one time",
+        features: [
+          "Reconsideration application for VAT / Excise-related penalties",
+        ],
+      },
+      {
+        name: "UAE National VAT Refund",
+        price: "As per refund amount",
+        features: [
+          "Preparation of relevant documents",
+          "FTA communication",
+        ],
+      },
+      {
+        name: "VAT Auditing",
+        price: "From AED 2,000",
+        features: ["VAT auditing & reporting", "FTA communication"],
+      },
+      {
+        name: "Auditing Service",
+        price: "From AED 1,500",
+        features: ["Annual financial audit", "Authorised audit report"],
+      },
+      {
+        name: "TAX Consulting",
+        price: "Customised",
+        features: [
+          "Quarterly VAT filing submission",
+          "Tax consulting and compliance",
+        ],
+      },
+      {
+        name: "TAX Agent",
+        price: "Customised",
+        features: [
+          "Submit tax returns to the FTA",
+          "Reconsideration requests",
+          "Submit voluntary declarations to the FTA",
+          "Tax consulting and compliance",
+        ],
+      },
+    ],
+  },
+];

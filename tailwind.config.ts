@@ -1,1 +1,102 @@
-{"data":"aW1wb3J0IHR5cGUgeyBDb25maWcgfSBmcm9tICJ0YWlsd2luZGNzcyI7Cgpjb25zdCBjb25maWc6IENvbmZpZyA9IHsKICBjb250ZW50OiBbCiAgICAiLi9hcHAvKiovKi57anMsdHMsanN4LHRzeCxtZHh9IiwKICAgICIuL2NvbXBvbmVudHMvKiovKi57anMsdHMsanN4LHRzeCxtZHh9IiwKICAgICIuL2xpYi8qKi8qLntqcyx0cyxqc3gsdHN4LG1keH0iLAogIF0sCiAgdGhlbWU6IHsKICAgIGV4dGVuZDogewogICAgICBjb2xvcnM6IHsKICAgICAgICBuYXZ5OiB7CiAgICAgICAgICA1MDogIiNlZWYyZjciLAogICAgICAgICAgMTAwOiAiI2Q2ZTBlYyIsCiAgICAgICAgICAyMDA6ICIjYWViZmQ2IiwKICAgICAgICAgIDMwMDogIiM3ZTk4YmIiLAogICAgICAgICAgNDAwOiAiIzRmNmU5YiIsCiAgICAgICAgICA1MDA6ICIjMzQ1MTgyIiwKICAgICAgICAgIDYwMDogIiMyNDNkNjYiLAogICAgICAgICAgNzAwOiAiIzFhMmU0ZiIsCiAgICAgICAgICA4MDA6ICIjMTIyNDQwIiwKICAgICAgICAgIDkwMDogIiMwYjFiMzMiLAogICAgICAgICAgOTUwOiAiIzA3MTIyOCIsCiAgICAgICAgfSwKICAgICAgICBnb2xkOiB7CiAgICAgICAgICA1MDogIiNmYmY3ZWMiLAogICAgICAgICAgMTAwOiAiI2Y0ZWFkMCIsCiAgICAgICAgICAyMDA6ICIjZThkMjljIiwKICAgICAgICAgIDMwMDogIiNkY2I5NjgiLAogICAgICAgICAgNDAwOiAiI2QyYTU0NCIsCiAgICAgICAgICA1MDA6ICIjYzlhMjI3IiwKICAgICAgICAgIDYwMDogIiNhOTgzMWYiLAogICAgICAgICAgNzAwOiAiIzg2NjQxZCIsCiAgICAgICAgICA4MDA6ICIjNmY1MjFmIiwKICAgICAgICAgIDkwMDogIiM1ZjQ2MWYiLAogICAgICAgIH0sCiAgICAgICAgLy8gSUZaQS1pbnNwaXJlZCB0ZWFsIGFjY2VudAogICAgICAgIHRlYWw6IHsKICAgICAgICAgIDUwOiAiI2VkZmJmOCIsCiAgICAgICAgICAxMDA6ICIjY2ZmNGVjIiwKICAgICAgICAgIDIwMDogIiNhMGU5ZGEiLAogICAgICAgICAgMzAwOiAiIzY3ZDZjNCIsCiAgICAgICAgICA0MDA6ICIjMzNiZGFiIiwKICAgICAgICAgIDUwMDogIiMxNGE1OTYiLAogICAgICAgICAgNjAwOiAiIzBjODQ3OSIsCiAgICAgICAgICA3MDA6ICIjMGU2OTYyIiwKICAgICAgICAgIDgwMDogIiMxMTU0NGYiLAogICAgICAgICAgOTAwOiAiIzEyM2YzYiIsCiAgICAgICAgICA5NTA6ICIjMDQyMDFkIiwKICAgICAgICB9LAogICAgICAgIC8vIE5lYXItYmxhY2ssIHRlYWwtdGludGVkIGRhcmsgZm9yIGNpbmVtYXRpYyBzZWN0aW9ucwogICAgICAgIGluazogewogICAgICAgICAgNzAwOiAiIzBmMjcyMyIsCiAgICAgICAgICA4MDA6ICIjMGExYzE5IiwKICAgICAgICAgIDkwMDogIiMwNzE0MTEiLAogICAgICAgICAgOTUwOiAiIzA0MGMwYSIsCiAgICAgICAgfSwKICAgICAgfSwKICAgICAgZm9udEZhbWlseTogewogICAgICAgIHNhbnM6IFsidmFyKC0tZm9udC1pbnRlcikiLCAic3lzdGVtLXVpIiwgInNhbnMtc2VyaWYiXSwKICAgICAgICBkaXNwbGF5OiBbInZhcigtLWZvbnQtamFrYXJ0YSkiLCAidmFyKC0tZm9udC1pbnRlcikiLCAic2Fucy1zZXJpZiJdLAogICAgICB9LAogICAgICBib3hTaGFkb3c6IHsKICAgICAgICBjYXJkOiAiMCAxcHggM3B4IHJnYmEoMTEsMjcsNTEsMC4wNiksIDAgMTJweCAzMnB4IC0xMnB4IHJnYmEoMTEsMjcsNTEsMC4xMikiLAogICAgICAgICJjYXJkLWhvdmVyIjoKICAgICAgICAgICIwIDRweCAxMnB4IHJnYmEoMTEsMjcsNTEsMC4wOCksIDAgMjRweCA0OHB4IC0xNnB4IHJnYmEoMTEsMjcsNTEsMC4yMikiLAogICAgICB9LAogICAgICBrZXlmcmFtZXM6IHsKICAgICAgICAiZmFkZS11cCI6IHsKICAgICAgICAgICIwJSI6IHsgb3BhY2l0eTogIjAiLCB0cmFuc2Zvcm06ICJ0cmFuc2xhdGVZKDI0cHgpIiB9LAogICAgICAgICAgIjEwMCUiOiB7IG9wYWNpdHk6ICIxIiwgdHJhbnNmb3JtOiAidHJhbnNsYXRlWSgwKSIgfSwKICAgICAgICB9LAogICAgICAgIGtlbmJ1cm5zOiB7CiAgICAgICAgICAiMCUiOiB7IHRyYW5zZm9ybTogInNjYWxlKDEpIHRyYW5zbGF0ZVkoMCkiIH0sCiAgICAgICAgICAiMTAwJSI6IHsgdHJhbnNmb3JtOiAic2NhbGUoMS4xMikgdHJhbnNsYXRlWSgtMS41JSkiIH0sCiAgICAgICAgfSwKICAgICAgICBtYXJxdWVlOiB7CiAgICAgICAgICAiMCUiOiB7IHRyYW5zZm9ybTogInRyYW5zbGF0ZVgoMCkiIH0sCiAgICAgICAgICAiMTAwJSI6IHsgdHJhbnNmb3JtOiAidHJhbnNsYXRlWCgtNTAlKSIgfSwKICAgICAgICB9LAogICAgICAgICJzY3JvbGwtY3VlIjogewogICAgICAgICAgIjAlLCAxMDAlIjogeyB0cmFuc2Zvcm06ICJ0cmFuc2xhdGVZKDApIiwgb3BhY2l0eTogIjAuNCIgfSwKICAgICAgICAgICI1MCUiOiB7IHRyYW5zZm9ybTogInRyYW5zbGF0ZVkoN3B4KSIsIG9wYWNpdHk6ICIxIiB9LAogICAgICAgIH0sCiAgICAgICAgZmxvYXQ6IHsKICAgICAgICAgICIwJSwgMTAwJSI6IHsgdHJhbnNmb3JtOiAidHJhbnNsYXRlWSgwKSIgfSwKICAgICAgICAgICI1MCUiOiB7IHRyYW5zZm9ybTogInRyYW5zbGF0ZVkoLTEwcHgpIiB9LAogICAgICAgIH0sCiAgICAgIH0sCiAgICAgIGFuaW1hdGlvbjogewogICAgICAgICJmYWRlLXVwIjogImZhZGUtdXAgMC43cyBjdWJpYy1iZXppZXIoMC4xNiwxLDAuMywxKSBmb3J3YXJkcyIsCiAgICAgICAga2VuYnVybnM6ICJrZW5idXJucyAxOHMgZWFzZS1vdXQgZm9yd2FyZHMiLAogICAgICAgIG1hcnF1ZWU6ICJtYXJxdWVlIDMycyBsaW5lYXIgaW5maW5pdGUiLAogICAgICAgICJzY3JvbGwtY3VlIjogInNjcm9sbC1jdWUgMS42cyBlYXNlLWluLW91dCBpbmZpbml0ZSIsCiAgICAgICAgZmxvYXQ6ICJmbG9hdCA2cyBlYXNlLWluLW91dCBpbmZpbml0ZSIsCiAgICAgIH0sCiAgICB9LAogIH0sCiAgcGx1Z2luczogW10sCn07CgpleHBvcnQgZGVmYXVsdCBjb25maWc7Cg=="}
+import type { Config } from "tailwindcss";
+
+const config: Config = {
+  content: [
+    "./app/**/*.{js,ts,jsx,tsx,mdx}",
+    "./components/**/*.{js,ts,jsx,tsx,mdx}",
+    "./lib/**/*.{js,ts,jsx,tsx,mdx}",
+  ],
+  theme: {
+    extend: {
+      colors: {
+        navy: {
+          50: "#eef2f7",
+          100: "#d6e0ec",
+          200: "#aebfd6",
+          300: "#7e98bb",
+          400: "#4f6e9b",
+          500: "#345182",
+          600: "#243d66",
+          700: "#1a2e4f",
+          800: "#122440",
+          900: "#0b1b33",
+          950: "#071228",
+        },
+        gold: {
+          50: "#fbf7ec",
+          100: "#f4ead0",
+          200: "#e8d29c",
+          300: "#dcb968",
+          400: "#d2a544",
+          500: "#c9a227",
+          600: "#a9831f",
+          700: "#86641d",
+          800: "#6f521f",
+          900: "#5f461f",
+        },
+        // IFZA-inspired teal accent
+        teal: {
+          50: "#edfbf8",
+          100: "#cff4ec",
+          200: "#a0e9da",
+          300: "#67d6c4",
+          400: "#33bdab",
+          500: "#14a596",
+          600: "#0c8479",
+          700: "#0e6962",
+          800: "#11544f",
+          900: "#123f3b",
+          950: "#04201d",
+        },
+        // Near-black, teal-tinted dark for cinematic sections
+        ink: {
+          700: "#0f2723",
+          800: "#0a1c19",
+          900: "#071411",
+          950: "#040c0a",
+        },
+      },
+      fontFamily: {
+        sans: ["var(--font-inter)", "system-ui", "sans-serif"],
+        display: ["var(--font-jakarta)", "var(--font-inter)", "sans-serif"],
+      },
+      boxShadow: {
+        card: "0 1px 3px rgba(11,27,51,0.06), 0 12px 32px -12px rgba(11,27,51,0.12)",
+        "card-hover":
+          "0 4px 12px rgba(11,27,51,0.08), 0 24px 48px -16px rgba(11,27,51,0.22)",
+      },
+      keyframes: {
+        "fade-up": {
+          "0%": { opacity: "0", transform: "translateY(24px)" },
+          "100%": { opacity: "1", transform: "translateY(0)" },
+        },
+        kenburns: {
+          "0%": { transform: "scale(1) translateY(0)" },
+          "100%": { transform: "scale(1.12) translateY(-1.5%)" },
+        },
+        marquee: {
+          "0%": { transform: "translateX(0)" },
+          "100%": { transform: "translateX(-50%)" },
+        },
+        "scroll-cue": {
+          "0%, 100%": { transform: "translateY(0)", opacity: "0.4" },
+          "50%": { transform: "translateY(7px)", opacity: "1" },
+        },
+        float: {
+          "0%, 100%": { transform: "translateY(0)" },
+          "50%": { transform: "translateY(-10px)" },
+        },
+      },
+      animation: {
+        "fade-up": "fade-up 0.7s cubic-bezier(0.16,1,0.3,1) forwards",
+        kenburns: "kenburns 18s ease-out forwards",
+        marquee: "marquee 32s linear infinite",
+        "scroll-cue": "scroll-cue 1.6s ease-in-out infinite",
+        float: "float 6s ease-in-out infinite",
+      },
+    },
+  },
+  plugins: [],
+};
+
+export default config;

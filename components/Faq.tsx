@@ -1,1 +1,48 @@
-{"data":"InVzZSBjbGllbnQiOwoKaW1wb3J0IHsgdXNlU3RhdGUgfSBmcm9tICJyZWFjdCI7CmltcG9ydCB7IFBsdXMgfSBmcm9tICJsdWNpZGUtcmVhY3QiOwoKZXhwb3J0IHR5cGUgRmFxSXRlbSA9IHsgcTogc3RyaW5nOyBhOiBzdHJpbmcgfTsKCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIEZhcSh7IGl0ZW1zIH06IHsgaXRlbXM6IEZhcUl0ZW1bXSB9KSB7CiAgY29uc3QgW29wZW4sIHNldE9wZW5dID0gdXNlU3RhdGU8bnVtYmVyIHwgbnVsbD4oMCk7CgogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT0ibXgtYXV0byBtYXgtdy0zeGwgZGl2aWRlLXkgZGl2aWRlLW5hdnktMTAwIG92ZXJmbG93LWhpZGRlbiByb3VuZGVkLTJ4bCBib3JkZXIgYm9yZGVyLW5hdnktMTAwIGJnLXdoaXRlIj4KICAgICAge2l0ZW1zLm1hcCgoaXRlbSwgaSkgPT4gewogICAgICAgIGNvbnN0IGlzT3BlbiA9IG9wZW4gPT09IGk7CiAgICAgICAgcmV0dXJuICgKICAgICAgICAgIDxkaXYga2V5PXtpdGVtLnF9PgogICAgICAgICAgICA8YnV0dG9uCiAgICAgICAgICAgICAgdHlwZT0iYnV0dG9uIgogICAgICAgICAgICAgIG9uQ2xpY2s9eygpID0+IHNldE9wZW4oaXNPcGVuID8gbnVsbCA6IGkpfQogICAgICAgICAgICAgIGFyaWEtZXhwYW5kZWQ9e2lzT3Blbn0KICAgICAgICAgICAgICBjbGFzc05hbWU9ImZsZXggdy1mdWxsIGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWJldHdlZW4gZ2FwLTQgcHgtNiBweS01IHRleHQtbGVmdCB0cmFuc2l0aW9uLWNvbG9ycyBob3ZlcjpiZy10ZWFsLTUwLzUwIgogICAgICAgICAgICA+CiAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJmb250LWRpc3BsYXkgdGV4dC1iYXNlIGZvbnQtc2VtaWJvbGQgdGV4dC1uYXZ5LTkwMCBzbTp0ZXh0LWxnIj4KICAgICAgICAgICAgICAgIHtpdGVtLnF9CiAgICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICAgIDxQbHVzCiAgICAgICAgICAgICAgICBjbGFzc05hbWU9e2BoLTUgdy01IHNocmluay0wIHRleHQtdGVhbC02MDAgdHJhbnNpdGlvbi10cmFuc2Zvcm0gZHVyYXRpb24tMzAwICR7CiAgICAgICAgICAgICAgICAgIGlzT3BlbiA/ICJyb3RhdGUtNDUiIDogIiIKICAgICAgICAgICAgICAgIH1gfQogICAgICAgICAgICAgIC8+CiAgICAgICAgICAgIDwvYnV0dG9uPgogICAgICAgICAgICA8ZGl2CiAgICAgICAgICAgICAgY2xhc3NOYW1lPXtgZ3JpZCB0cmFuc2l0aW9uLWFsbCBkdXJhdGlvbi0zMDAgZWFzZS1vdXQgJHsKICAgICAgICAgICAgICAgIGlzT3BlbiA/ICJncmlkLXJvd3MtWzFmcl0gb3BhY2l0eS0xMDAiIDogImdyaWQtcm93cy1bMGZyXSBvcGFjaXR5LTAiCiAgICAgICAgICAgICAgfWB9CiAgICAgICAgICAgID4KICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ib3ZlcmZsb3ctaGlkZGVuIj4KICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0icHgtNiBwYi01IGxlYWRpbmctcmVsYXhlZCB0ZXh0LW5hdnktNjAwIj4KICAgICAgICAgICAgICAgICAge2l0ZW0uYX0KICAgICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICApOwogICAgICB9KX0KICAgIDwvZGl2PgogICk7Cn0K"}
+"use client";
+
+import { useState } from "react";
+import { Plus } from "lucide-react";
+
+export type FaqItem = { q: string; a: string };
+
+export default function Faq({ items }: { items: FaqItem[] }) {
+  const [open, setOpen] = useState<number | null>(0);
+
+  return (
+    <div className="mx-auto max-w-3xl divide-y divide-navy-100 overflow-hidden rounded-2xl border border-navy-100 bg-white">
+      {items.map((item, i) => {
+        const isOpen = open === i;
+        return (
+          <div key={item.q}>
+            <button
+              type="button"
+              onClick={() => setOpen(isOpen ? null : i)}
+              aria-expanded={isOpen}
+              className="flex w-full items-center justify-between gap-4 px-6 py-5 text-left transition-colors hover:bg-teal-50/50"
+            >
+              <span className="font-display text-base font-semibold text-navy-900 sm:text-lg">
+                {item.q}
+              </span>
+              <Plus
+                className={`h-5 w-5 shrink-0 text-teal-600 transition-transform duration-300 ${
+                  isOpen ? "rotate-45" : ""
+                }`}
+              />
+            </button>
+            <div
+              className={`grid transition-all duration-300 ease-out ${
+                isOpen ? "grid-rows-[1fr] opacity-100" : "grid-rows-[0fr] opacity-0"
+              }`}
+            >
+              <div className="overflow-hidden">
+                <p className="px-6 pb-5 leading-relaxed text-navy-600">
+                  {item.a}
+                </p>
+              </div>
+            </div>
+          </div>
+        );
+      })}
+    </div>
+  );
+}

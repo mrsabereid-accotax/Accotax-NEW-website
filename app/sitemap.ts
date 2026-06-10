@@ -1,1 +1,31 @@
-{"data":"aW1wb3J0IHR5cGUgeyBNZXRhZGF0YVJvdXRlIH0gZnJvbSAibmV4dCI7CmltcG9ydCB7IHNpdGUgfSBmcm9tICJAL2xpYi9zaXRlIjsKaW1wb3J0IHsgc2VydmljZXMgfSBmcm9tICJAL2xpYi9zZXJ2aWNlcyI7CgpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBzaXRlbWFwKCk6IE1ldGFkYXRhUm91dGUuU2l0ZW1hcCB7CiAgY29uc3Qgbm93ID0gbmV3IERhdGUoKTsKICBjb25zdCBzdGF0aWNSb3V0ZXMgPSBbCiAgICAiIiwKICAgICIvYWJvdXQiLAogICAgIi9zZXJ2aWNlcyIsCiAgICAiL3BhY2thZ2VzIiwKICAgICIvY2FyZWVycyIsCiAgICAiL2NvbnRhY3QiLAogICAgIi9wcml2YWN5IiwKICAgICIvdGVybXMiLAogIF0ubWFwKChwYXRoKSA9PiAoewogICAgdXJsOiBgJHtzaXRlLnVybH0ke3BhdGh9YCwKICAgIGxhc3RNb2RpZmllZDogbm93LAogICAgY2hhbmdlRnJlcXVlbmN5OiAibW9udGhseSIgYXMgY29uc3QsCiAgICBwcmlvcml0eTogcGF0aCA9PT0gIiIgPyAxIDogcGF0aCA9PT0gIi9wcml2YWN5IiB8fCBwYXRoID09PSAiL3Rlcm1zIiA/IDAuMyA6IDAuOCwKICB9KSk7CgogIGNvbnN0IHNlcnZpY2VSb3V0ZXMgPSBzZXJ2aWNlcy5tYXAoKHMpID0+ICh7CiAgICB1cmw6IGAke3NpdGUudXJsfS9zZXJ2aWNlcy8ke3Muc2x1Z31gLAogICAgbGFzdE1vZGlmaWVkOiBub3csCiAgICBjaGFuZ2VGcmVxdWVuY3k6ICJtb250aGx5IiBhcyBjb25zdCwKICAgIHByaW9yaXR5OiAwLjcsCiAgfSkpOwoKICByZXR1cm4gWy4uLnN0YXRpY1JvdXRlcywgLi4uc2VydmljZVJvdXRlc107Cn0K"}
+import type { MetadataRoute } from "next";
+import { site } from "@/lib/site";
+import { services } from "@/lib/services";
+
+export default function sitemap(): MetadataRoute.Sitemap {
+  const now = new Date();
+  const staticRoutes = [
+    "",
+    "/about",
+    "/services",
+    "/packages",
+    "/careers",
+    "/contact",
+    "/privacy",
+    "/terms",
+  ].map((path) => ({
+    url: `${site.url}${path}`,
+    lastModified: now,
+    changeFrequency: "monthly" as const,
+    priority: path === "" ? 1 : path === "/privacy" || path === "/terms" ? 0.3 : 0.8,
+  }));
+
+  const serviceRoutes = services.map((s) => ({
+    url: `${site.url}/services/${s.slug}`,
+    lastModified: now,
+    changeFrequency: "monthly" as const,
+    priority: 0.7,
+  }));
+
+  return [...staticRoutes, ...serviceRoutes];
+}

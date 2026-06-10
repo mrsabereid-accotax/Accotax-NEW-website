@@ -1,1 +1,27 @@
-{"data":"aW1wb3J0IExpbmsgZnJvbSAibmV4dC9saW5rIjsKaW1wb3J0IHsgQXJyb3dSaWdodCB9IGZyb20gImx1Y2lkZS1yZWFjdCI7CmltcG9ydCBJY29uIGZyb20gIi4vSWNvbiI7CmltcG9ydCB0eXBlIHsgU2VydmljZSB9IGZyb20gIkAvbGliL3NlcnZpY2VzIjsKCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIFNlcnZpY2VDYXJkKHsgc2VydmljZSB9OiB7IHNlcnZpY2U6IFNlcnZpY2UgfSkgewogIHJldHVybiAoCiAgICA8TGluawogICAgICBocmVmPXtgL3NlcnZpY2VzLyR7c2VydmljZS5zbHVnfWB9CiAgICAgIGNsYXNzTmFtZT0iZ3JvdXAgcmVsYXRpdmUgZmxleCBoLWZ1bGwgZmxleC1jb2wgcm91bmRlZC0yeGwgYm9yZGVyIGJvcmRlci1uYXZ5LTEwMCBiZy13aGl0ZSBwLTcgc2hhZG93LWNhcmQgdHJhbnNpdGlvbi1hbGwgZHVyYXRpb24tMzAwIGhvdmVyOi10cmFuc2xhdGUteS0xIGhvdmVyOmJvcmRlci10ZWFsLTIwMCBob3ZlcjpzaGFkb3ctY2FyZC1ob3ZlciIKICAgID4KICAgICAgPHNwYW4gY2xhc3NOYW1lPSJpbmxpbmUtZmxleCBoLTEyIHctMTIgaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIHJvdW5kZWQteGwgYmctbmF2eS01MCB0ZXh0LW5hdnktNzAwIHRyYW5zaXRpb24tY29sb3JzIGR1cmF0aW9uLTMwMCBncm91cC1ob3ZlcjpiZy10ZWFsLTUwMCBncm91cC1ob3Zlcjp0ZXh0LW5hdnktOTUwIj4KICAgICAgICA8SWNvbiBuYW1lPXtzZXJ2aWNlLmljb259IGNsYXNzTmFtZT0iaC02IHctNiIgLz4KICAgICAgPC9zcGFuPgogICAgICA8aDMgY2xhc3NOYW1lPSJtdC01IGZvbnQtZGlzcGxheSB0ZXh0LWxnIGZvbnQtYm9sZCB0ZXh0LW5hdnktOTAwIj4KICAgICAgICB7c2VydmljZS50aXRsZX0KICAgICAgPC9oMz4KICAgICAgPHAgY2xhc3NOYW1lPSJtdC0yIGZsZXgtMSB0ZXh0LXNtIGxlYWRpbmctcmVsYXhlZCB0ZXh0LW5hdnktNjAwIj4KICAgICAgICB7c2VydmljZS5zdW1tYXJ5fQogICAgICA8L3A+CiAgICAgIDxzcGFuIGNsYXNzTmFtZT0ibXQtNSBpbmxpbmUtZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTEuNSB0ZXh0LXNtIGZvbnQtc2VtaWJvbGQgdGV4dC1uYXZ5LTgwMCB0cmFuc2l0aW9uLWNvbG9ycyBncm91cC1ob3Zlcjp0ZXh0LXRlYWwtNjAwIj4KICAgICAgICBMZWFybiBtb3JlCiAgICAgICAgPEFycm93UmlnaHQgY2xhc3NOYW1lPSJoLTQgdy00IHRyYW5zaXRpb24tdHJhbnNmb3JtIGdyb3VwLWhvdmVyOnRyYW5zbGF0ZS14LTEiIC8+CiAgICAgIDwvc3Bhbj4KICAgIDwvTGluaz4KICApOwp9Cg=="}
+import Link from "next/link";
+import { ArrowRight } from "lucide-react";
+import Icon from "./Icon";
+import type { Service } from "@/lib/services";
+
+export default function ServiceCard({ service }: { service: Service }) {
+  return (
+    <Link
+      href={`/services/${service.slug}`}
+      className="group relative flex h-full flex-col rounded-2xl border border-navy-100 bg-white p-7 shadow-card transition-all duration-300 hover:-translate-y-1 hover:border-teal-200 hover:shadow-card-hover"
+    >
+      <span className="inline-flex h-12 w-12 items-center justify-center rounded-xl bg-navy-50 text-navy-700 transition-colors duration-300 group-hover:bg-teal-500 group-hover:text-navy-950">
+        <Icon name={service.icon} className="h-6 w-6" />
+      </span>
+      <h3 className="mt-5 font-display text-lg font-bold text-navy-900">
+        {service.title}
+      </h3>
+      <p className="mt-2 flex-1 text-sm leading-relaxed text-navy-600">
+        {service.summary}
+      </p>
+      <span className="mt-5 inline-flex items-center gap-1.5 text-sm font-semibold text-navy-800 transition-colors group-hover:text-teal-600">
+        Learn more
+        <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-1" />
+      </span>
+    </Link>
+  );
+}

@@ -1,1 +1,74 @@
-{"data":"aW1wb3J0IHR5cGUgeyBNZXRhZGF0YSB9IGZyb20gIm5leHQiOwppbXBvcnQgUGFnZUhlcm8gZnJvbSAiQC9jb21wb25lbnRzL1BhZ2VIZXJvIjsKaW1wb3J0IFJldmVhbCBmcm9tICJAL2NvbXBvbmVudHMvUmV2ZWFsIjsKaW1wb3J0IFNlcnZpY2VDYXJkIGZyb20gIkAvY29tcG9uZW50cy9TZXJ2aWNlQ2FyZCI7CmltcG9ydCBDVEFTZWN0aW9uIGZyb20gIkAvY29tcG9uZW50cy9DVEFTZWN0aW9uIjsKaW1wb3J0IEljb24gZnJvbSAiQC9jb21wb25lbnRzL0ljb24iOwppbXBvcnQgewogIGNhdGVnb3JpZXMsCiAgc2VydmljZXNCeUNhdGVnb3J5LAogIHR5cGUgU2VydmljZUNhdGVnb3J5LAp9IGZyb20gIkAvbGliL3NlcnZpY2VzIjsKCmV4cG9ydCBjb25zdCBtZXRhZGF0YTogTWV0YWRhdGEgPSB7CiAgdGl0bGU6ICJTZXJ2aWNlcyIsCiAgZGVzY3JpcHRpb246CiAgICAiRXhwbG9yZSBBY2NvdGF4J3MgZnVsbCByYW5nZSBvZiBhY2NvdW50aW5nICYgYm9va2tlZXBpbmcsIHRheCAmIFZBVCwgYW5kIGFkdmlzb3J5IHNlcnZpY2VzIGZvciBidXNpbmVzc2VzIGFjcm9zcyB0aGUgVUFFLiIsCn07Cgpjb25zdCBvcmRlcjogU2VydmljZUNhdGVnb3J5W10gPSBbCiAgImFjY291bnRpbmciLAogICJjb3Jwb3JhdGUiLAogICJ0YXgiLAogICJhZHZpc29yeSIsCiAgInNldHVwIiwKXTsKCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIFNlcnZpY2VzUGFnZSgpIHsKICByZXR1cm4gKAogICAgPD4KICAgICAgPFBhZ2VIZXJvCiAgICAgICAgZXllYnJvdz0iT3VyIFNlcnZpY2VzIgogICAgICAgIHRpdGxlPSJFdmVyeXRoaW5nIHlvdXIgYnVzaW5lc3MgbmVlZHMsIHVuZGVyIG9uZSByb29mIgogICAgICAgIGRlc2NyaXB0aW9uPSJGcm9tIGRheS10by1kYXkgYm9va2tlZXBpbmcgdG8gRlRBIHJlcHJlc2VudGF0aW9uIGFuZCBzdHJhdGVnaWMgYWR2aXNvcnkg4oCUIGV4cGxvcmUgb3VyIGNvbXBsZXRlIGNhdGFsb2d1ZSBvZiBzZXJ2aWNlcyBmb3IgVUFFIGJ1c2luZXNzZXMuIgogICAgICAgIGJyZWFkY3J1bWI9e1t7IGxhYmVsOiAiSG9tZSIsIGhyZWY6ICIvIiB9LCB7IGxhYmVsOiAiU2VydmljZXMiIH1dfQogICAgICAvPgoKICAgICAge29yZGVyLm1hcCgoY2F0LCBpZHgpID0+IHsKICAgICAgICBjb25zdCBjID0gY2F0ZWdvcmllc1tjYXRdOwogICAgICAgIGNvbnN0IGxpc3QgPSBzZXJ2aWNlc0J5Q2F0ZWdvcnkoY2F0KTsKICAgICAgICByZXR1cm4gKAogICAgICAgICAgPHNlY3Rpb24KICAgICAgICAgICAga2V5PXtjYXR9CiAgICAgICAgICAgIGlkPXtjYXR9CiAgICAgICAgICAgIGNsYXNzTmFtZT17aWR4ICUgMiA9PT0gMCA/ICJiZy13aGl0ZSBweS0yMCBzbTpweS0yNCIgOiAiYmctbmF2eS01MC81MCBweS0yMCBzbTpweS0yNCJ9CiAgICAgICAgICA+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJjb250YWluZXIteCI+CiAgICAgICAgICAgICAgPFJldmVhbCBjbGFzc05hbWU9ImZsZXggZmxleC1jb2wgZ2FwLTQgc206ZmxleC1yb3cgc206aXRlbXMtY2VudGVyIHNtOmdhcC02Ij4KICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iaW5saW5lLWZsZXggaC0xNCB3LTE0IHNocmluay0wIGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciByb3VuZGVkLTJ4bCBiZy1ncmFkaWVudC10by1iciBmcm9tLWluay04MDAgdG8taW5rLTk1MCB0ZXh0LXRlYWwtNDAwIj4KICAgICAgICAgICAgICAgICAgPEljb24gbmFtZT17Yy5pY29ufSBjbGFzc05hbWU9ImgtNyB3LTciIC8+CiAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICA8aDIgY2xhc3NOYW1lPSJmb250LWRpc3BsYXkgdGV4dC0yeGwgZm9udC1ib2xkIHRyYWNraW5nLXRpZ2h0IHRleHQtbmF2eS05MDAgc206dGV4dC0zeGwiPgogICAgICAgICAgICAgICAgICAgIHtjLmxhYmVsfQogICAgICAgICAgICAgICAgICA8L2gyPgogICAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9Im10LTEgbWF4LXctMnhsIHRleHQtbmF2eS02MDAiPntjLnRhZ2xpbmV9PC9wPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPC9SZXZlYWw+CgogICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJtdC0xMCBncmlkIGdhcC02IHNtOmdyaWQtY29scy0yIGxnOmdyaWQtY29scy0zIj4KICAgICAgICAgICAgICAgIHtsaXN0Lm1hcCgoc2VydmljZSwgaSkgPT4gKAogICAgICAgICAgICAgICAgICA8UmV2ZWFsIGtleT17c2VydmljZS5zbHVnfSBkZWxheT17KGkgJSAzKSAqIDgwfT4KICAgICAgICAgICAgICAgICAgICA8U2VydmljZUNhcmQgc2VydmljZT17c2VydmljZX0gLz4KICAgICAgICAgICAgICAgICAgPC9SZXZlYWw+CiAgICAgICAgICAgICAgICApKX0KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L3NlY3Rpb24+CiAgICAgICAgKTsKICAgICAgfSl9CgogICAgICA8Q1RBU2VjdGlvbiAvPgogICAgPC8+CiAgKTsKfQo="}
+import type { Metadata } from "next";
+import PageHero from "@/components/PageHero";
+import Reveal from "@/components/Reveal";
+import ServiceCard from "@/components/ServiceCard";
+import CTASection from "@/components/CTASection";
+import Icon from "@/components/Icon";
+import {
+  categories,
+  servicesByCategory,
+  type ServiceCategory,
+} from "@/lib/services";
+
+export const metadata: Metadata = {
+  title: "Services",
+  description:
+    "Explore Accotax's full range of accounting & bookkeeping, tax & VAT, and advisory services for businesses across the UAE.",
+};
+
+const order: ServiceCategory[] = [
+  "accounting",
+  "corporate",
+  "tax",
+  "advisory",
+  "setup",
+];
+
+export default function ServicesPage() {
+  return (
+    <>
+      <PageHero
+        eyebrow="Our Services"
+        title="Everything your business needs, under one roof"
+        description="From day-to-day bookkeeping to FTA representation and strategic advisory — explore our complete catalogue of services for UAE businesses."
+        breadcrumb={[{ label: "Home", href: "/" }, { label: "Services" }]}
+      />
+
+      {order.map((cat, idx) => {
+        const c = categories[cat];
+        const list = servicesByCategory(cat);
+        return (
+          <section
+            key={cat}
+            id={cat}
+            className={idx % 2 === 0 ? "bg-white py-20 sm:py-24" : "bg-navy-50/50 py-20 sm:py-24"}
+          >
+            <div className="container-x">
+              <Reveal className="flex flex-col gap-4 sm:flex-row sm:items-center sm:gap-6">
+                <span className="inline-flex h-14 w-14 shrink-0 items-center justify-center rounded-2xl bg-gradient-to-br from-ink-800 to-ink-950 text-teal-400">
+                  <Icon name={c.icon} className="h-7 w-7" />
+                </span>
+                <div>
+                  <h2 className="font-display text-2xl font-bold tracking-tight text-navy-900 sm:text-3xl">
+                    {c.label}
+                  </h2>
+                  <p className="mt-1 max-w-2xl text-navy-600">{c.tagline}</p>
+                </div>
+              </Reveal>
+
+              <div className="mt-10 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+                {list.map((service, i) => (
+                  <Reveal key={service.slug} delay={(i % 3) * 80}>
+                    <ServiceCard service={service} />
+                  </Reveal>
+                ))}
+              </div>
+            </div>
+          </section>
+        );
+      })}
+
+      <CTASection />
+    </>
+  );
+}

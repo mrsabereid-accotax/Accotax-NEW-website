@@ -1,1 +1,41 @@
-{"data":"aW1wb3J0IExpbmsgZnJvbSAibmV4dC9saW5rIjsKaW1wb3J0IEJyYW5kTWFyayBmcm9tICIuL0JyYW5kTWFyayI7CmltcG9ydCB7IHNpdGUgfSBmcm9tICJAL2xpYi9zaXRlIjsKCi8qKgogKiBCcmFuZCBsb2dvOiByZWRlc2lnbmVkIFNWRyBsb2dvbWFyayArIHdvcmRtYXJrLgogKiAgLSAiZGFyayIgIOKGkiBmb3IgbGlnaHQgYmFja2dyb3VuZHMgKGhlYWRlcik6IG5hdnkgIkFjY28iICsgZ29sZCAidGF4IgogKiAgLSAibGlnaHQiIOKGkiBmb3IgZGFyayBiYWNrZ3JvdW5kcyAoZm9vdGVyKTogd2hpdGUgIkFjY28iICsgZ29sZCAidGF4IgogKi8KZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gTG9nbyh7CiAgdmFyaWFudCA9ICJkYXJrIiwKfTogewogIHZhcmlhbnQ/OiAiZGFyayIgfCAibGlnaHQiOwp9KSB7CiAgY29uc3Qgd29yZENvbG9yID0gdmFyaWFudCA9PT0gImxpZ2h0IiA/ICJ0ZXh0LXdoaXRlIiA6ICJ0ZXh0LW5hdnktOTAwIjsKICBjb25zdCBzdWJDb2xvciA9IHZhcmlhbnQgPT09ICJsaWdodCIgPyAidGV4dC1uYXZ5LTMwMCIgOiAidGV4dC1uYXZ5LTQwMCI7CgogIHJldHVybiAoCiAgICA8TGluawogICAgICBocmVmPSIvIgogICAgICBjbGFzc05hbWU9Imdyb3VwIGlubGluZS1mbGV4IGl0ZW1zLWNlbnRlciBnYXAtMyIKICAgICAgYXJpYS1sYWJlbD17YCR7c2l0ZS5uYW1lfSDigJQgaG9tZWB9CiAgICA+CiAgICAgIDxCcmFuZE1hcmsKICAgICAgICBjbGFzc05hbWU9e2BoLTExIHctMTEgc2hyaW5rLTAgdHJhbnNpdGlvbi10cmFuc2Zvcm0gZHVyYXRpb24tMzAwIGdyb3VwLWhvdmVyOnNjYWxlLTEwNSBzbTpoLTEyIHNtOnctMTIgJHsKICAgICAgICAgIHZhcmlhbnQgPT09ICJsaWdodCIgPyAidGV4dC13aGl0ZSIgOiAidGV4dC1pbmstOTAwIgogICAgICAgIH1gfQogICAgICAvPgogICAgICA8c3BhbiBjbGFzc05hbWU9ImZsZXggZmxleC1jb2wgbGVhZGluZy1ub25lIj4KICAgICAgICA8c3BhbiBjbGFzc05hbWU9e2Bmb250LWRpc3BsYXkgdGV4dC14bCBmb250LWV4dHJhYm9sZCB0cmFja2luZy10aWdodCAke3dvcmRDb2xvcn1gfT4KICAgICAgICAgIEFjY288c3BhbiBjbGFzc05hbWU9InRleHQtdGVhbC01MDAiPnRheDwvc3Bhbj4KICAgICAgICA8L3NwYW4+CiAgICAgICAgPHNwYW4KICAgICAgICAgIGNsYXNzTmFtZT17YG10LTEgdGV4dC1bOXB4XSBmb250LXNlbWlib2xkIHVwcGVyY2FzZSB0cmFja2luZy1bMC4yMmVtXSAke3N1YkNvbG9yfWB9CiAgICAgICAgPgogICAgICAgICAgQWNjb3VudGluZyDCtyBUYXggwrcgQWR2aXNvcnkKICAgICAgICA8L3NwYW4+CiAgICAgIDwvc3Bhbj4KICAgIDwvTGluaz4KICApOwp9Cg=="}
+import Link from "next/link";
+import BrandMark from "./BrandMark";
+import { site } from "@/lib/site";
+
+/**
+ * Brand logo: redesigned SVG logomark + wordmark.
+ *  - "dark"  → for light backgrounds (header): navy "Acco" + gold "tax"
+ *  - "light" → for dark backgrounds (footer): white "Acco" + gold "tax"
+ */
+export default function Logo({
+  variant = "dark",
+}: {
+  variant?: "dark" | "light";
+}) {
+  const wordColor = variant === "light" ? "text-white" : "text-navy-900";
+  const subColor = variant === "light" ? "text-navy-300" : "text-navy-400";
+
+  return (
+    <Link
+      href="/"
+      className="group inline-flex items-center gap-3"
+      aria-label={`${site.name} — home`}
+    >
+      <BrandMark
+        className={`h-11 w-11 shrink-0 transition-transform duration-300 group-hover:scale-105 sm:h-12 sm:w-12 ${
+          variant === "light" ? "text-white" : "text-ink-900"
+        }`}
+      />
+      <span className="flex flex-col leading-none">
+        <span className={`font-display text-xl font-extrabold tracking-tight ${wordColor}`}>
+          Acco<span className="text-teal-500">tax</span>
+        </span>
+        <span
+          className={`mt-1 text-[9px] font-semibold uppercase tracking-[0.22em] ${subColor}`}
+        >
+          Accounting · Tax · Advisory
+        </span>
+      </span>
+    </Link>
+  );
+}

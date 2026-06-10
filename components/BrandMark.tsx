@@ -1,1 +1,62 @@
-{"data":"LyoqCiAqIEFjY290YXggbG9nb21hcmsg4oCUIGFuIGVsZWdhbnQsIGZpbmUtbGluZWQgIkEiIG1vbm9ncmFtIGluc2lkZSBhIHRoaW4gcmluZywKICogd2l0aCBhIHRlYWwgYXBleCBub2RlIChhIHBlYWsgLyBtYXJrIG9mIGV4Y2VsbGVuY2UgYW5kIGdyb3d0aCkuCiAqCiAqIFRoZW1lLWF3YXJlOiB0aGUgbW9ub2dyYW0gc3Ryb2tlcyB1c2UgYGN1cnJlbnRDb2xvcmAsIHNvIHNldCB0aGUgdGV4dCBjb2xvdXIKICogb24gdGhlIHBhcmVudCAoaW5rIG9uIGxpZ2h0IGJhY2tncm91bmRzLCB3aGl0ZSBvbiBkYXJrKS4gVGhlIHRlYWwgYWNjZW50cwogKiBzdGF5IGNvbnN0YW50IGFuZCByZWFkIG9uIGVpdGhlciBiYWNrZ3JvdW5kLgogKi8KZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gQnJhbmRNYXJrKHsgY2xhc3NOYW1lIH06IHsgY2xhc3NOYW1lPzogc3RyaW5nIH0pIHsKICByZXR1cm4gKAogICAgPHN2ZwogICAgICB2aWV3Qm94PSIwIDAgNTYgNTYiCiAgICAgIHJvbGU9ImltZyIKICAgICAgYXJpYS1sYWJlbD0iQWNjb3RheCBsb2dvbWFyayIKICAgICAgY2xhc3NOYW1lPXtjbGFzc05hbWV9CiAgICAgIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIKICAgICAgZmlsbD0ibm9uZSIKICAgID4KICAgICAgey8qIFRoaW4gb3V0ZXIgcmluZyAqL30KICAgICAgPGNpcmNsZQogICAgICAgIGN4PSIyOCIKICAgICAgICBjeT0iMjgiCiAgICAgICAgcj0iMjYiCiAgICAgICAgc3Ryb2tlPSIjMTRhNTk2IgogICAgICAgIHN0cm9rZU9wYWNpdHk9IjAuMzUiCiAgICAgICAgc3Ryb2tlV2lkdGg9IjEiCiAgICAgIC8+CiAgICAgIDxjaXJjbGUKICAgICAgICBjeD0iMjgiCiAgICAgICAgY3k9IjI4IgogICAgICAgIHI9IjIyLjUiCiAgICAgICAgc3Ryb2tlPSJjdXJyZW50Q29sb3IiCiAgICAgICAgc3Ryb2tlT3BhY2l0eT0iMC4xMiIKICAgICAgICBzdHJva2VXaWR0aD0iMSIKICAgICAgLz4KCiAgICAgIHsvKiAiQSIgbW9ub2dyYW0g4oCUIGZpbmUgc3Ryb2tlcyAqL30KICAgICAgPHBhdGgKICAgICAgICBkPSJNMTkgMzkgTDI4IDE3IgogICAgICAgIHN0cm9rZT0iY3VycmVudENvbG9yIgogICAgICAgIHN0cm9rZVdpZHRoPSIyLjEiCiAgICAgICAgc3Ryb2tlTGluZWNhcD0icm91bmQiCiAgICAgIC8+CiAgICAgIDxwYXRoCiAgICAgICAgZD0iTTI4IDE3IEwzNyAzOSIKICAgICAgICBzdHJva2U9ImN1cnJlbnRDb2xvciIKICAgICAgICBzdHJva2VXaWR0aD0iMi4xIgogICAgICAgIHN0cm9rZUxpbmVjYXA9InJvdW5kIgogICAgICAvPgogICAgICB7LyogVGVhbCBjcm9zc2JhciAqL30KICAgICAgPHBhdGgKICAgICAgICBkPSJNMjMgMzEgTDMzIDMxIgogICAgICAgIHN0cm9rZT0iIzE0YTU5NiIKICAgICAgICBzdHJva2VXaWR0aD0iMiIKICAgICAgICBzdHJva2VMaW5lY2FwPSJyb3VuZCIKICAgICAgLz4KCiAgICAgIHsvKiBUZWFsIGFwZXggbm9kZSAocGVhaykgKi99CiAgICAgIDxjaXJjbGUgY3g9IjI4IiBjeT0iMTUuNCIgcj0iMi40IiBmaWxsPSIjMTRhNTk2IiAvPgogICAgPC9zdmc+CiAgKTsKfQo="}
+/**
+ * Accotax logomark — an elegant, fine-lined "A" monogram inside a thin ring,
+ * with a teal apex node (a peak / mark of excellence and growth).
+ *
+ * Theme-aware: the monogram strokes use `currentColor`, so set the text colour
+ * on the parent (ink on light backgrounds, white on dark). The teal accents
+ * stay constant and read on either background.
+ */
+export default function BrandMark({ className }: { className?: string }) {
+  return (
+    <svg
+      viewBox="0 0 56 56"
+      role="img"
+      aria-label="Accotax logomark"
+      className={className}
+      xmlns="http://www.w3.org/2000/svg"
+      fill="none"
+    >
+      {/* Thin outer ring */}
+      <circle
+        cx="28"
+        cy="28"
+        r="26"
+        stroke="#14a596"
+        strokeOpacity="0.35"
+        strokeWidth="1"
+      />
+      <circle
+        cx="28"
+        cy="28"
+        r="22.5"
+        stroke="currentColor"
+        strokeOpacity="0.12"
+        strokeWidth="1"
+      />
+
+      {/* "A" monogram — fine strokes */}
+      <path
+        d="M19 39 L28 17"
+        stroke="currentColor"
+        strokeWidth="2.1"
+        strokeLinecap="round"
+      />
+      <path
+        d="M28 17 L37 39"
+        stroke="currentColor"
+        strokeWidth="2.1"
+        strokeLinecap="round"
+      />
+      {/* Teal crossbar */}
+      <path
+        d="M23 31 L33 31"
+        stroke="#14a596"
+        strokeWidth="2"
+        strokeLinecap="round"
+      />
+
+      {/* Teal apex node (peak) */}
+      <circle cx="28" cy="15.4" r="2.4" fill="#14a596" />
+    </svg>
+  );
+}

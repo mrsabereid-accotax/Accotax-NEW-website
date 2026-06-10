@@ -1,1 +1,121 @@
-{"data":"aW1wb3J0IHR5cGUgeyBNZXRhZGF0YSB9IGZyb20gIm5leHQiOwppbXBvcnQgeyBJbnRlciwgUGx1c19KYWthcnRhX1NhbnMgfSBmcm9tICJuZXh0L2ZvbnQvZ29vZ2xlIjsKaW1wb3J0ICIuL2dsb2JhbHMuY3NzIjsKaW1wb3J0IHsgc2l0ZSB9IGZyb20gIkAvbGliL3NpdGUiOwppbXBvcnQgSGVhZGVyIGZyb20gIkAvY29tcG9uZW50cy9IZWFkZXIiOwppbXBvcnQgRm9vdGVyIGZyb20gIkAvY29tcG9uZW50cy9Gb290ZXIiOwppbXBvcnQgRmxvYXRpbmdBY3Rpb25zIGZyb20gIkAvY29tcG9uZW50cy9GbG9hdGluZ0FjdGlvbnMiOwppbXBvcnQgQW5hbHl0aWNzIGZyb20gIkAvY29tcG9uZW50cy9BbmFseXRpY3MiOwoKY29uc3QgaW50ZXIgPSBJbnRlcih7CiAgc3Vic2V0czogWyJsYXRpbiJdLAogIHZhcmlhYmxlOiAiLS1mb250LWludGVyIiwKICBkaXNwbGF5OiAic3dhcCIsCn0pOwoKY29uc3QgamFrYXJ0YSA9IFBsdXNfSmFrYXJ0YV9TYW5zKHsKICBzdWJzZXRzOiBbImxhdGluIl0sCiAgdmFyaWFibGU6ICItLWZvbnQtamFrYXJ0YSIsCiAgZGlzcGxheTogInN3YXAiLAogIHdlaWdodDogWyI1MDAiLCAiNjAwIiwgIjcwMCIsICI4MDAiXSwKfSk7CgpleHBvcnQgY29uc3QgbWV0YWRhdGE6IE1ldGFkYXRhID0gewogIG1ldGFkYXRhQmFzZTogbmV3IFVSTChzaXRlLnVybCksCiAgdGl0bGU6IHsKICAgIGRlZmF1bHQ6IGAke3NpdGUubmFtZX0gfCBBY2NvdW50aW5nLCBUYXggJiBWQVQgQWdlbmN5IGluIER1YmFpYCwKICAgIHRlbXBsYXRlOiBgJXMgfCAke3NpdGUuc2hvcnROYW1lfWAsCiAgfSwKICBkZXNjcmlwdGlvbjogc2l0ZS5kZXNjcmlwdGlvbiwKICBrZXl3b3JkczogWwogICAgImFjY291bnRpbmcgc2VydmljZXMgRHViYWkiLAogICAgInRheCBhZ2VuY3kgVUFFIiwKICAgICJVQUUgY29ycG9yYXRlIHRheCIsCiAgICAiY29ycG9yYXRlIHRheCByZWdpc3RyYXRpb24gVUFFIiwKICAgICJjb3Jwb3JhdGUgdGF4IHJldHVybiBmaWxpbmciLAogICAgImNvcnBvcmF0ZSB0YXggRnJlZSBab25lIFFGWlAiLAogICAgIlZBVCByZWdpc3RyYXRpb24gRHViYWkiLAogICAgIlZBVCByZXR1cm4gZmlsaW5nIFVBRSIsCiAgICAiYm9va2tlZXBpbmcgRHViYWkiLAogICAgIkZUQSBhcHByb3ZlZCB0YXggYWdlbnQiLAogICAgIkFjY290YXgiLAogIF0sCiAgYXV0aG9yczogW3sgbmFtZTogc2l0ZS5uYW1lIH1dLAogIG9wZW5HcmFwaDogewogICAgdHlwZTogIndlYnNpdGUiLAogICAgbG9jYWxlOiAiZW5fVVMiLAogICAgdXJsOiBzaXRlLnVybCwKICAgIHNpdGVOYW1lOiBzaXRlLm5hbWUsCiAgICB0aXRsZTogYCR7c2l0ZS5uYW1lfSB8IEFjY291bnRpbmcsIFRheCAmIFZBVCBBZ2VuY3kgaW4gRHViYWlgLAogICAgZGVzY3JpcHRpb246IHNpdGUuZGVzY3JpcHRpb24sCiAgICBpbWFnZXM6IFsKICAgICAgewogICAgICAgIHVybDogIi9vZy5wbmciLAogICAgICAgIHdpZHRoOiAxMjAwLAogICAgICAgIGhlaWdodDogNjMwLAogICAgICAgIGFsdDogYCR7c2l0ZS5uYW1lfSDigJQgRlRBLUFwcHJvdmVkIFRheCBBZ2VuY3ksIER1YmFpYCwKICAgICAgfSwKICAgIF0sCiAgfSwKICB0d2l0dGVyOiB7CiAgICBjYXJkOiAic3VtbWFyeV9sYXJnZV9pbWFnZSIsCiAgICB0aXRsZTogYCR7c2l0ZS5uYW1lfSB8IEFjY291bnRpbmcsIFRheCAmIFZBVCBBZ2VuY3kgaW4gRHViYWlgLAogICAgZGVzY3JpcHRpb246IHNpdGUuZGVzY3JpcHRpb24sCiAgICBpbWFnZXM6IFsiL29nLnBuZyJdLAogIH0sCiAgcm9ib3RzOiB7IGluZGV4OiB0cnVlLCBmb2xsb3c6IHRydWUgfSwKfTsKCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIFJvb3RMYXlvdXQoewogIGNoaWxkcmVuLAp9OiB7CiAgY2hpbGRyZW46IFJlYWN0LlJlYWN0Tm9kZTsKfSkgewogIGNvbnN0IG9yZ0pzb25MZCA9IHsKICAgICJAY29udGV4dCI6ICJodHRwczovL3NjaGVtYS5vcmciLAogICAgIkB0eXBlIjogWyJBY2NvdW50aW5nU2VydmljZSIsICJMb2NhbEJ1c2luZXNzIl0sCiAgICBuYW1lOiBzaXRlLm5hbWUsCiAgICBkZXNjcmlwdGlvbjogc2l0ZS5kZXNjcmlwdGlvbiwKICAgIHVybDogc2l0ZS51cmwsCiAgICBlbWFpbDogc2l0ZS5lbWFpbC5wcmltYXJ5LAogICAgdGVsZXBob25lOiBzaXRlLnBob25lc1swXS5kaXNwbGF5LAogICAgaW1hZ2U6IGAke3NpdGUudXJsfS9vZy5wbmdgLAogICAgcHJpY2VSYW5nZTogIiQkIiwKICAgIGFkZHJlc3M6IHsKICAgICAgIkB0eXBlIjogIlBvc3RhbEFkZHJlc3MiLAogICAgICBzdHJlZXRBZGRyZXNzOiAiT2ZmaWNlIE5vLiA4MDYsIDh0aCBGbG9vciwgQWwgTWFzcmFmIFRvd2VyLCBCYW5peWFzIFJvYWQiLAogICAgICBhZGRyZXNzTG9jYWxpdHk6ICJEZWlyYSIsCiAgICAgIGFkZHJlc3NSZWdpb246ICJEdWJhaSIsCiAgICAgIGFkZHJlc3NDb3VudHJ5OiAiQUUiLAogICAgfSwKICAgIGdlbzogewogICAgICAiQHR5cGUiOiAiR2VvQ29vcmRpbmF0ZXMiLAogICAgICBsYXRpdHVkZTogMjUuMjY5MywKICAgICAgbG9uZ2l0dWRlOiA1NS4zMDk1LAogICAgfSwKICAgIGFyZWFTZXJ2ZWQ6IHsgIkB0eXBlIjogIkNvdW50cnkiLCBuYW1lOiAiVW5pdGVkIEFyYWIgRW1pcmF0ZXMiIH0sCiAgICBvcGVuaW5nSG91cnNTcGVjaWZpY2F0aW9uOiB7CiAgICAgICJAdHlwZSI6ICJPcGVuaW5nSG91cnNTcGVjaWZpY2F0aW9uIiwKICAgICAgZGF5T2ZXZWVrOiBbIlN1bmRheSIsICJNb25kYXkiLCAiVHVlc2RheSIsICJXZWRuZXNkYXkiLCAiVGh1cnNkYXkiXSwKICAgICAgb3BlbnM6ICIwOTowMCIsCiAgICAgIGNsb3NlczogIjE4OjAwIiwKICAgIH0sCiAgICBzYW1lQXM6IFtzaXRlLnNvY2lhbC5mYWNlYm9vaywgc2l0ZS5zb2NpYWwubGlua2VkaW5dLmZpbHRlcihCb29sZWFuKSwKICB9OwoKICByZXR1cm4gKAogICAgPGh0bWwgbGFuZz0iZW4iIGNsYXNzTmFtZT17YCR7aW50ZXIudmFyaWFibGV9ICR7amFrYXJ0YS52YXJpYWJsZX1gfT4KICAgICAgPGJvZHkgY2xhc3NOYW1lPSJmbGV4IG1pbi1oLXNjcmVlbiBmbGV4LWNvbCBmb250LXNhbnMiPgogICAgICAgIDxzY3JpcHQKICAgICAgICAgIHR5cGU9ImFwcGxpY2F0aW9uL2xkK2pzb24iCiAgICAgICAgICBkYW5nZXJvdXNseVNldElubmVySFRNTD17eyBfX2h0bWw6IEpTT04uc3RyaW5naWZ5KG9yZ0pzb25MZCkgfX0KICAgICAgICAvPgogICAgICAgIDxIZWFkZXIgLz4KICAgICAgICA8bWFpbiBjbGFzc05hbWU9ImZsZXgtMSI+e2NoaWxkcmVufTwvbWFpbj4KICAgICAgICA8Rm9vdGVyIC8+CiAgICAgICAgPEZsb2F0aW5nQWN0aW9ucyAvPgogICAgICAgIDxBbmFseXRpY3MgLz4KICAgICAgPC9ib2R5PgogICAgPC9odG1sPgogICk7Cn0K"}
+import type { Metadata } from "next";
+import { Inter, Plus_Jakarta_Sans } from "next/font/google";
+import "./globals.css";
+import { site } from "@/lib/site";
+import Header from "@/components/Header";
+import Footer from "@/components/Footer";
+import FloatingActions from "@/components/FloatingActions";
+import Analytics from "@/components/Analytics";
+
+const inter = Inter({
+  subsets: ["latin"],
+  variable: "--font-inter",
+  display: "swap",
+});
+
+const jakarta = Plus_Jakarta_Sans({
+  subsets: ["latin"],
+  variable: "--font-jakarta",
+  display: "swap",
+  weight: ["500", "600", "700", "800"],
+});
+
+export const metadata: Metadata = {
+  metadataBase: new URL(site.url),
+  title: {
+    default: `${site.name} | Accounting, Tax & VAT Agency in Dubai`,
+    template: `%s | ${site.shortName}`,
+  },
+  description: site.description,
+  keywords: [
+    "accounting services Dubai",
+    "tax agency UAE",
+    "UAE corporate tax",
+    "corporate tax registration UAE",
+    "corporate tax return filing",
+    "corporate tax Free Zone QFZP",
+    "VAT registration Dubai",
+    "VAT return filing UAE",
+    "bookkeeping Dubai",
+    "FTA approved tax agent",
+    "Accotax",
+  ],
+  authors: [{ name: site.name }],
+  openGraph: {
+    type: "website",
+    locale: "en_US",
+    url: site.url,
+    siteName: site.name,
+    title: `${site.name} | Accounting, Tax & VAT Agency in Dubai`,
+    description: site.description,
+    images: [
+      {
+        url: "/og.png",
+        width: 1200,
+        height: 630,
+        alt: `${site.name} — FTA-Approved Tax Agency, Dubai`,
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: `${site.name} | Accounting, Tax & VAT Agency in Dubai`,
+    description: site.description,
+    images: ["/og.png"],
+  },
+  robots: { index: true, follow: true },
+};
+
+export default function RootLayout({
+  children,
+}: {
+  children: React.ReactNode;
+}) {
+  const orgJsonLd = {
+    "@context": "https://schema.org",
+    "@type": ["AccountingService", "LocalBusiness"],
+    name: site.name,
+    description: site.description,
+    url: site.url,
+    email: site.email.primary,
+    telephone: site.phones[0].display,
+    image: `${site.url}/og.png`,
+    priceRange: "$$",
+    address: {
+      "@type": "PostalAddress",
+      streetAddress: "Office No. 806, 8th Floor, Al Masraf Tower, Baniyas Road",
+      addressLocality: "Deira",
+      addressRegion: "Dubai",
+      addressCountry: "AE",
+    },
+    geo: {
+      "@type": "GeoCoordinates",
+      latitude: 25.2693,
+      longitude: 55.3095,
+    },
+    areaServed: { "@type": "Country", name: "United Arab Emirates" },
+    openingHoursSpecification: {
+      "@type": "OpeningHoursSpecification",
+      dayOfWeek: ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday"],
+      opens: "09:00",
+      closes: "18:00",
+    },
+    sameAs: [site.social.facebook, site.social.linkedin].filter(Boolean),
+  };
+
+  return (
+    <html lang="en" className={`${inter.variable} ${jakarta.variable}`}>
+      <body className="flex min-h-screen flex-col font-sans">
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(orgJsonLd) }}
+        />
+        <Header />
+        <main className="flex-1">{children}</main>
+        <Footer />
+        <FloatingActions />
+        <Analytics />
+      </body>
+    </html>
+  );
+}

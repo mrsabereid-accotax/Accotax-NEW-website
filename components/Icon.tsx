@@ -1,1 +1,13 @@
-{"data":"aW1wb3J0IHsgaWNvbnMsIHR5cGUgTHVjaWRlUHJvcHMgfSBmcm9tICJsdWNpZGUtcmVhY3QiOwoKLyoqCiAqIFJlbmRlcnMgYSBMdWNpZGUgaWNvbiBieSBuYW1lICh0aGUgbmFtZXMgc3RvcmVkIGluIGxpYi9zZXJ2aWNlcy50cykuCiAqIEZhbGxzIGJhY2sgdG8gYSBuZXV0cmFsIGljb24gaWYgdGhlIG5hbWUgaXMgdW5rbm93bi4KICovCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIEljb24oewogIG5hbWUsCiAgLi4ucHJvcHMKfTogeyBuYW1lOiBzdHJpbmcgfSAmIEx1Y2lkZVByb3BzKSB7CiAgY29uc3QgTHVjaWRlSWNvbiA9IGljb25zW25hbWUgYXMga2V5b2YgdHlwZW9mIGljb25zXSA/PyBpY29ucy5DaXJjbGU7CiAgcmV0dXJuIDxMdWNpZGVJY29uIHsuLi5wcm9wc30gLz47Cn0K"}
+import { icons, type LucideProps } from "lucide-react";
+
+/**
+ * Renders a Lucide icon by name (the names stored in lib/services.ts).
+ * Falls back to a neutral icon if the name is unknown.
+ */
+export default function Icon({
+  name,
+  ...props
+}: { name: string } & LucideProps) {
+  const LucideIcon = icons[name as keyof typeof icons] ?? icons.Circle;
+  return <LucideIcon {...props} />;
+}

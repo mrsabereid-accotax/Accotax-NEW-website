@@ -1,1 +1,27 @@
-{"data":"aW1wb3J0IFNjcmlwdCBmcm9tICJuZXh0L3NjcmlwdCI7CgovKioKICogR29vZ2xlIEFuYWx5dGljcyA0LiBMb2FkcyBvbmx5IHdoZW4gTkVYVF9QVUJMSUNfR0FfSUQgaXMgc2V0LCBzbyBpdCdzIGluZXJ0CiAqIGluIGRldmVsb3BtZW50IC8gdW50aWwgeW91IGFkZCB5b3VyIE1lYXN1cmVtZW50IElEIChlLmcuICJHLVhYWFhYWFhYWFgiKS4KICovCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIEFuYWx5dGljcygpIHsKICBjb25zdCBpZCA9IHByb2Nlc3MuZW52Lk5FWFRfUFVCTElDX0dBX0lEOwogIGlmICghaWQpIHJldHVybiBudWxsOwoKICByZXR1cm4gKAogICAgPD4KICAgICAgPFNjcmlwdAogICAgICAgIHNyYz17YGh0dHBzOi8vd3d3Lmdvb2dsZXRhZ21hbmFnZXIuY29tL2d0YWcvanM/aWQ9JHtpZH1gfQogICAgICAgIHN0cmF0ZWd5PSJhZnRlckludGVyYWN0aXZlIgogICAgICAvPgogICAgICA8U2NyaXB0IGlkPSJnYTQtaW5pdCIgc3RyYXRlZ3k9ImFmdGVySW50ZXJhY3RpdmUiPgogICAgICAgIHtgCiAgICAgICAgICB3aW5kb3cuZGF0YUxheWVyID0gd2luZG93LmRhdGFMYXllciB8fCBbXTsKICAgICAgICAgIGZ1bmN0aW9uIGd0YWcoKXtkYXRhTGF5ZXIucHVzaChhcmd1bWVudHMpO30KICAgICAgICAgIGd0YWcoJ2pzJywgbmV3IERhdGUoKSk7CiAgICAgICAgICBndGFnKCdjb25maWcnLCAnJHtpZH0nKTsKICAgICAgICBgfQogICAgICA8L1NjcmlwdD4KICAgIDwvPgogICk7Cn0K"}
+import Script from "next/script";
+
+/**
+ * Google Analytics 4. Loads only when NEXT_PUBLIC_GA_ID is set, so it's inert
+ * in development / until you add your Measurement ID (e.g. "G-XXXXXXXXXX").
+ */
+export default function Analytics() {
+  const id = process.env.NEXT_PUBLIC_GA_ID;
+  if (!id) return null;
+
+  return (
+    <>
+      <Script
+        src={`https://www.googletagmanager.com/gtag/js?id=${id}`}
+        strategy="afterInteractive"
+      />
+      <Script id="ga4-init" strategy="afterInteractive">
+        {`
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', '${id}');
+        `}
+      </Script>
+    </>
+  );
+}

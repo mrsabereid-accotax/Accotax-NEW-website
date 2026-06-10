@@ -1,1 +1,159 @@
-{"data":"InVzZSBjbGllbnQiOwoKaW1wb3J0IHsgdXNlRWZmZWN0LCB1c2VTdGF0ZSB9IGZyb20gInJlYWN0IjsKaW1wb3J0IExpbmsgZnJvbSAibmV4dC9saW5rIjsKaW1wb3J0IHsgdXNlUGF0aG5hbWUgfSBmcm9tICJuZXh0L25hdmlnYXRpb24iOwppbXBvcnQgeyBDaGV2cm9uRG93biwgTWVudSwgUGhvbmUsIFggfSBmcm9tICJsdWNpZGUtcmVhY3QiOwppbXBvcnQgTG9nbyBmcm9tICIuL0xvZ28iOwppbXBvcnQgeyBtYWluTmF2LCBzaXRlIH0gZnJvbSAiQC9saWIvc2l0ZSI7CgpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBIZWFkZXIoKSB7CiAgY29uc3QgcGF0aG5hbWUgPSB1c2VQYXRobmFtZSgpOwogIGNvbnN0IFtzY3JvbGxlZCwgc2V0U2Nyb2xsZWRdID0gdXNlU3RhdGUoZmFsc2UpOwogIGNvbnN0IFttb2JpbGVPcGVuLCBzZXRNb2JpbGVPcGVuXSA9IHVzZVN0YXRlKGZhbHNlKTsKICBjb25zdCBbb3Blbkdyb3VwLCBzZXRPcGVuR3JvdXBdID0gdXNlU3RhdGU8c3RyaW5nIHwgbnVsbD4obnVsbCk7CgogIHVzZUVmZmVjdCgoKSA9PiB7CiAgICBjb25zdCBvblNjcm9sbCA9ICgpID0+IHNldFNjcm9sbGVkKHdpbmRvdy5zY3JvbGxZID4gOCk7CiAgICBvblNjcm9sbCgpOwogICAgd2luZG93LmFkZEV2ZW50TGlzdGVuZXIoInNjcm9sbCIsIG9uU2Nyb2xsLCB7IHBhc3NpdmU6IHRydWUgfSk7CiAgICByZXR1cm4gKCkgPT4gd2luZG93LnJlbW92ZUV2ZW50TGlzdGVuZXIoInNjcm9sbCIsIG9uU2Nyb2xsKTsKICB9LCBbXSk7CgogIC8vIENsb3NlIHRoZSBtb2JpbGUgbWVudSBvbiByb3V0ZSBjaGFuZ2UuCiAgdXNlRWZmZWN0KCgpID0+IHsKICAgIHNldE1vYmlsZU9wZW4oZmFsc2UpOwogICAgc2V0T3Blbkdyb3VwKG51bGwpOwogIH0sIFtwYXRobmFtZV0pOwoKICBjb25zdCBpc0FjdGl2ZSA9IChocmVmOiBzdHJpbmcpID0+CiAgICBocmVmID09PSAiLyIgPyBwYXRobmFtZSA9PT0gIi8iIDogcGF0aG5hbWUuc3RhcnRzV2l0aChocmVmLnNwbGl0KCIjIilbMF0pOwoKICByZXR1cm4gKAogICAgPGhlYWRlcgogICAgICBjbGFzc05hbWU9e2BzdGlja3kgdG9wLTAgei01MCB0cmFuc2l0aW9uLWFsbCBkdXJhdGlvbi0zMDAgJHsKICAgICAgICBzY3JvbGxlZAogICAgICAgICAgPyAiYmctd2hpdGUvOTUgc2hhZG93LXNtIGJhY2tkcm9wLWJsdXIgc3VwcG9ydHMtW2JhY2tkcm9wLWZpbHRlcl06Ymctd2hpdGUvODAiCiAgICAgICAgICA6ICJiZy13aGl0ZSIKICAgICAgfWB9CiAgICA+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJjb250YWluZXIteCBmbGV4IGgtMjAgaXRlbXMtY2VudGVyIGp1c3RpZnktYmV0d2VlbiBnYXAtNCI+CiAgICAgICAgPExvZ28gLz4KCiAgICAgICAgey8qIERlc2t0b3AgbmF2ICovfQogICAgICAgIDxuYXYgY2xhc3NOYW1lPSJoaWRkZW4gaXRlbXMtY2VudGVyIGdhcC0xIGxnOmZsZXgiPgogICAgICAgICAge21haW5OYXYubWFwKChpdGVtKSA9PiAoCiAgICAgICAgICAgIDxkaXYga2V5PXtpdGVtLmxhYmVsfSBjbGFzc05hbWU9Imdyb3VwIHJlbGF0aXZlIj4KICAgICAgICAgICAgICA8TGluawogICAgICAgICAgICAgICAgaHJlZj17aXRlbS5ocmVmfQogICAgICAgICAgICAgICAgY2xhc3NOYW1lPXtgZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTEgcm91bmRlZC1tZCBweC0zLjUgcHktMiB0ZXh0LXNtIGZvbnQtbWVkaXVtIHRyYW5zaXRpb24tY29sb3JzICR7CiAgICAgICAgICAgICAgICAgIGlzQWN0aXZlKGl0ZW0uaHJlZikKICAgICAgICAgICAgICAgICAgICA/ICJ0ZXh0LW5hdnktOTAwIgogICAgICAgICAgICAgICAgICAgIDogInRleHQtbmF2eS02MDAgaG92ZXI6dGV4dC1uYXZ5LTkwMCIKICAgICAgICAgICAgICAgIH1gfQogICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgIHtpdGVtLmxhYmVsfQogICAgICAgICAgICAgICAge2l0ZW0uY2hpbGRyZW4gJiYgKAogICAgICAgICAgICAgICAgICA8Q2hldnJvbkRvd24gY2xhc3NOYW1lPSJoLTMuNSB3LTMuNSB0cmFuc2l0aW9uLXRyYW5zZm9ybSBncm91cC1ob3Zlcjpyb3RhdGUtMTgwIiAvPgogICAgICAgICAgICAgICAgKX0KICAgICAgICAgICAgICA8L0xpbms+CiAgICAgICAgICAgICAge2l0ZW0uY2hpbGRyZW4gJiYgKAogICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImludmlzaWJsZSBhYnNvbHV0ZSBsZWZ0LTAgdG9wLWZ1bGwgdy02NCB0cmFuc2xhdGUteS0yIHB0LTIgb3BhY2l0eS0wIHRyYW5zaXRpb24tYWxsIGR1cmF0aW9uLTIwMCBncm91cC1ob3Zlcjp2aXNpYmxlIGdyb3VwLWhvdmVyOnRyYW5zbGF0ZS15LTAgZ3JvdXAtaG92ZXI6b3BhY2l0eS0xMDAiPgogICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ib3ZlcmZsb3ctaGlkZGVuIHJvdW5kZWQteGwgYm9yZGVyIGJvcmRlci1uYXZ5LTEwMCBiZy13aGl0ZSBwLTIgc2hhZG93LWNhcmQiPgogICAgICAgICAgICAgICAgICAgIHtpdGVtLmNoaWxkcmVuLm1hcCgoY2hpbGQpID0+ICgKICAgICAgICAgICAgICAgICAgICAgIDxMaW5rCiAgICAgICAgICAgICAgICAgICAgICAgIGtleT17Y2hpbGQubGFiZWx9CiAgICAgICAgICAgICAgICAgICAgICAgIGhyZWY9e2NoaWxkLmhyZWZ9CiAgICAgICAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0iYmxvY2sgcm91bmRlZC1sZyBweC0zIHB5LTIuNSB0ZXh0LXNtIGZvbnQtbWVkaXVtIHRleHQtbmF2eS02MDAgdHJhbnNpdGlvbi1jb2xvcnMgaG92ZXI6YmctbmF2eS01MCBob3Zlcjp0ZXh0LW5hdnktOTAwIgogICAgICAgICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICAgICAgICB7Y2hpbGQubGFiZWx9CiAgICAgICAgICAgICAgICAgICAgICA8L0xpbms+CiAgICAgICAgICAgICAgICAgICAgKSl9CiAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgKX0KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICApKX0KICAgICAgICA8L25hdj4KCiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC0zIj4KICAgICAgICAgIDxhCiAgICAgICAgICAgIGhyZWY9e3NpdGUucGhvbmVzWzBdLmhyZWZ9CiAgICAgICAgICAgIGNsYXNzTmFtZT0iaGlkZGVuIGl0ZW1zLWNlbnRlciBnYXAtMiB0ZXh0LXNtIGZvbnQtc2VtaWJvbGQgdGV4dC1uYXZ5LTcwMCB0cmFuc2l0aW9uLWNvbG9ycyBob3Zlcjp0ZXh0LW5hdnktOTAwIHhsOmZsZXgiCiAgICAgICAgICA+CiAgICAgICAgICAgIDxQaG9uZSBjbGFzc05hbWU9ImgtNCB3LTQgdGV4dC10ZWFsLTYwMCIgLz4KICAgICAgICAgICAge3NpdGUucGhvbmVzWzBdLmRpc3BsYXl9CiAgICAgICAgICA8L2E+CiAgICAgICAgICA8TGluayBocmVmPSIvY29udGFjdCIgY2xhc3NOYW1lPSJidG4tZ29sZCBoaWRkZW4gc206aW5saW5lLWZsZXgiPgogICAgICAgICAgICBHZXQgYSBRdW90ZQogICAgICAgICAgPC9MaW5rPgoKICAgICAgICAgIHsvKiBNb2JpbGUgdG9nZ2xlICovfQogICAgICAgICAgPGJ1dHRvbgogICAgICAgICAgICB0eXBlPSJidXR0b24iCiAgICAgICAgICAgIGFyaWEtbGFiZWw9IlRvZ2dsZSBtZW51IgogICAgICAgICAgICBhcmlhLWV4cGFuZGVkPXttb2JpbGVPcGVufQogICAgICAgICAgICBvbkNsaWNrPXsoKSA9PiBzZXRNb2JpbGVPcGVuKCh2KSA9PiAhdil9CiAgICAgICAgICAgIGNsYXNzTmFtZT0iaW5saW5lLWZsZXggaC0xMSB3LTExIGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciByb3VuZGVkLWxnIGJvcmRlciBib3JkZXItbmF2eS0yMDAgdGV4dC1uYXZ5LTgwMCBsZzpoaWRkZW4iCiAgICAgICAgICA+CiAgICAgICAgICAgIHttb2JpbGVPcGVuID8gPFggY2xhc3NOYW1lPSJoLTUgdy01IiAvPiA6IDxNZW51IGNsYXNzTmFtZT0iaC01IHctNSIgLz59CiAgICAgICAgICA8L2J1dHRvbj4KICAgICAgICA8L2Rpdj4KICAgICAgPC9kaXY+CgogICAgICB7LyogTW9iaWxlIG1lbnUgKi99CiAgICAgIHttb2JpbGVPcGVuICYmICgKICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYm9yZGVyLXQgYm9yZGVyLW5hdnktMTAwIGJnLXdoaXRlIGxnOmhpZGRlbiI+CiAgICAgICAgICA8bmF2IGNsYXNzTmFtZT0iY29udGFpbmVyLXggZmxleCBmbGV4LWNvbCBweS00Ij4KICAgICAgICAgICAge21haW5OYXYubWFwKChpdGVtKSA9PiAoCiAgICAgICAgICAgICAgPGRpdiBrZXk9e2l0ZW0ubGFiZWx9IGNsYXNzTmFtZT0iYm9yZGVyLWIgYm9yZGVyLW5hdnktNTAgbGFzdDpib3JkZXItMCI+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1iZXR3ZWVuIj4KICAgICAgICAgICAgICAgICAgPExpbmsKICAgICAgICAgICAgICAgICAgICBocmVmPXtpdGVtLmhyZWZ9CiAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJmbGV4LTEgcHktMy41IHRleHQtYmFzZSBmb250LW1lZGl1bSB0ZXh0LW5hdnktODAwIgogICAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgICAge2l0ZW0ubGFiZWx9CiAgICAgICAgICAgICAgICAgIDwvTGluaz4KICAgICAgICAgICAgICAgICAge2l0ZW0uY2hpbGRyZW4gJiYgKAogICAgICAgICAgICAgICAgICAgIDxidXR0b24KICAgICAgICAgICAgICAgICAgICAgIHR5cGU9ImJ1dHRvbiIKICAgICAgICAgICAgICAgICAgICAgIGFyaWEtbGFiZWw9e2BFeHBhbmQgJHtpdGVtLmxhYmVsfWB9CiAgICAgICAgICAgICAgICAgICAgICBvbkNsaWNrPXsoKSA9PgogICAgICAgICAgICAgICAgICAgICAgICBzZXRPcGVuR3JvdXAoKGcpID0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgZyA9PT0gaXRlbS5sYWJlbCA/IG51bGwgOiBpdGVtLmxhYmVsLAogICAgICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9InAtMiB0ZXh0LW5hdnktNTAwIgogICAgICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAgICAgIDxDaGV2cm9uRG93bgogICAgICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9e2BoLTUgdy01IHRyYW5zaXRpb24tdHJhbnNmb3JtICR7CiAgICAgICAgICAgICAgICAgICAgICAgICAgb3Blbkdyb3VwID09PSBpdGVtLmxhYmVsID8gInJvdGF0ZS0xODAiIDogIiIKICAgICAgICAgICAgICAgICAgICAgICAgfWB9CiAgICAgICAgICAgICAgICAgICAgICAvPgogICAgICAgICAgICAgICAgICAgIDwvYnV0dG9uPgogICAgICAgICAgICAgICAgICApfQogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICB7aXRlbS5jaGlsZHJlbiAmJiBvcGVuR3JvdXAgPT09IGl0ZW0ubGFiZWwgJiYgKAogICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0icGItMiBwbC00Ij4KICAgICAgICAgICAgICAgICAgICB7aXRlbS5jaGlsZHJlbi5tYXAoKGNoaWxkKSA9PiAoCiAgICAgICAgICAgICAgICAgICAgICA8TGluawogICAgICAgICAgICAgICAgICAgICAgICBrZXk9e2NoaWxkLmxhYmVsfQogICAgICAgICAgICAgICAgICAgICAgICBocmVmPXtjaGlsZC5ocmVmfQogICAgICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9ImJsb2NrIHB5LTIuNSB0ZXh0LXNtIGZvbnQtbWVkaXVtIHRleHQtbmF2eS02MDAiCiAgICAgICAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgICAgICAgIHtjaGlsZC5sYWJlbH0KICAgICAgICAgICAgICAgICAgICAgIDwvTGluaz4KICAgICAgICAgICAgICAgICAgICApKX0KICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICApfQogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICApKX0KICAgICAgICAgICAgPExpbmsgaHJlZj0iL2NvbnRhY3QiIGNsYXNzTmFtZT0iYnRuLWdvbGQgbXQtNCI+CiAgICAgICAgICAgICAgR2V0IGEgUXVvdGUKICAgICAgICAgICAgPC9MaW5rPgogICAgICAgICAgPC9uYXY+CiAgICAgICAgPC9kaXY+CiAgICAgICl9CiAgICA8L2hlYWRlcj4KICApOwp9Cg=="}
+"use client";
+
+import { useEffect, useState } from "react";
+import Link from "next/link";
+import { usePathname } from "next/navigation";
+import { ChevronDown, Menu, Phone, X } from "lucide-react";
+import Logo from "./Logo";
+import { mainNav, site } from "@/lib/site";
+
+export default function Header() {
+  const pathname = usePathname();
+  const [scrolled, setScrolled] = useState(false);
+  const [mobileOpen, setMobileOpen] = useState(false);
+  const [openGroup, setOpenGroup] = useState<string | null>(null);
+
+  useEffect(() => {
+    const onScroll = () => setScrolled(window.scrollY > 8);
+    onScroll();
+    window.addEventListener("scroll", onScroll, { passive: true });
+    return () => window.removeEventListener("scroll", onScroll);
+  }, []);
+
+  // Close the mobile menu on route change.
+  useEffect(() => {
+    setMobileOpen(false);
+    setOpenGroup(null);
+  }, [pathname]);
+
+  const isActive = (href: string) =>
+    href === "/" ? pathname === "/" : pathname.startsWith(href.split("#")[0]);
+
+  return (
+    <header
+      className={`sticky top-0 z-50 transition-all duration-300 ${
+        scrolled
+          ? "bg-white/95 shadow-sm backdrop-blur supports-[backdrop-filter]:bg-white/80"
+          : "bg-white"
+      }`}
+    >
+      <div className="container-x flex h-20 items-center justify-between gap-4">
+        <Logo />
+
+        {/* Desktop nav */}
+        <nav className="hidden items-center gap-1 lg:flex">
+          {mainNav.map((item) => (
+            <div key={item.label} className="group relative">
+              <Link
+                href={item.href}
+                className={`flex items-center gap-1 rounded-md px-3.5 py-2 text-sm font-medium transition-colors ${
+                  isActive(item.href)
+                    ? "text-navy-900"
+                    : "text-navy-600 hover:text-navy-900"
+                }`}
+              >
+                {item.label}
+                {item.children && (
+                  <ChevronDown className="h-3.5 w-3.5 transition-transform group-hover:rotate-180" />
+                )}
+              </Link>
+              {item.children && (
+                <div className="invisible absolute left-0 top-full w-64 translate-y-2 pt-2 opacity-0 transition-all duration-200 group-hover:visible group-hover:translate-y-0 group-hover:opacity-100">
+                  <div className="overflow-hidden rounded-xl border border-navy-100 bg-white p-2 shadow-card">
+                    {item.children.map((child) => (
+                      <Link
+                        key={child.label}
+                        href={child.href}
+                        className="block rounded-lg px-3 py-2.5 text-sm font-medium text-navy-600 transition-colors hover:bg-navy-50 hover:text-navy-900"
+                      >
+                        {child.label}
+                      </Link>
+                    ))}
+                  </div>
+                </div>
+              )}
+            </div>
+          ))}
+        </nav>
+
+        <div className="flex items-center gap-3">
+          <a
+            href={site.phones[0].href}
+            className="hidden items-center gap-2 text-sm font-semibold text-navy-700 transition-colors hover:text-navy-900 xl:flex"
+          >
+            <Phone className="h-4 w-4 text-teal-600" />
+            {site.phones[0].display}
+          </a>
+          <Link href="/contact" className="btn-gold hidden sm:inline-flex">
+            Get a Quote
+          </Link>
+
+          {/* Mobile toggle */}
+          <button
+            type="button"
+            aria-label="Toggle menu"
+            aria-expanded={mobileOpen}
+            onClick={() => setMobileOpen((v) => !v)}
+            className="inline-flex h-11 w-11 items-center justify-center rounded-lg border border-navy-200 text-navy-800 lg:hidden"
+          >
+            {mobileOpen ? <X className="h-5 w-5" /> : <Menu className="h-5 w-5" />}
+          </button>
+        </div>
+      </div>
+
+      {/* Mobile menu */}
+      {mobileOpen && (
+        <div className="border-t border-navy-100 bg-white lg:hidden">
+          <nav className="container-x flex flex-col py-4">
+            {mainNav.map((item) => (
+              <div key={item.label} className="border-b border-navy-50 last:border-0">
+                <div className="flex items-center justify-between">
+                  <Link
+                    href={item.href}
+                    className="flex-1 py-3.5 text-base font-medium text-navy-800"
+                  >
+                    {item.label}
+                  </Link>
+                  {item.children && (
+                    <button
+                      type="button"
+                      aria-label={`Expand ${item.label}`}
+                      onClick={() =>
+                        setOpenGroup((g) =>
+                          g === item.label ? null : item.label,
+                        )
+                      }
+                      className="p-2 text-navy-500"
+                    >
+                      <ChevronDown
+                        className={`h-5 w-5 transition-transform ${
+                          openGroup === item.label ? "rotate-180" : ""
+                        }`}
+                      />
+                    </button>
+                  )}
+                </div>
+                {item.children && openGroup === item.label && (
+                  <div className="pb-2 pl-4">
+                    {item.children.map((child) => (
+                      <Link
+                        key={child.label}
+                        href={child.href}
+                        className="block py-2.5 text-sm font-medium text-navy-600"
+                      >
+                        {child.label}
+                      </Link>
+                    ))}
+                  </div>
+                )}
+              </div>
+            ))}
+            <Link href="/contact" className="btn-gold mt-4">
+              Get a Quote
+            </Link>
+          </nav>
+        </div>
+      )}
+    </header>
+  );
+}

@@ -1,1 +1,107 @@
-{"data":"aW1wb3J0IHR5cGUgeyBNZXRhZGF0YSB9IGZyb20gIm5leHQiOwppbXBvcnQgTGluayBmcm9tICJuZXh0L2xpbmsiOwppbXBvcnQgeyBDaGVjaywgU3RhciB9IGZyb20gImx1Y2lkZS1yZWFjdCI7CmltcG9ydCBQYWdlSGVybyBmcm9tICJAL2NvbXBvbmVudHMvUGFnZUhlcm8iOwppbXBvcnQgUmV2ZWFsIGZyb20gIkAvY29tcG9uZW50cy9SZXZlYWwiOwppbXBvcnQgQ1RBU2VjdGlvbiBmcm9tICJAL2NvbXBvbmVudHMvQ1RBU2VjdGlvbiI7CmltcG9ydCB7IHBhY2thZ2VHcm91cHMgfSBmcm9tICJAL2xpYi9wYWNrYWdlcyI7CgpleHBvcnQgY29uc3QgbWV0YWRhdGE6IE1ldGFkYXRhID0gewogIHRpdGxlOiAiUGFja2FnZXMiLAogIGRlc2NyaXB0aW9uOgogICAgIlRhaWxvcmVkIGFjY291bnRpbmcsIENvcnBvcmF0ZSBUYXggYW5kIFZBVCBwYWNrYWdlcyBmcm9tIEFjY290YXggZm9yIGJ1c2luZXNzZXMgb2YgZXZlcnkgc2l6ZSBpbiB0aGUgVUFFLiBSZXF1ZXN0IGEgZnJlZSwgbm8tb2JsaWdhdGlvbiBxdW90ZS4iLAp9OwoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gUGFja2FnZXNQYWdlKCkgewogIHJldHVybiAoCiAgICA8PgogICAgICA8UGFnZUhlcm8KICAgICAgICBleWVicm93PSJQYWNrYWdlcyAmIFByaWNpbmciCiAgICAgICAgdGl0bGU9IlBhY2thZ2VzIHRoYXQgbWVldCBldmVyeSBuZWVkIgogICAgICAgIGRlc2NyaXB0aW9uPSJBY2NvdGF4IG9mZmVycyBhIHZhcmlldHkgb2YgcGFja2FnZXMgdG8gc3VpdCBhbnkgY29tcGFueSBzaXplIG9yIHNlcnZpY2UuIEV2ZXJ5IGVuZ2FnZW1lbnQgaXMgdGFpbG9yZWQgdG8geW91ciBidXNpbmVzcyDigJQgcmVxdWVzdCBhIHF1b3RlIGFuZCB3ZSdsbCByZWNvbW1lbmQgdGhlIG1vc3QgZWZmZWN0aXZlLCBjb3N0LWVmZmljaWVudCBwYWNrYWdlIGZvciB5b3UuIgogICAgICAgIGJyZWFkY3J1bWI9e1t7IGxhYmVsOiAiSG9tZSIsIGhyZWY6ICIvIiB9LCB7IGxhYmVsOiAiUGFja2FnZXMiIH1dfQogICAgICAvPgoKICAgICAge3BhY2thZ2VHcm91cHMubWFwKChncm91cCwgZ2kpID0+ICgKICAgICAgICA8c2VjdGlvbgogICAgICAgICAga2V5PXtncm91cC5pZH0KICAgICAgICAgIGNsYXNzTmFtZT17Z2kgJSAyID09PSAwID8gImJnLXdoaXRlIHB5LTE2IHNtOnB5LTIwIiA6ICJiZy1uYXZ5LTUwLzUwIHB5LTE2IHNtOnB5LTIwIn0KICAgICAgICA+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY29udGFpbmVyLXgiPgogICAgICAgICAgICA8UmV2ZWFsPgogICAgICAgICAgICAgIDxoMiBjbGFzc05hbWU9ImZvbnQtZGlzcGxheSB0ZXh0LTJ4bCBmb250LWJvbGQgdHJhY2tpbmctdGlnaHQgdGV4dC1uYXZ5LTkwMCBzbTp0ZXh0LTN4bCI+CiAgICAgICAgICAgICAgICB7Z3JvdXAudGl0bGV9CiAgICAgICAgICAgICAgPC9oMj4KICAgICAgICAgICAgICB7Z3JvdXAuaW50cm8gJiYgKAogICAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJtdC0yIG1heC13LTJ4bCB0ZXh0LW5hdnktNjAwIj57Z3JvdXAuaW50cm99PC9wPgogICAgICAgICAgICAgICl9CiAgICAgICAgICAgIDwvUmV2ZWFsPgoKICAgICAgICAgICAgPGRpdgogICAgICAgICAgICAgIGNsYXNzTmFtZT17YG10LTEwIGdyaWQgZ2FwLTYgJHsKICAgICAgICAgICAgICAgIGdyb3VwLnBhY2thZ2VzLmxlbmd0aCA+PSA0CiAgICAgICAgICAgICAgICAgID8gInNtOmdyaWQtY29scy0yIGxnOmdyaWQtY29scy0zIgogICAgICAgICAgICAgICAgICA6ICJzbTpncmlkLWNvbHMtMiBsZzpncmlkLWNvbHMtMyIKICAgICAgICAgICAgICB9YH0KICAgICAgICAgICAgPgogICAgICAgICAgICAgIHtncm91cC5wYWNrYWdlcy5tYXAoKHBrZywgaSkgPT4gKAogICAgICAgICAgICAgICAgPFJldmVhbCBrZXk9e3BrZy5uYW1lfSBkZWxheT17KGkgJSAzKSAqIDgwfT4KICAgICAgICAgICAgICAgICAgPGRpdgogICAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT17YHJlbGF0aXZlIGZsZXggaC1mdWxsIGZsZXgtY29sIHJvdW5kZWQtMnhsIGJvcmRlciBwLTcgdHJhbnNpdGlvbi1hbGwgJHsKICAgICAgICAgICAgICAgICAgICAgIHBrZy5mZWF0dXJlZAogICAgICAgICAgICAgICAgICAgICAgICA/ICJib3JkZXItdGVhbC0zMDAgYmctd2hpdGUgc2hhZG93LWNhcmQtaG92ZXIgcmluZy0xIHJpbmctdGVhbC0yMDAiCiAgICAgICAgICAgICAgICAgICAgICAgIDogImJvcmRlci1uYXZ5LTEwMCBiZy13aGl0ZSBzaGFkb3ctY2FyZCBob3ZlcjotdHJhbnNsYXRlLXktMSBob3ZlcjpzaGFkb3ctY2FyZC1ob3ZlciIKICAgICAgICAgICAgICAgICAgICB9YH0KICAgICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICAgIHtwa2cuZmVhdHVyZWQgJiYgKAogICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJhYnNvbHV0ZSAtdG9wLTMgbGVmdC03IGlubGluZS1mbGV4IGl0ZW1zLWNlbnRlciBnYXAtMSByb3VuZGVkLWZ1bGwgYmctdGVhbC01MDAgcHgtMyBweS0xIHRleHQteHMgZm9udC1ib2xkIHVwcGVyY2FzZSB0cmFja2luZy13aWRlIHRleHQtbmF2eS05NTAiPgogICAgICAgICAgICAgICAgICAgICAgICA8U3RhciBjbGFzc05hbWU9ImgtMyB3LTMgZmlsbC1jdXJyZW50IiAvPiBQb3B1bGFyCiAgICAgICAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgKX0KICAgICAgICAgICAgICAgICAgICA8aDMgY2xhc3NOYW1lPSJmb250LWRpc3BsYXkgdGV4dC1sZyBmb250LWJvbGQgdGV4dC1uYXZ5LTkwMCI+CiAgICAgICAgICAgICAgICAgICAgICB7cGtnLm5hbWV9CiAgICAgICAgICAgICAgICAgICAgPC9oMz4KICAgICAgICAgICAgICAgICAgICB7cGtnLnN1YnRpdGxlICYmICgKICAgICAgICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0ibXQtMSB0ZXh0LXhzIGZvbnQtbWVkaXVtIHVwcGVyY2FzZSB0cmFja2luZy13aWRlIHRleHQtbmF2eS00MDAiPgogICAgICAgICAgICAgICAgICAgICAgICB7cGtnLnN1YnRpdGxlfQogICAgICAgICAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICAgICAgICAgICl9CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im10LTQiPgogICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJpbmxpbmUtZmxleCBpdGVtcy1jZW50ZXIgcm91bmRlZC1mdWxsIGJnLXRlYWwtNTAgcHgtMyBweS0xLjUgdGV4dC1zbSBmb250LXNlbWlib2xkIHRleHQtdGVhbC03MDAiPgogICAgICAgICAgICAgICAgICAgICAgICBQcmljaW5nIG9uIHJlcXVlc3QKICAgICAgICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICAgICAgICAgICAgPHVsIGNsYXNzTmFtZT0ibXQtNiBmbGV4LTEgc3BhY2UteS0zIGJvcmRlci10IGJvcmRlci1uYXZ5LTEwMCBwdC02Ij4KICAgICAgICAgICAgICAgICAgICAgIHtwa2cuZmVhdHVyZXMubWFwKChmKSA9PiAoCiAgICAgICAgICAgICAgICAgICAgICAgIDxsaSBrZXk9e2Z9IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1zdGFydCBnYXAtMi41Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICA8Q2hlY2sgY2xhc3NOYW1lPSJtdC0wLjUgaC00IHctNCBzaHJpbmstMCB0ZXh0LXRlYWwtNTAwIiAvPgogICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC1zbSBsZWFkaW5nLXJlbGF4ZWQgdGV4dC1uYXZ5LTYwMCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB7Zn0KICAgICAgICAgICAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgICAgICAgICAgICApKX0KICAgICAgICAgICAgICAgICAgICA8L3VsPgoKICAgICAgICAgICAgICAgICAgICA8TGluawogICAgICAgICAgICAgICAgICAgICAgaHJlZj0iL2NvbnRhY3QiCiAgICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9e2BtdC03IHctZnVsbCAke3BrZy5mZWF0dXJlZCA/ICJidG4tZ29sZCIgOiAiYnRuLW5hdnkifWB9CiAgICAgICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICAgICAgUmVxdWVzdCBhIFF1b3RlCiAgICAgICAgICAgICAgICAgICAgPC9MaW5rPgogICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDwvUmV2ZWFsPgogICAgICAgICAgICAgICkpfQogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvc2VjdGlvbj4KICAgICAgKSl9CgogICAgICA8Q1RBU2VjdGlvbgogICAgICAgIHRpdGxlPSJOb3Qgc3VyZSB3aGljaCBwYWNrYWdlIGZpdHM/IgogICAgICAgIGRlc2NyaXB0aW9uPSJDb250YWN0IHVzIG5vdyBhbmQgd2UnbGwgcmVjb21tZW5kIHRoZSBtb3N0IGVmZmVjdGl2ZSwgY29zdC1lZmZpY2llbnQgcGFja2FnZSBmb3IgeW91ciBidXNpbmVzcy4iCiAgICAgICAgcHJpbWFyeUxhYmVsPSJHZXQgYSBDdXN0b20gUXVvdGUiCiAgICAgIC8+CiAgICA8Lz4KICApOwp9Cg=="}
+import type { Metadata } from "next";
+import Link from "next/link";
+import { Check, Star } from "lucide-react";
+import PageHero from "@/components/PageHero";
+import Reveal from "@/components/Reveal";
+import CTASection from "@/components/CTASection";
+import { packageGroups } from "@/lib/packages";
+
+export const metadata: Metadata = {
+  title: "Packages",
+  description:
+    "Tailored accounting, Corporate Tax and VAT packages from Accotax for businesses of every size in the UAE. Request a free, no-obligation quote.",
+};
+
+export default function PackagesPage() {
+  return (
+    <>
+      <PageHero
+        eyebrow="Packages & Pricing"
+        title="Packages that meet every need"
+        description="Accotax offers a variety of packages to suit any company size or service. Every engagement is tailored to your business — request a quote and we'll recommend the most effective, cost-efficient package for you."
+        breadcrumb={[{ label: "Home", href: "/" }, { label: "Packages" }]}
+      />
+
+      {packageGroups.map((group, gi) => (
+        <section
+          key={group.id}
+          className={gi % 2 === 0 ? "bg-white py-16 sm:py-20" : "bg-navy-50/50 py-16 sm:py-20"}
+        >
+          <div className="container-x">
+            <Reveal>
+              <h2 className="font-display text-2xl font-bold tracking-tight text-navy-900 sm:text-3xl">
+                {group.title}
+              </h2>
+              {group.intro && (
+                <p className="mt-2 max-w-2xl text-navy-600">{group.intro}</p>
+              )}
+            </Reveal>
+
+            <div
+              className={`mt-10 grid gap-6 ${
+                group.packages.length >= 4
+                  ? "sm:grid-cols-2 lg:grid-cols-3"
+                  : "sm:grid-cols-2 lg:grid-cols-3"
+              }`}
+            >
+              {group.packages.map((pkg, i) => (
+                <Reveal key={pkg.name} delay={(i % 3) * 80}>
+                  <div
+                    className={`relative flex h-full flex-col rounded-2xl border p-7 transition-all ${
+                      pkg.featured
+                        ? "border-teal-300 bg-white shadow-card-hover ring-1 ring-teal-200"
+                        : "border-navy-100 bg-white shadow-card hover:-translate-y-1 hover:shadow-card-hover"
+                    }`}
+                  >
+                    {pkg.featured && (
+                      <span className="absolute -top-3 left-7 inline-flex items-center gap-1 rounded-full bg-teal-500 px-3 py-1 text-xs font-bold uppercase tracking-wide text-navy-950">
+                        <Star className="h-3 w-3 fill-current" /> Popular
+                      </span>
+                    )}
+                    <h3 className="font-display text-lg font-bold text-navy-900">
+                      {pkg.name}
+                    </h3>
+                    {pkg.subtitle && (
+                      <p className="mt-1 text-xs font-medium uppercase tracking-wide text-navy-400">
+                        {pkg.subtitle}
+                      </p>
+                    )}
+                    <div className="mt-4">
+                      <span className="inline-flex items-center rounded-full bg-teal-50 px-3 py-1.5 text-sm font-semibold text-teal-700">
+                        Pricing on request
+                      </span>
+                    </div>
+
+                    <ul className="mt-6 flex-1 space-y-3 border-t border-navy-100 pt-6">
+                      {pkg.features.map((f) => (
+                        <li key={f} className="flex items-start gap-2.5">
+                          <Check className="mt-0.5 h-4 w-4 shrink-0 text-teal-500" />
+                          <span className="text-sm leading-relaxed text-navy-600">
+                            {f}
+                          </span>
+                        </li>
+                      ))}
+                    </ul>
+
+                    <Link
+                      href="/contact"
+                      className={`mt-7 w-full ${pkg.featured ? "btn-gold" : "btn-navy"}`}
+                    >
+                      Request a Quote
+                    </Link>
+                  </div>
+                </Reveal>
+              ))}
+            </div>
+          </div>
+        </section>
+      ))}
+
+      <CTASection
+        title="Not sure which package fits?"
+        description="Contact us now and we'll recommend the most effective, cost-efficient package for your business."
+        primaryLabel="Get a Custom Quote"
+      />
+    </>
+  );
+}

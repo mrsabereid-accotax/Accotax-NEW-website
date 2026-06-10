@@ -1,1 +1,132 @@
-{"data":"aW1wb3J0IHR5cGUgeyBNZXRhZGF0YSB9IGZyb20gIm5leHQiOwppbXBvcnQgUGFnZUhlcm8gZnJvbSAiQC9jb21wb25lbnRzL1BhZ2VIZXJvIjsKaW1wb3J0IHsgc2l0ZSB9IGZyb20gIkAvbGliL3NpdGUiOwoKZXhwb3J0IGNvbnN0IG1ldGFkYXRhOiBNZXRhZGF0YSA9IHsKICB0aXRsZTogIlByaXZhY3kgUG9saWN5IiwKICBkZXNjcmlwdGlvbjogYEhvdyAke3NpdGUubmFtZX0gY29sbGVjdHMsIHVzZXMgYW5kIHByb3RlY3RzIHlvdXIgcGVyc29uYWwgaW5mb3JtYXRpb24uYCwKfTsKCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIFByaXZhY3lQYWdlKCkgewogIHJldHVybiAoCiAgICA8PgogICAgICA8UGFnZUhlcm8KICAgICAgICBleWVicm93PSJMZWdhbCIKICAgICAgICB0aXRsZT0iUHJpdmFjeSBQb2xpY3kiCiAgICAgICAgZGVzY3JpcHRpb249IkhvdyB3ZSBjb2xsZWN0LCB1c2UgYW5kIHByb3RlY3QgeW91ciBpbmZvcm1hdGlvbi4iCiAgICAgICAgYnJlYWRjcnVtYj17W3sgbGFiZWw6ICJIb21lIiwgaHJlZjogIi8iIH0sIHsgbGFiZWw6ICJQcml2YWN5IFBvbGljeSIgfV19CiAgICAgIC8+CgogICAgICA8c2VjdGlvbiBjbGFzc05hbWU9ImJnLXdoaXRlIHB5LTE2IHNtOnB5LTIwIj4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY29udGFpbmVyLXggbWF4LXctM3hsIj4KICAgICAgICAgIDxwIGNsYXNzTmFtZT0ibWItOCB0ZXh0LXNtIHRleHQtbmF2eS00MDAiPkxhc3QgdXBkYXRlZDogSnVuZSAyMDI2PC9wPgoKICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJwcm9zZS1uYXZ5IHNwYWNlLXktOCI+CiAgICAgICAgICAgIDxkaXY+CiAgICAgICAgICAgICAgPHA+CiAgICAgICAgICAgICAgICB7c2l0ZS5uYW1lfSAo4oCcd2XigJ0sIOKAnHVz4oCdLCDigJxvdXLigJ0pIHJlc3BlY3RzIHlvdXIgcHJpdmFjeSBhbmQgaXMKICAgICAgICAgICAgICAgIGNvbW1pdHRlZCB0byBwcm90ZWN0aW5nIHRoZSBwZXJzb25hbCBpbmZvcm1hdGlvbiB5b3Ugc2hhcmUgd2l0aAogICAgICAgICAgICAgICAgdXMuIFRoaXMgcG9saWN5IGV4cGxhaW5zIHdoYXQgd2UgY29sbGVjdCB0aHJvdWdoIHRoaXMgd2Vic2l0ZSBhbmQKICAgICAgICAgICAgICAgIGhvdyB3ZSB1c2UgaXQuCiAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICAgIDxTZWN0aW9uIHRpdGxlPSJJbmZvcm1hdGlvbiB3ZSBjb2xsZWN0Ij4KICAgICAgICAgICAgICA8cD4KICAgICAgICAgICAgICAgIFdoZW4geW91IHN1Ym1pdCBvdXIgY29udGFjdCBvciBlbnF1aXJ5IGZvcm0sIHdlIGNvbGxlY3QgdGhlCiAgICAgICAgICAgICAgICBkZXRhaWxzIHlvdSBwcm92aWRlIOKAlCB0eXBpY2FsbHkgeW91ciBuYW1lLCBlbWFpbCBhZGRyZXNzLCBwaG9uZQogICAgICAgICAgICAgICAgbnVtYmVyLCB0aGUgc2VydmljZSB5b3UgYXJlIGludGVyZXN0ZWQgaW4gYW5kIHlvdXIgbWVzc2FnZS4gSWYKICAgICAgICAgICAgICAgIHlvdSBjb250YWN0IHVzIGJ5IGVtYWlsLCBwaG9uZSBvciBXaGF0c0FwcCwgd2UgcmVjZWl2ZSB0aGUKICAgICAgICAgICAgICAgIGluZm9ybWF0aW9uIHlvdSBjaG9vc2UgdG8gc2hhcmUuCiAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICAgIDxwPgogICAgICAgICAgICAgICAgTGlrZSBtb3N0IHdlYnNpdGVzLCB3ZSBtYXkgYWxzbyBjb2xsZWN0IGxpbWl0ZWQgdGVjaG5pY2FsIGRhdGEKICAgICAgICAgICAgICAgIChzdWNoIGFzIGFub255bWlzZWQgYW5hbHl0aWNzIGFib3V0IHBhZ2UgdmlzaXRzKSB0byB1bmRlcnN0YW5kCiAgICAgICAgICAgICAgICBob3cgdGhlIHNpdGUgaXMgdXNlZCBhbmQgaW1wcm92ZSBpdC4KICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgIDwvU2VjdGlvbj4KCiAgICAgICAgICAgIDxTZWN0aW9uIHRpdGxlPSJIb3cgd2UgdXNlIHlvdXIgaW5mb3JtYXRpb24iPgogICAgICAgICAgICAgIDxwPldlIHVzZSB5b3VyIGluZm9ybWF0aW9uIHRvOjwvcD4KICAgICAgICAgICAgICA8dWwgY2xhc3NOYW1lPSJtbC01IGxpc3QtZGlzYyBzcGFjZS15LTIgdGV4dC1uYXZ5LTcwMCI+CiAgICAgICAgICAgICAgICA8bGk+UmVzcG9uZCB0byB5b3VyIGVucXVpcnkgYW5kIHByb3ZpZGUgdGhlIHNlcnZpY2VzIHlvdSByZXF1ZXN0OzwvbGk+CiAgICAgICAgICAgICAgICA8bGk+Q29tbXVuaWNhdGUgd2l0aCB5b3UgYWJvdXQgeW91ciBlbmdhZ2VtZW50OzwvbGk+CiAgICAgICAgICAgICAgICA8bGk+SW1wcm92ZSBvdXIgd2Vic2l0ZSBhbmQgc2VydmljZXM7IGFuZDwvbGk+CiAgICAgICAgICAgICAgICA8bGk+Q29tcGx5IHdpdGggYXBwbGljYWJsZSBsZWdhbCBhbmQgcmVndWxhdG9yeSBvYmxpZ2F0aW9ucy48L2xpPgogICAgICAgICAgICAgIDwvdWw+CiAgICAgICAgICAgIDwvU2VjdGlvbj4KCiAgICAgICAgICAgIDxTZWN0aW9uIHRpdGxlPSJDb29raWVzICYgYW5hbHl0aWNzIj4KICAgICAgICAgICAgICA8cD4KICAgICAgICAgICAgICAgIFdlIG1heSB1c2UgY29va2llcyBhbmQgYW5hbHl0aWNzIHRvb2xzIChzdWNoIGFzIEdvb2dsZSBBbmFseXRpY3MpCiAgICAgICAgICAgICAgICB0byBtZWFzdXJlIHdlYnNpdGUgdHJhZmZpYyBhbmQgdXNhZ2UgaW4gYWdncmVnYXRlLiBZb3UgY2FuIGRpc2FibGUKICAgICAgICAgICAgICAgIGNvb2tpZXMgaW4geW91ciBicm93c2VyIHNldHRpbmdzOyBzb21lIGZlYXR1cmVzIG1heSBub3QgZnVuY3Rpb24KICAgICAgICAgICAgICAgIGFzIGludGVuZGVkIGlmIHlvdSBkby4KICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgIDwvU2VjdGlvbj4KCiAgICAgICAgICAgIDxTZWN0aW9uIHRpdGxlPSJTaGFyaW5nIHlvdXIgaW5mb3JtYXRpb24iPgogICAgICAgICAgICAgIDxwPgogICAgICAgICAgICAgICAgV2UgZG8gbm90IHNlbGwgeW91ciBwZXJzb25hbCBpbmZvcm1hdGlvbi4gV2UgbWF5IHNoYXJlIGl0IHdpdGgKICAgICAgICAgICAgICAgIHRydXN0ZWQgc2VydmljZSBwcm92aWRlcnMgd2hvIGhlbHAgdXMgb3BlcmF0ZSBvdXIgYnVzaW5lc3MgKGZvcgogICAgICAgICAgICAgICAgZXhhbXBsZSwgZW1haWwgb3IgaG9zdGluZyBwcm92aWRlcnMpLCBhbmQgd2hlcmUgcmVxdWlyZWQgYnkgbGF3IG9yCiAgICAgICAgICAgICAgICBhIGNvbXBldGVudCBhdXRob3JpdHkuCiAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICA8L1NlY3Rpb24+CgogICAgICAgICAgICA8U2VjdGlvbiB0aXRsZT0iRGF0YSByZXRlbnRpb24gJiBzZWN1cml0eSI+CiAgICAgICAgICAgICAgPHA+CiAgICAgICAgICAgICAgICBXZSByZXRhaW4gcGVyc29uYWwgaW5mb3JtYXRpb24gb25seSBmb3IgYXMgbG9uZyBhcyBuZWNlc3NhcnkgdG8KICAgICAgICAgICAgICAgIGZ1bGZpbCB0aGUgcHVycG9zZXMgZGVzY3JpYmVkIGFib3ZlIG9yIGFzIHJlcXVpcmVkIGJ5IGxhdy4gV2UgdGFrZQogICAgICAgICAgICAgICAgcmVhc29uYWJsZSB0ZWNobmljYWwgYW5kIG9yZ2FuaXNhdGlvbmFsIG1lYXN1cmVzIHRvIHByb3RlY3QgeW91cgogICAgICAgICAgICAgICAgaW5mb3JtYXRpb24gYWdhaW5zdCB1bmF1dGhvcmlzZWQgYWNjZXNzLCBsb3NzIG9yIG1pc3VzZS4KICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgIDwvU2VjdGlvbj4KCiAgICAgICAgICAgIDxTZWN0aW9uIHRpdGxlPSJZb3VyIHJpZ2h0cyI+CiAgICAgICAgICAgICAgPHA+CiAgICAgICAgICAgICAgICBZb3UgbWF5IHJlcXVlc3QgYWNjZXNzIHRvLCBjb3JyZWN0aW9uIG9mLCBvciBkZWxldGlvbiBvZiB0aGUKICAgICAgICAgICAgICAgIHBlcnNvbmFsIGluZm9ybWF0aW9uIHdlIGhvbGQgYWJvdXQgeW91LCBzdWJqZWN0IHRvIGFwcGxpY2FibGUgbGF3LgogICAgICAgICAgICAgICAgVG8gbWFrZSBhIHJlcXVlc3QsIGNvbnRhY3QgdXMgdXNpbmcgdGhlIGRldGFpbHMgYmVsb3cuCiAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICA8L1NlY3Rpb24+CgogICAgICAgICAgICA8U2VjdGlvbiB0aXRsZT0iQ29udGFjdCB1cyI+CiAgICAgICAgICAgICAgPHA+CiAgICAgICAgICAgICAgICBGb3IgYW55IHByaXZhY3kgcXVlc3Rpb25zIG9yIHJlcXVlc3RzLCBjb250YWN0IHVzIGF0eyIgIn0KICAgICAgICAgICAgICAgIDxhIGNsYXNzTmFtZT0idGV4dC10ZWFsLTYwMCB1bmRlcmxpbmUiIGhyZWY9e2BtYWlsdG86JHtzaXRlLmVtYWlsLnByaW1hcnl9YH0+CiAgICAgICAgICAgICAgICAgIHtzaXRlLmVtYWlsLnByaW1hcnl9CiAgICAgICAgICAgICAgICA8L2E+eyIgIn0KICAgICAgICAgICAgICAgIG9yIHtzaXRlLnBob25lc1swXS5kaXNwbGF5fS4gT3VyIG9mZmljZSBpcyBhdHsiICJ9CiAgICAgICAgICAgICAgICB7c2l0ZS5hZGRyZXNzLmxpbmVzLmpvaW4oIiwgIil9LgogICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgPC9TZWN0aW9uPgoKICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXNtIHRleHQtbmF2eS00MDAiPgogICAgICAgICAgICAgIFRoaXMgcGFnZSBpcyBwcm92aWRlZCBhcyBhIGdlbmVyYWwgdGVtcGxhdGUgYW5kIHNob3VsZCBiZSByZXZpZXdlZAogICAgICAgICAgICAgIGJ5IGEgcXVhbGlmaWVkIHByb2Zlc3Npb25hbCB0byBlbnN1cmUgaXQgbWVldHMgeW91ciBzcGVjaWZpYyBsZWdhbAogICAgICAgICAgICAgIGFuZCByZWd1bGF0b3J5IHJlcXVpcmVtZW50cy4KICAgICAgICAgICAgPC9wPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvc2VjdGlvbj4KICAgIDwvPgogICk7Cn0KCmZ1bmN0aW9uIFNlY3Rpb24oewogIHRpdGxlLAogIGNoaWxkcmVuLAp9OiB7CiAgdGl0bGU6IHN0cmluZzsKICBjaGlsZHJlbjogUmVhY3QuUmVhY3ROb2RlOwp9KSB7CiAgcmV0dXJuICgKICAgIDxkaXY+CiAgICAgIDxoMiBjbGFzc05hbWU9Im1iLTMgZm9udC1kaXNwbGF5IHRleHQteGwgZm9udC1ib2xkIHRleHQtbmF2eS05MDAiPgogICAgICAgIHt0aXRsZX0KICAgICAgPC9oMj4KICAgICAge2NoaWxkcmVufQogICAgPC9kaXY+CiAgKTsKfQo="}
+import type { Metadata } from "next";
+import PageHero from "@/components/PageHero";
+import { site } from "@/lib/site";
+
+export const metadata: Metadata = {
+  title: "Privacy Policy",
+  description: `How ${site.name} collects, uses and protects your personal information.`,
+};
+
+export default function PrivacyPage() {
+  return (
+    <>
+      <PageHero
+        eyebrow="Legal"
+        title="Privacy Policy"
+        description="How we collect, use and protect your information."
+        breadcrumb={[{ label: "Home", href: "/" }, { label: "Privacy Policy" }]}
+      />
+
+      <section className="bg-white py-16 sm:py-20">
+        <div className="container-x max-w-3xl">
+          <p className="mb-8 text-sm text-navy-400">Last updated: June 2026</p>
+
+          <div className="prose-navy space-y-8">
+            <div>
+              <p>
+                {site.name} (“we”, “us”, “our”) respects your privacy and is
+                committed to protecting the personal information you share with
+                us. This policy explains what we collect through this website and
+                how we use it.
+              </p>
+            </div>
+
+            <Section title="Information we collect">
+              <p>
+                When you submit our contact or enquiry form, we collect the
+                details you provide — typically your name, email address, phone
+                number, the service you are interested in and your message. If
+                you contact us by email, phone or WhatsApp, we receive the
+                information you choose to share.
+              </p>
+              <p>
+                Like most websites, we may also collect limited technical data
+                (such as anonymised analytics about page visits) to understand
+                how the site is used and improve it.
+              </p>
+            </Section>
+
+            <Section title="How we use your information">
+              <p>We use your information to:</p>
+              <ul className="ml-5 list-disc space-y-2 text-navy-700">
+                <li>Respond to your enquiry and provide the services you request;</li>
+                <li>Communicate with you about your engagement;</li>
+                <li>Improve our website and services; and</li>
+                <li>Comply with applicable legal and regulatory obligations.</li>
+              </ul>
+            </Section>
+
+            <Section title="Cookies & analytics">
+              <p>
+                We may use cookies and analytics tools (such as Google Analytics)
+                to measure website traffic and usage in aggregate. You can disable
+                cookies in your browser settings; some features may not function
+                as intended if you do.
+              </p>
+            </Section>
+
+            <Section title="Sharing your information">
+              <p>
+                We do not sell your personal information. We may share it with
+                trusted service providers who help us operate our business (for
+                example, email or hosting providers), and where required by law or
+                a competent authority.
+              </p>
+            </Section>
+
+            <Section title="Data retention & security">
+              <p>
+                We retain personal information only for as long as necessary to
+                fulfil the purposes described above or as required by law. We take
+                reasonable technical and organisational measures to protect your
+                information against unauthorised access, loss or misuse.
+              </p>
+            </Section>
+
+            <Section title="Your rights">
+              <p>
+                You may request access to, correction of, or deletion of the
+                personal information we hold about you, subject to applicable law.
+                To make a request, contact us using the details below.
+              </p>
+            </Section>
+
+            <Section title="Contact us">
+              <p>
+                For any privacy questions or requests, contact us at{" "}
+                <a className="text-teal-600 underline" href={`mailto:${site.email.primary}`}>
+                  {site.email.primary}
+                </a>{" "}
+                or {site.phones[0].display}. Our office is at{" "}
+                {site.address.lines.join(", ")}.
+              </p>
+            </Section>
+
+            <p className="text-sm text-navy-400">
+              This page is provided as a general template and should be reviewed
+              by a qualified professional to ensure it meets your specific legal
+              and regulatory requirements.
+            </p>
+          </div>
+        </div>
+      </section>
+    </>
+  );
+}
+
+function Section({
+  title,
+  children,
+}: {
+  title: string;
+  children: React.ReactNode;
+}) {
+  return (
+    <div>
+      <h2 className="mb-3 font-display text-xl font-bold text-navy-900">
+        {title}
+      </h2>
+      {children}
+    </div>
+  );
+}

@@ -1,1 +1,8 @@
-{"data":"Y29uc3QgY29uZmlnID0gewogIHBsdWdpbnM6IHsKICAgIHRhaWx3aW5kY3NzOiB7fSwKICAgIGF1dG9wcmVmaXhlcjoge30sCiAgfSwKfTsKCmV4cG9ydCBkZWZhdWx0IGNvbmZpZzsK"}
+const config = {
+  plugins: {
+    tailwindcss: {},
+    autoprefixer: {},
+  },
+};
+
+export default config;

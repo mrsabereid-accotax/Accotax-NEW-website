@@ -1,1 +1,213 @@
-{"data":"aW1wb3J0IHR5cGUgeyBNZXRhZGF0YSB9IGZyb20gIm5leHQiOwppbXBvcnQgTGluayBmcm9tICJuZXh0L2xpbmsiOwppbXBvcnQgSW1hZ2UgZnJvbSAibmV4dC9pbWFnZSI7CmltcG9ydCB7IEFycm93UmlnaHQsIEV5ZSwgVGFyZ2V0LCBDaGVja0NpcmNsZTIgfSBmcm9tICJsdWNpZGUtcmVhY3QiOwppbXBvcnQgUGFnZUhlcm8gZnJvbSAiQC9jb21wb25lbnRzL1BhZ2VIZXJvIjsKaW1wb3J0IFNlY3Rpb25IZWFkaW5nIGZyb20gIkAvY29tcG9uZW50cy9TZWN0aW9uSGVhZGluZyI7CmltcG9ydCBSZXZlYWwgZnJvbSAiQC9jb21wb25lbnRzL1JldmVhbCI7CmltcG9ydCBDb3VudFVwIGZyb20gIkAvY29tcG9uZW50cy9Db3VudFVwIjsKaW1wb3J0IENUQVNlY3Rpb24gZnJvbSAiQC9jb21wb25lbnRzL0NUQVNlY3Rpb24iOwppbXBvcnQgeyBzZXJ2aWNlcywgY2F0ZWdvcmllcyB9IGZyb20gIkAvbGliL3NlcnZpY2VzIjsKCmV4cG9ydCBjb25zdCBtZXRhZGF0YTogTWV0YWRhdGEgPSB7CiAgdGl0bGU6ICJBYm91dCBVcyIsCiAgZGVzY3JpcHRpb246CiAgICAiQWNjb3RheCBBY2NvdW50aW5nIFNlcnZpY2VzIGlzIGFuIEZUQS1hcHByb3ZlZCB0YXggYWdlbmN5IHByb3ZpZGluZyBhY2NvdW50aW5nLCB0YXhhdGlvbiBhbmQgbWFuYWdlbWVudCBjb25zdWx0aW5nIGFjcm9zcyB0aGUgVUFFIOKAlCBmb3Igc3RhcnR1cHMsIFNNRXMgYW5kIGxhcmdlIGVudGl0aWVzLiIsCn07Cgpjb25zdCBhYm91dFN0YXRzID0gWwogIHsgZW5kOiBzZXJ2aWNlcy5sZW5ndGgsIHN1ZmZpeDogIisiLCBsYWJlbDogIlNwZWNpYWxpc3Qgc2VydmljZXMiIH0sCiAgeyBlbmQ6IE9iamVjdC5rZXlzKGNhdGVnb3JpZXMpLmxlbmd0aCwgcGFkOiB0cnVlLCBsYWJlbDogIkNvcmUgc2VydmljZSBhcmVhcyIgfSwKICB7IGVuZDogOSwgc3VmZml4OiAiJSIsIGxhYmVsOiAiU3RhbmRhcmQgQ29ycG9yYXRlIFRheCByYXRlIiB9LAogIHsgZW5kOiA1LCBzdWZmaXg6ICIlIiwgbGFiZWw6ICJVQUUgVkFUIOKAlCBmdWxseSBtYW5hZ2VkIiB9LApdOwoKY29uc3QgZGlmZmVyZW50aWF0b3JzID0gWwogICJJbi1kZXB0aCB1bmRlcnN0YW5kaW5nIG9mIGEgd2lkZSByYW5nZSBvZiBzZWN0b3JzIGFuZCBsb2NhbCByZWd1bGF0aW9ucyIsCiAgIlByb2FjdGl2ZSwgdGFpbG9yZWQgc29sdXRpb25zIOKAlCBvZnRlbiBiZWZvcmUgeW91IGFyZSBhd2FyZSBvZiBhbiBpc3N1ZSIsCiAgIkEgdGVhbSB0aGF0IGJyaW5ncyBleGNlcHRpb25hbCBhY2NvdW50aW5nIGtub3dsZWRnZSBhbmQgdGF4LWxhdyBleHBlcnRpc2UiLAogICJTbWFydCwgcGVyc29uYWxpc2VkIGd1aWRhbmNlIGJleW9uZCB0cmFkaXRpb25hbCBhY2NvdW50aW5nIiwKXTsKCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIEFib3V0UGFnZSgpIHsKICByZXR1cm4gKAogICAgPD4KICAgICAgPFBhZ2VIZXJvCiAgICAgICAgZXllYnJvdz0iQWJvdXQgQWNjb3RheCIKICAgICAgICB0aXRsZT0iVGhlIGxlYWRpbmcgYWNjb3VudGluZyBjb21wYW55IGluIHRoZSBVQUUiCiAgICAgICAgZGVzY3JpcHRpb249IlRvZ2V0aGVyLCB3ZSBjYW4gYnVpbGQgYSBzdHJvbmdlciwgY29tcGxpYW50IGFuZCBtb3JlIHByb2ZpdGFibGUgYnVzaW5lc3MuIgogICAgICAgIGJyZWFkY3J1bWI9e1t7IGxhYmVsOiAiSG9tZSIsIGhyZWY6ICIvIiB9LCB7IGxhYmVsOiAiQWJvdXQiIH1dfQogICAgICAvPgoKICAgICAgey8qIFN0YXRzICovfQogICAgICA8c2VjdGlvbiBjbGFzc05hbWU9ImJnLWluay05MDAgcHktMTQiPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJjb250YWluZXIteCBncmlkIGdyaWQtY29scy0yIGdhcC04IGxnOmdyaWQtY29scy00Ij4KICAgICAgICAgIHthYm91dFN0YXRzLm1hcCgocywgaSkgPT4gKAogICAgICAgICAgICA8UmV2ZWFsIGtleT17cy5sYWJlbH0gZGVsYXk9e2kgKiA5MH0gY2xhc3NOYW1lPSJib3JkZXItbCBib3JkZXItd2hpdGUvMTAgcGwtNSI+CiAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJmb250LWRpc3BsYXkgdGV4dC00eGwgZm9udC1leHRyYWJvbGQgdGV4dC10ZWFsLTQwMCBzbTp0ZXh0LTV4bCI+CiAgICAgICAgICAgICAgICA8Q291bnRVcCBlbmQ9e3MuZW5kfSBzdWZmaXg9e3Muc3VmZml4fSBwYWQ9e3MucGFkfSAvPgogICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9Im10LTIgdGV4dC1zbSBmb250LW1lZGl1bSB0ZXh0LXdoaXRlLzcwIj57cy5sYWJlbH08L3A+CiAgICAgICAgICAgIDwvUmV2ZWFsPgogICAgICAgICAgKSl9CiAgICAgICAgPC9kaXY+CiAgICAgIDwvc2VjdGlvbj4KCiAgICAgIHsvKiBPdXIgQ29tcGFueSAqL30KICAgICAgPHNlY3Rpb24gY2xhc3NOYW1lPSJiZy13aGl0ZSBweS0yMCBzbTpweS0yNCI+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNvbnRhaW5lci14IGdyaWQgZ2FwLTE0IGxnOmdyaWQtY29scy0yIGxnOml0ZW1zLXN0YXJ0Ij4KICAgICAgICAgIDxSZXZlYWw+CiAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iZXllYnJvdyI+CiAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJoLXB4IHctNiBiZy1jdXJyZW50IG9wYWNpdHktNjAiIC8+IE91ciBDb21wYW55CiAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgPGgyIGNsYXNzTmFtZT0ibXQtMyBmb250LWRpc3BsYXkgdGV4dC0zeGwgZm9udC1ib2xkIHRyYWNraW5nLXRpZ2h0IHRleHQtbmF2eS05MDAgc206dGV4dC00eGwiPgogICAgICAgICAgICAgIEJ1aWx0IGFyb3VuZCBvdXIgY2xpZW50cycgbmVlZHMKICAgICAgICAgICAgPC9oMj4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InByb3NlLW5hdnkgbXQtNiI+CiAgICAgICAgICAgICAgPHA+CiAgICAgICAgICAgICAgICBJbiBvdXIgY29uc3RhbnQgZWZmb3J0cyB0byBwcm92aWRlIG91ciBjbGllbnRzIHdpdGggdGhlIG1vc3QKICAgICAgICAgICAgICAgIHN1aXRhYmxlIHNlcnZpY2UgcHJvcG9zaXRpb25zIG9uIHRpbWUsIHdlIGhhdmUgd29ya2VkIGRheSBpbiwKICAgICAgICAgICAgICAgIGRheSBvdXQg4oCUIGNyZWF0aW5nIHNlcnZpY2Ugb2ZmZXJpbmdzIGJhc2VkIG9uIG91ciBwcm9mb3VuZAogICAgICAgICAgICAgICAgaW5kdXN0cnkgaW5zaWdodCBhbmQga25vd2xlZGdlLCBhbmQgYSBzcGVjaWFsIGV5ZSBmb3IgdGhlIG5lZWRzCiAgICAgICAgICAgICAgICBvZiBvdXIgY2xpZW50cy4KICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICAgPHA+CiAgICAgICAgICAgICAgICBXZSBrbm93IHRoYXQgZWFjaCBjbGllbnQgaGFzIGRpZmZlcmVudCwgdW5pcXVlIHJlcXVpcmVtZW50cywgYW5kCiAgICAgICAgICAgICAgICB3ZSBzdXBwb3J0IHRoZW0gd2l0aCBldmVyeXRoaW5nIHRoZXkgbmVlZC4gQnkgcHJvdmlkaW5nIHF1YWxpdHkKICAgICAgICAgICAgICAgIGJvb2trZWVwaW5nIHNvbHV0aW9ucyB0byBlbnRyZXByZW5ldXJzIGFuZCB0cmFuc2Zvcm1pbmcgdGhlaXIKICAgICAgICAgICAgICAgIGV2ZXJ5ZGF5IGJpbGxzIGludG8gZmluYW5jaWFsIHN0YXRlbWVudHMgYW5kIHZpc3VhbCByZXBvcnRzLCB3ZQogICAgICAgICAgICAgICAgaGF2ZSBzZXJ2ZWQgbWFueSBjb21wYW5pZXMgd2l0aCBhIHdpZGUgcmFuZ2Ugb2Ygc2VydmljZXMgc3VjaCBhcwogICAgICAgICAgICAgICAgYWNjb3VudGluZyAmYW1wOyBib29ra2VlcGluZywgdGF4YXRpb24sIGFkdmlzb3J5IHNlcnZpY2VzIGFuZAogICAgICAgICAgICAgICAgYnVzaW5lc3Mgc2V0dXAuCiAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDwvUmV2ZWFsPgoKICAgICAgICAgIDxSZXZlYWwgZGVsYXk9ezEyMH0gY2xhc3NOYW1lPSJncmlkIGdhcC01Ij4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InJlbGF0aXZlIGgtNTYgb3ZlcmZsb3ctaGlkZGVuIHJvdW5kZWQtMnhsIHNtOmgtNjQiPgogICAgICAgICAgICAgIDxJbWFnZQogICAgICAgICAgICAgICAgc3JjPSIvaW1hZ2VzL2Fib3V0LXRlYW0uanBnIgogICAgICAgICAgICAgICAgYWx0PSJUaGUgQWNjb3RheCB0ZWFtIGNvbGxhYm9yYXRpbmciCiAgICAgICAgICAgICAgICBmaWxsCiAgICAgICAgICAgICAgICBzaXplcz0iKG1pbi13aWR0aDogMTAyNHB4KSA1MHZ3LCAxMDB2dyIKICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0ib2JqZWN0LWNvdmVyIgogICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImFic29sdXRlIGluc2V0LTAgYmctZ3JhZGllbnQtdG8tdCBmcm9tLWluay05NTAvNDUgdG8tdHJhbnNwYXJlbnQiIC8+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0icm91bmRlZC0yeGwgYm9yZGVyIGJvcmRlci1uYXZ5LTEwMCBiZy1uYXZ5LTUwLzQwIHAtNyI+CiAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJpbmxpbmUtZmxleCBoLTEyIHctMTIgaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIHJvdW5kZWQteGwgYmctaW5rLTk1MCB0ZXh0LXRlYWwtNDAwIj4KICAgICAgICAgICAgICAgIDxFeWUgY2xhc3NOYW1lPSJoLTYgdy02IiAvPgogICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICA8aDMgY2xhc3NOYW1lPSJtdC00IGZvbnQtZGlzcGxheSB0ZXh0LWxnIGZvbnQtYm9sZCB0ZXh0LW5hdnktOTAwIj4KICAgICAgICAgICAgICAgIE91ciBWaXNpb24KICAgICAgICAgICAgICA8L2gzPgogICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0ibXQtMiBsZWFkaW5nLXJlbGF4ZWQgdGV4dC1uYXZ5LTYwMCI+CiAgICAgICAgICAgICAgICBUbyBiZSB0aGUgcHJlbWllciBhY2NvdW50aW5nIGZpcm0uIFRocm91Z2ggdW5yaXZhbGxlZCBzZXJ2aWNlcywKICAgICAgICAgICAgICAgIHRlYW13b3JrIGFuZCBwcm9mZXNzaW9uYWxpc20sIHdlIGNvbnRyaWJ1dGUgdG8gdGhlIHN1c3RhaW5lZAogICAgICAgICAgICAgICAgZ3Jvd3RoIG9mIHRoZSBlY29ub215IGFuZCBwcm9tb3RlIGV0aGljYWwgYnVzaW5lc3MgY29uZHVjdC4KICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0icm91bmRlZC0yeGwgYm9yZGVyIGJvcmRlci1uYXZ5LTEwMCBiZy1uYXZ5LTUwLzQwIHAtNyI+CiAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJpbmxpbmUtZmxleCBoLTEyIHctMTIgaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIHJvdW5kZWQteGwgYmctaW5rLTk1MCB0ZXh0LXRlYWwtNDAwIj4KICAgICAgICAgICAgICAgIDxUYXJnZXQgY2xhc3NOYW1lPSJoLTYgdy02IiAvPgogICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICA8aDMgY2xhc3NOYW1lPSJtdC00IGZvbnQtZGlzcGxheSB0ZXh0LWxnIGZvbnQtYm9sZCB0ZXh0LW5hdnktOTAwIj4KICAgICAgICAgICAgICAgIE91ciBNaXNzaW9uCiAgICAgICAgICAgICAgPC9oMz4KICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9Im10LTIgbGVhZGluZy1yZWxheGVkIHRleHQtbmF2eS02MDAiPgogICAgICAgICAgICAgICAgVG8gcHJvdmlkZSBpbnRlZ3JhdGVkIHNlcnZpY2VzIGZvciBvdXIgY29ycG9yYXRlIGNsaWVudHMg4oCUIGJlc3QKICAgICAgICAgICAgICAgIHNvbHV0aW9ucywgdW5iZWF0YWJsZSBhY2N1cmFjeSBhbmQgdGltZWx5IGRlbGl2ZXJ5IOKAlCB3aXRoCiAgICAgICAgICAgICAgICBzZXZlcmFsIHBhY2thZ2VzIGF0IGFmZm9yZGFibGUgcHJpY2VzLCBhbGxvd2luZyBvdXIgY2xpZW50cyB0bwogICAgICAgICAgICAgICAgZm9jdXMgb24gdGhlIGR5bmFtaWNzIGZvciB0aGUgZ3Jvd3RoIG9mIHRoZWlyIGJ1c2luZXNzZXMuCiAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDwvUmV2ZWFsPgogICAgICAgIDwvZGl2PgogICAgICA8L3NlY3Rpb24+CgogICAgICB7LyogT3VyIFNlcnZpY2VzIG92ZXJ2aWV3ICovfQogICAgICA8c2VjdGlvbiBjbGFzc05hbWU9ImJnLW5hdnktNTAvNTAgcHktMjAgc206cHktMjQiPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJjb250YWluZXIteCI+CiAgICAgICAgICA8U2VjdGlvbkhlYWRpbmcKICAgICAgICAgICAgYWxpZ249ImxlZnQiCiAgICAgICAgICAgIGV5ZWJyb3c9Ik91ciBTZXJ2aWNlcyIKICAgICAgICAgICAgdGl0bGU9IkEgZnVsbCBzcGVjdHJ1bSBvZiBhY2NvdW50aW5nICYgY29uc3VsdGluZyIKICAgICAgICAgIC8+CiAgICAgICAgICA8UmV2ZWFsIGRlbGF5PXs4MH0gY2xhc3NOYW1lPSJtdC02IG1heC13LTR4bCBwcm9zZS1uYXZ5Ij4KICAgICAgICAgICAgPHA+CiAgICAgICAgICAgICAgV2UgcHJvdmlkZSBhIGZ1bGwgc3BlY3RydW0gb2YgZ2VuZXJhbCBhY2NvdW50aW5nLCB0YXhhdGlvbiBhbmQKICAgICAgICAgICAgICBtYW5hZ2VtZW50IGNvbnN1bHRpbmcgc2VydmljZXMgdG8gY2xpZW50cyB0aHJvdWdob3V0IHRoZSBVbml0ZWQKICAgICAgICAgICAgICBBcmFiIEVtaXJhdGVzLiBUaGlzIGluY2x1ZGVzIHNlcnZpY2VzIHRhaWxvcmVkIGZvciBzdGFydHVwcywgc21hbGwKICAgICAgICAgICAgICB0byBtZWRpdW0gZW50ZXJwcmlzZXMgYW5kIGxhcmdlIGVudGl0aWVzLiBGb3IgU01Fcywgd2UgcHJvdmlkZQogICAgICAgICAgICAgIGJvb2trZWVwaW5nIHN1cHBvcnQsIGZpbmFuY2lhbCBzdGF0ZW1lbnQgYW5hbHlzaXMgYW5kIGZpbmFuY2lhbAogICAgICAgICAgICAgIGNvbnRyb2xsZXIgZ3VpZGFuY2UsIGFtb25nIG90aGVyIHZhbHVlLWFkZGVkIGFjY291bnRpbmcgYW5kCiAgICAgICAgICAgICAgYnVzaW5lc3MgY29uc3VsdGluZyBzZXJ2aWNlcy4KICAgICAgICAgICAgPC9wPgogICAgICAgICAgICA8cD4KICAgICAgICAgICAgICBXZSBsZXZlcmFnZSBvdXIgZXhwZXJpZW5jZSB0byBoZWxwIG91ciBjbGllbnRzIHNlbGVjdCBhY2NvdW50YW50cywKICAgICAgICAgICAgICBwZXJmb3JtIGJyZWFrZXZlbiBhbmFseXNlcywgb3B0aW1pc2UgdGhlaXIgc3lzdGVtcyBhbmQgcHJlcGFyZQogICAgICAgICAgICAgIHRoZWlyIG9yZ2FuaXNhdGlvbnMgZm9yIGdyb3d0aC4gV2hldGhlciBjbGllbnRzIG5lZWQgaGVscAogICAgICAgICAgICAgIGludGVycHJldGluZyB0aGVpciBmaW5hbmNpYWwgc3RhdGVtZW50cyBvciBwZXJmb3JtaW5nIG9wZXJhdGlvbmFsCiAgICAgICAgICAgICAgYXVkaXRzLCB3ZSBhcmUgdGhlcmUgdG8gcHJvdmlkZSBhc3Npc3RhbmNlLiBXZSBhbHNvIG9mZmVyIGludGVybmFsCiAgICAgICAgICAgICAgYXVkaXRzLCB0aGlyZC1wYXJ0eSBmaW5hbmNpYWwgYXVkaXRzIGFuZCBpbmZvcm1hdGlvbi1zeXN0ZW0gYXVkaXRzLgogICAgICAgICAgICA8L3A+CiAgICAgICAgICAgIDxwPgogICAgICAgICAgICAgIFdoZXRoZXIgcGVyZm9ybWluZyBhdHRlc3RhdGlvbiwgYXNzdXJhbmNlIG9yIGNvbnN1bHRpbmcgc2VydmljZXMsCiAgICAgICAgICAgICAgd2UgYWJpZGUgYnkgYXBwbGljYWJsZSBhY2NvdW50aW5nIHN0YW5kYXJkcyBhbmQgZ292ZXJubWVudAogICAgICAgICAgICAgIHJlZ3VsYXRpb25zLiBPdGhlciBzZXJ2aWNlcyBvZmZlcmVkIGluY2x1ZGUgZHVlIGRpbGlnZW5jZSwKICAgICAgICAgICAgICBidXNpbmVzcyB2YWx1YXRpb25zLCBwb2xpY2llcyBhbmQgcHJvY2VkdXJlcyBmb3JtYXRpb24sIGFuZAogICAgICAgICAgICAgIGJ1c2luZXNzLXBlcmZvcm1hbmNlIGltcHJvdmVtZW50IGNvbnN1bHRpbmcuCiAgICAgICAgICAgIDwvcD4KICAgICAgICAgIDwvUmV2ZWFsPgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im10LTgiPgogICAgICAgICAgICA8TGluayBocmVmPSIvc2VydmljZXMiIGNsYXNzTmFtZT0iYnRuLW5hdnkiPgogICAgICAgICAgICAgIEV4cGxvcmUgQWxsIFNlcnZpY2VzIDxBcnJvd1JpZ2h0IGNsYXNzTmFtZT0iaC00IHctNCIgLz4KICAgICAgICAgICAgPC9MaW5rPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvc2VjdGlvbj4KCiAgICAgIHsvKiBXaHkgd2UncmUgZGlmZmVyZW50ICovfQogICAgICA8c2VjdGlvbiBjbGFzc05hbWU9ImJnLXdoaXRlIHB5LTIwIHNtOnB5LTI0Ij4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY29udGFpbmVyLXggZ3JpZCBpdGVtcy1jZW50ZXIgZ2FwLTE0IGxnOmdyaWQtY29scy0yIj4KICAgICAgICAgIDxSZXZlYWw+CiAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iZXllYnJvdyI+CiAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJoLXB4IHctNiBiZy1jdXJyZW50IG9wYWNpdHktNjAiIC8+IEEgQ2hvaWNlIFRoYXQgTWFrZXMgdGhlIERpZmZlcmVuY2UKICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICA8aDIgY2xhc3NOYW1lPSJtdC0zIGZvbnQtZGlzcGxheSB0ZXh0LTN4bCBmb250LWJvbGQgdHJhY2tpbmctdGlnaHQgdGV4dC1uYXZ5LTkwMCBzbTp0ZXh0LTR4bCI+CiAgICAgICAgICAgICAgQSB0cnVzdGVkIHBhcnRuZXIgZGVkaWNhdGVkIHRvIHlvdXIgc3VjY2VzcwogICAgICAgICAgICA8L2gyPgogICAgICAgICAgICA8cCBjbGFzc05hbWU9Im10LTUgbGVhZGluZy1yZWxheGVkIHRleHQtbmF2eS02MDAiPgogICAgICAgICAgICAgIEF0IEFjY290YXggQWNjb3VudGluZyBTZXJ2aWNlcywgd2UgdW5kZXJzdGFuZCB0aGF0IGNvbXBhbmllcyByZWx5CiAgICAgICAgICAgICAgb24gdHJ1c3RlZCBzdXBwb3J0IHRvIG5hdmlnYXRlIHRoZSBjb21wbGV4aXRpZXMgb2YgYWNjb3VudGluZyBhbmQKICAgICAgICAgICAgICB0YXggbWFuYWdlbWVudC4gQnkgcGFydG5lcmluZyB3aXRoIHVzLCB5b3UgY2FuIHN0YXkgY29tcGxpYW50IHdpdGgKICAgICAgICAgICAgICBtaW5pbWFsIGVmZm9ydCBhbmQgd2l0aG91dCB0aGUgbmVlZCBmb3IgYWRkaXRpb25hbCByZXNvdXJjZXMg4oCUCiAgICAgICAgICAgICAgZnJlZWluZyB5b3UgdG8gZm9jdXMgb24geW91ciBjb3JlIGJ1c2luZXNzIG9iamVjdGl2ZXMuCiAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJtdC00IGxlYWRpbmctcmVsYXhlZCB0ZXh0LW5hdnktNjAwIj4KICAgICAgICAgICAgICBMZXZlcmFnaW5nIG91ciBleHRlbnNpdmUgZXhwZXJpZW5jZSBhY3Jvc3MgdGhlIGFjY291bnRpbmcgYW5kCiAgICAgICAgICAgICAgdGF4YXRpb24gaW5kdXN0cnksIHdlIGJyaW5nIGV4cGVydGlzZSBzcGFubmluZyBtYW55IHNlY3RvcnMgYW5kIGEKICAgICAgICAgICAgICBkZWVwIGtub3dsZWRnZSBvZiBsb2NhbCByZWd1bGF0aW9ucyB0byBldmVyeSBjbGllbnQgZW5nYWdlbWVudC4KICAgICAgICAgICAgPC9wPgogICAgICAgICAgPC9SZXZlYWw+CiAgICAgICAgICA8UmV2ZWFsIGRlbGF5PXsxMjB9IGNsYXNzTmFtZT0iZ3JpZCBnYXAtNCI+CiAgICAgICAgICAgIHtkaWZmZXJlbnRpYXRvcnMubWFwKChkKSA9PiAoCiAgICAgICAgICAgICAgPGRpdgogICAgICAgICAgICAgICAga2V5PXtkfQogICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLXN0YXJ0IGdhcC0zIHJvdW5kZWQteGwgYm9yZGVyIGJvcmRlci1uYXZ5LTEwMCBiZy1uYXZ5LTUwLzQwIHAtNSIKICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICA8Q2hlY2tDaXJjbGUyIGNsYXNzTmFtZT0ibXQtMC41IGgtNSB3LTUgc2hyaW5rLTAgdGV4dC10ZWFsLTUwMCIgLz4KICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1zbSBsZWFkaW5nLXJlbGF4ZWQgdGV4dC1uYXZ5LTcwMCI+e2R9PC9wPgogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICApKX0KICAgICAgICAgIDwvUmV2ZWFsPgogICAgICAgIDwvZGl2PgogICAgICA8L3NlY3Rpb24+CgogICAgICA8Q1RBU2VjdGlvbgogICAgICAgIHRpdGxlPSJMZXQncyBidWlsZCB5b3VyIHN1Y2Nlc3MgdG9nZXRoZXIiCiAgICAgICAgZGVzY3JpcHRpb249IlBhcnRuZXIgd2l0aCBhbiBGVEEtYXBwcm92ZWQgdGF4IGFnZW5jeSB0aGF0IHRyZWF0cyB5b3VyIGJ1c2luZXNzIGFzIGl0cyBvd24uIgogICAgICAvPgogICAgPC8+CiAgKTsKfQo="}
+import type { Metadata } from "next";
+import Link from "next/link";
+import Image from "next/image";
+import { ArrowRight, Eye, Target, CheckCircle2 } from "lucide-react";
+import PageHero from "@/components/PageHero";
+import SectionHeading from "@/components/SectionHeading";
+import Reveal from "@/components/Reveal";
+import CountUp from "@/components/CountUp";
+import CTASection from "@/components/CTASection";
+import { services, categories } from "@/lib/services";
+
+export const metadata: Metadata = {
+  title: "About Us",
+  description:
+    "Accotax Accounting Services is an FTA-approved tax agency providing accounting, taxation and management consulting across the UAE — for startups, SMEs and large entities.",
+};
+
+const aboutStats = [
+  { end: services.length, suffix: "+", label: "Specialist services" },
+  { end: Object.keys(categories).length, pad: true, label: "Core service areas" },
+  { end: 9, suffix: "%", label: "Standard Corporate Tax rate" },
+  { end: 5, suffix: "%", label: "UAE VAT — fully managed" },
+];
+
+const differentiators = [
+  "In-depth understanding of a wide range of sectors and local regulations",
+  "Proactive, tailored solutions — often before you are aware of an issue",
+  "A team that brings exceptional accounting knowledge and tax-law expertise",
+  "Smart, personalised guidance beyond traditional accounting",
+];
+
+export default function AboutPage() {
+  return (
+    <>
+      <PageHero
+        eyebrow="About Accotax"
+        title="The leading accounting company in the UAE"
+        description="Together, we can build a stronger, compliant and more profitable business."
+        breadcrumb={[{ label: "Home", href: "/" }, { label: "About" }]}
+      />
+
+      {/* Stats */}
+      <section className="bg-ink-900 py-14">
+        <div className="container-x grid grid-cols-2 gap-8 lg:grid-cols-4">
+          {aboutStats.map((s, i) => (
+            <Reveal key={s.label} delay={i * 90} className="border-l border-white/10 pl-5">
+              <p className="font-display text-4xl font-extrabold text-teal-400 sm:text-5xl">
+                <CountUp end={s.end} suffix={s.suffix} pad={s.pad} />
+              </p>
+              <p className="mt-2 text-sm font-medium text-white/70">{s.label}</p>
+            </Reveal>
+          ))}
+        </div>
+      </section>
+
+      {/* Our Company */}
+      <section className="bg-white py-20 sm:py-24">
+        <div className="container-x grid gap-14 lg:grid-cols-2 lg:items-start">
+          <Reveal>
+            <span className="eyebrow">
+              <span className="h-px w-6 bg-current opacity-60" /> Our Company
+            </span>
+            <h2 className="mt-3 font-display text-3xl font-bold tracking-tight text-navy-900 sm:text-4xl">
+              Built around our clients' needs
+            </h2>
+            <div className="prose-navy mt-6">
+              <p>
+                In our constant efforts to provide our clients with the most
+                suitable service propositions on time, we have worked day in,
+                day out — creating service offerings based on our profound
+                industry insight and knowledge, and a special eye for the needs
+                of our clients.
+              </p>
+              <p>
+                We know that each client has different, unique requirements, and
+                we support them with everything they need. By providing quality
+                bookkeeping solutions to entrepreneurs and transforming their
+                everyday bills into financial statements and visual reports, we
+                have served many companies with a wide range of services such as
+                accounting &amp; bookkeeping, taxation, advisory services and
+                business setup.
+              </p>
+            </div>
+          </Reveal>
+
+          <Reveal delay={120} className="grid gap-5">
+            <div className="relative h-56 overflow-hidden rounded-2xl sm:h-64">
+              <Image
+                src="/images/about-team.jpg"
+                alt="The Accotax team collaborating"
+                fill
+                sizes="(min-width: 1024px) 50vw, 100vw"
+                className="object-cover"
+              />
+              <div className="absolute inset-0 bg-gradient-to-t from-ink-950/45 to-transparent" />
+            </div>
+            <div className="rounded-2xl border border-navy-100 bg-navy-50/40 p-7">
+              <span className="inline-flex h-12 w-12 items-center justify-center rounded-xl bg-ink-950 text-teal-400">
+                <Eye className="h-6 w-6" />
+              </span>
+              <h3 className="mt-4 font-display text-lg font-bold text-navy-900">
+                Our Vision
+              </h3>
+              <p className="mt-2 leading-relaxed text-navy-600">
+                To be the premier accounting firm. Through unrivalled services,
+                teamwork and professionalism, we contribute to the sustained
+                growth of the economy and promote ethical business conduct.
+              </p>
+            </div>
+            <div className="rounded-2xl border border-navy-100 bg-navy-50/40 p-7">
+              <span className="inline-flex h-12 w-12 items-center justify-center rounded-xl bg-ink-950 text-teal-400">
+                <Target className="h-6 w-6" />
+              </span>
+              <h3 className="mt-4 font-display text-lg font-bold text-navy-900">
+                Our Mission
+              </h3>
+              <p className="mt-2 leading-relaxed text-navy-600">
+                To provide integrated services for our corporate clients — best
+                solutions, unbeatable accuracy and timely delivery — with
+                several packages at affordable prices, allowing our clients to
+                focus on the dynamics for the growth of their businesses.
+              </p>
+            </div>
+          </Reveal>
+        </div>
+      </section>
+
+      {/* Our Services overview */}
+      <section className="bg-navy-50/50 py-20 sm:py-24">
+        <div className="container-x">
+          <SectionHeading
+            align="left"
+            eyebrow="Our Services"
+            title="A full spectrum of accounting & consulting"
+          />
+          <Reveal delay={80} className="mt-6 max-w-4xl prose-navy">
+            <p>
+              We provide a full spectrum of general accounting, taxation and
+              management consulting services to clients throughout the United
+              Arab Emirates. This includes services tailored for startups, small
+              to medium enterprises and large entities. For SMEs, we provide
+              bookkeeping support, financial statement analysis and financial
+              controller guidance, among other value-added accounting and
+              business consulting services.
+            </p>
+            <p>
+              We leverage our experience to help our clients select accountants,
+              perform breakeven analyses, optimise their systems and prepare
+              their organisations for growth. Whether clients need help
+              interpreting their financial statements or performing operational
+              audits, we are there to provide assistance. We also offer internal
+              audits, third-party financial audits and information-system audits.
+            </p>
+            <p>
+              Whether performing attestation, assurance or consulting services,
+              we abide by applicable accounting standards and government
+              regulations. Other services offered include due diligence,
+              business valuations, policies and procedures formation, and
+              business-performance improvement consulting.
+            </p>
+          </Reveal>
+          <div className="mt-8">
+            <Link href="/services" className="btn-navy">
+              Explore All Services <ArrowRight className="h-4 w-4" />
+            </Link>
+          </div>
+        </div>
+      </section>
+
+      {/* Why we're different */}
+      <section className="bg-white py-20 sm:py-24">
+        <div className="container-x grid items-center gap-14 lg:grid-cols-2">
+          <Reveal>
+            <span className="eyebrow">
+              <span className="h-px w-6 bg-current opacity-60" /> A Choice That Makes the Difference
+            </span>
+            <h2 className="mt-3 font-display text-3xl font-bold tracking-tight text-navy-900 sm:text-4xl">
+              A trusted partner dedicated to your success
+            </h2>
+            <p className="mt-5 leading-relaxed text-navy-600">
+              At Accotax Accounting Services, we understand that companies rely
+              on trusted support to navigate the complexities of accounting and
+              tax management. By partnering with us, you can stay compliant with
+              minimal effort and without the need for additional resources —
+              freeing you to focus on your core business objectives.
+            </p>
+            <p className="mt-4 leading-relaxed text-navy-600">
+              Leveraging our extensive experience across the accounting and
+              taxation industry, we bring expertise spanning many sectors and a
+              deep knowledge of local regulations to every client engagement.
+            </p>
+          </Reveal>
+          <Reveal delay={120} className="grid gap-4">
+            {differentiators.map((d) => (
+              <div
+                key={d}
+                className="flex items-start gap-3 rounded-xl border border-navy-100 bg-navy-50/40 p-5"
+              >
+                <CheckCircle2 className="mt-0.5 h-5 w-5 shrink-0 text-teal-500" />
+                <p className="text-sm leading-relaxed text-navy-700">{d}</p>
+              </div>
+            ))}
+          </Reveal>
+        </div>
+      </section>
+
+      <CTASection
+        title="Let's build your success together"
+        description="Partner with an FTA-approved tax agency that treats your business as its own."
+      />
+    </>
+  );
+}

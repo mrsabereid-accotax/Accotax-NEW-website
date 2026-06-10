@@ -1,1 +1,162 @@
-{"data":"aW1wb3J0IExpbmsgZnJvbSAibmV4dC9saW5rIjsKaW1wb3J0IHsKICBGYWNlYm9vaywKICBMaW5rZWRpbiwKICBUd2l0dGVyLAogIFlvdXR1YmUsCiAgTWFpbCwKICBQaG9uZSwKICBNYXBQaW4sCn0gZnJvbSAibHVjaWRlLXJlYWN0IjsKaW1wb3J0IExvZ28gZnJvbSAiLi9Mb2dvIjsKaW1wb3J0IHsgc2l0ZSB9IGZyb20gIkAvbGliL3NpdGUiOwppbXBvcnQgeyBjYXRlZ29yaWVzIH0gZnJvbSAiQC9saWIvc2VydmljZXMiOwoKY29uc3Qgc29jaWFscyA9IFsKICB7IGljb246IEZhY2Vib29rLCBocmVmOiBzaXRlLnNvY2lhbC5mYWNlYm9vaywgbGFiZWw6ICJGYWNlYm9vayIgfSwKICB7IGljb246IExpbmtlZGluLCBocmVmOiBzaXRlLnNvY2lhbC5saW5rZWRpbiwgbGFiZWw6ICJMaW5rZWRJbiIgfSwKICB7IGljb246IFR3aXR0ZXIsIGhyZWY6IHNpdGUuc29jaWFsLnR3aXR0ZXIsIGxhYmVsOiAiVHdpdHRlciAvIFgiIH0sCiAgeyBpY29uOiBZb3V0dWJlLCBocmVmOiBzaXRlLnNvY2lhbC55b3V0dWJlLCBsYWJlbDogIllvdVR1YmUiIH0sCl0uZmlsdGVyKChzKSA9PiBzLmhyZWYpOwoKY29uc3QgcXVpY2tMaW5rcyA9IFsKICB7IGxhYmVsOiAiSG9tZSIsIGhyZWY6ICIvIiB9LAogIHsgbGFiZWw6ICJBYm91dCBVcyIsIGhyZWY6ICIvYWJvdXQiIH0sCiAgeyBsYWJlbDogIlNlcnZpY2VzIiwgaHJlZjogIi9zZXJ2aWNlcyIgfSwKICB7IGxhYmVsOiAiUGFja2FnZXMiLCBocmVmOiAiL3BhY2thZ2VzIiB9LAogIHsgbGFiZWw6ICJDYXJlZXJzIiwgaHJlZjogIi9jYXJlZXJzIiB9LAogIHsgbGFiZWw6ICJDb250YWN0IiwgaHJlZjogIi9jb250YWN0IiB9LApdOwoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gRm9vdGVyKCkgewogIGNvbnN0IHllYXIgPSBuZXcgRGF0ZSgpLmdldEZ1bGxZZWFyKCk7CgogIHJldHVybiAoCiAgICA8Zm9vdGVyIGNsYXNzTmFtZT0ibXQtYXV0byBiZy1pbmstOTUwIHRleHQtbmF2eS0xMDAiPgogICAgICA8ZGl2IGNsYXNzTmFtZT0iY29udGFpbmVyLXggZ3JpZCBnYXAtMTIgcHktMTYgbWQ6Z3JpZC1jb2xzLTIgbGc6Z3JpZC1jb2xzLTQiPgogICAgICAgIHsvKiBCcmFuZCAqL30KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibGc6Y29sLXNwYW4tMSI+CiAgICAgICAgICA8TG9nbyB2YXJpYW50PSJsaWdodCIgLz4KICAgICAgICAgIDxwIGNsYXNzTmFtZT0ibXQtNSB0ZXh0LXNtIGxlYWRpbmctcmVsYXhlZCB0ZXh0LW5hdnktMzAwIj4KICAgICAgICAgICAgQW4gRlRBLWFwcHJvdmVkIHRheCBhZ2VuY3kgcHJvdmlkaW5nIHByb2Zlc3Npb25hbCBhY2NvdW50aW5nLCB0YXgsCiAgICAgICAgICAgIFZBVCBhbmQgYWR2aXNvcnkgc2VydmljZXMgdG8gY2xpZW50cyBhY3Jvc3MgdGhlIFVBRS4KICAgICAgICAgIDwvcD4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJtdC02IGZsZXggZ2FwLTMiPgogICAgICAgICAgICB7c29jaWFscy5tYXAoKHsgaWNvbjogSWNvbiwgaHJlZiwgbGFiZWwgfSkgPT4gKAogICAgICAgICAgICAgIDxhCiAgICAgICAgICAgICAgICBrZXk9e2xhYmVsfQogICAgICAgICAgICAgICAgaHJlZj17aHJlZn0KICAgICAgICAgICAgICAgIHRhcmdldD0iX2JsYW5rIgogICAgICAgICAgICAgICAgcmVsPSJub29wZW5lciBub3JlZmVycmVyIgogICAgICAgICAgICAgICAgYXJpYS1sYWJlbD17bGFiZWx9CiAgICAgICAgICAgICAgICBjbGFzc05hbWU9ImlubGluZS1mbGV4IGgtMTAgdy0xMCBpdGVtcy1jZW50ZXIganVzdGlmeS1jZW50ZXIgcm91bmRlZC1sZyBiZy13aGl0ZS81IHRleHQtbmF2eS0yMDAgdHJhbnNpdGlvbi1jb2xvcnMgaG92ZXI6YmctdGVhbC01MDAgaG92ZXI6dGV4dC1uYXZ5LTk1MCIKICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICA8SWNvbiBjbGFzc05hbWU9ImgtNCB3LTQiIC8+CiAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICApKX0KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2PgoKICAgICAgICB7LyogUXVpY2sgbGlua3MgKi99CiAgICAgICAgPGRpdj4KICAgICAgICAgIDxoMyBjbGFzc05hbWU9ImZvbnQtZGlzcGxheSB0ZXh0LXNtIGZvbnQtYm9sZCB1cHBlcmNhc2UgdHJhY2tpbmctd2lkZXIgdGV4dC13aGl0ZSI+CiAgICAgICAgICAgIFF1aWNrIExpbmtzCiAgICAgICAgICA8L2gzPgogICAgICAgICAgPHVsIGNsYXNzTmFtZT0ibXQtNSBzcGFjZS15LTMgdGV4dC1zbSI+CiAgICAgICAgICAgIHtxdWlja0xpbmtzLm1hcCgobCkgPT4gKAogICAgICAgICAgICAgIDxsaSBrZXk9e2wuaHJlZn0+CiAgICAgICAgICAgICAgICA8TGluawogICAgICAgICAgICAgICAgICBocmVmPXtsLmhyZWZ9CiAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0idGV4dC1uYXZ5LTMwMCB0cmFuc2l0aW9uLWNvbG9ycyBob3Zlcjp0ZXh0LXRlYWwtNDAwIgogICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICB7bC5sYWJlbH0KICAgICAgICAgICAgICAgIDwvTGluaz4KICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICApKX0KICAgICAgICAgIDwvdWw+CiAgICAgICAgPC9kaXY+CgogICAgICAgIHsvKiBTZXJ2aWNlcyAqL30KICAgICAgICA8ZGl2PgogICAgICAgICAgPGgzIGNsYXNzTmFtZT0iZm9udC1kaXNwbGF5IHRleHQtc20gZm9udC1ib2xkIHVwcGVyY2FzZSB0cmFja2luZy13aWRlciB0ZXh0LXdoaXRlIj4KICAgICAgICAgICAgT3VyIFNlcnZpY2VzCiAgICAgICAgICA8L2gzPgogICAgICAgICAgPHVsIGNsYXNzTmFtZT0ibXQtNSBzcGFjZS15LTMgdGV4dC1zbSI+CiAgICAgICAgICAgIHtPYmplY3QuZW50cmllcyhjYXRlZ29yaWVzKS5tYXAoKFtrZXksIGNdKSA9PiAoCiAgICAgICAgICAgICAgPGxpIGtleT17a2V5fT4KICAgICAgICAgICAgICAgIDxMaW5rCiAgICAgICAgICAgICAgICAgIGhyZWY9e2Avc2VydmljZXMjJHtrZXl9YH0KICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJ0ZXh0LW5hdnktMzAwIHRyYW5zaXRpb24tY29sb3JzIGhvdmVyOnRleHQtdGVhbC00MDAiCiAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgIHtjLmxhYmVsfQogICAgICAgICAgICAgICAgPC9MaW5rPgogICAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgICkpfQogICAgICAgICAgICA8bGk+CiAgICAgICAgICAgICAgPExpbmsKICAgICAgICAgICAgICAgIGhyZWY9Ii9wYWNrYWdlcyIKICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0idGV4dC1uYXZ5LTMwMCB0cmFuc2l0aW9uLWNvbG9ycyBob3Zlcjp0ZXh0LXRlYWwtNDAwIgogICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgIFByaWNpbmcgJiBQYWNrYWdlcwogICAgICAgICAgICAgIDwvTGluaz4KICAgICAgICAgICAgPC9saT4KICAgICAgICAgIDwvdWw+CiAgICAgICAgPC9kaXY+CgogICAgICAgIHsvKiBDb250YWN0ICovfQogICAgICAgIDxkaXY+CiAgICAgICAgICA8aDMgY2xhc3NOYW1lPSJmb250LWRpc3BsYXkgdGV4dC1zbSBmb250LWJvbGQgdXBwZXJjYXNlIHRyYWNraW5nLXdpZGVyIHRleHQtd2hpdGUiPgogICAgICAgICAgICBHZXQgaW4gVG91Y2gKICAgICAgICAgIDwvaDM+CiAgICAgICAgICA8dWwgY2xhc3NOYW1lPSJtdC01IHNwYWNlLXktNCB0ZXh0LXNtIj4KICAgICAgICAgICAgPGxpIGNsYXNzTmFtZT0iZmxleCBnYXAtMyI+CiAgICAgICAgICAgICAgPE1hcFBpbiBjbGFzc05hbWU9Im10LTAuNSBoLTQgdy00IHNocmluay0wIHRleHQtdGVhbC01MDAiIC8+CiAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LW5hdnktMzAwIj4KICAgICAgICAgICAgICAgIHtzaXRlLmFkZHJlc3MubGluZXMuam9pbigiLCAiKX0KICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgIDxsaSBjbGFzc05hbWU9ImZsZXggZ2FwLTMiPgogICAgICAgICAgICAgIDxQaG9uZSBjbGFzc05hbWU9Im10LTAuNSBoLTQgdy00IHNocmluay0wIHRleHQtdGVhbC01MDAiIC8+CiAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJmbGV4IGZsZXgtY29sIGdhcC0xIj4KICAgICAgICAgICAgICAgIHtzaXRlLnBob25lcy5tYXAoKHApID0+ICgKICAgICAgICAgICAgICAgICAgPGEKICAgICAgICAgICAgICAgICAgICBrZXk9e3AuaHJlZn0KICAgICAgICAgICAgICAgICAgICBocmVmPXtwLmhyZWZ9CiAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJ0ZXh0LW5hdnktMzAwIHRyYW5zaXRpb24tY29sb3JzIGhvdmVyOnRleHQtdGVhbC00MDAiCiAgICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAgICB7cC5kaXNwbGF5fQogICAgICAgICAgICAgICAgICA8L2E+CiAgICAgICAgICAgICAgICApKX0KICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgIDxsaSBjbGFzc05hbWU9ImZsZXggZ2FwLTMiPgogICAgICAgICAgICAgIDxNYWlsIGNsYXNzTmFtZT0ibXQtMC41IGgtNCB3LTQgc2hyaW5rLTAgdGV4dC10ZWFsLTUwMCIgLz4KICAgICAgICAgICAgICA8YQogICAgICAgICAgICAgICAgaHJlZj17YG1haWx0bzoke3NpdGUuZW1haWwucHJpbWFyeX1gfQogICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJ0ZXh0LW5hdnktMzAwIHRyYW5zaXRpb24tY29sb3JzIGhvdmVyOnRleHQtdGVhbC00MDAiCiAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAge3NpdGUuZW1haWwucHJpbWFyeX0KICAgICAgICAgICAgICA8L2E+CiAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICA8L3VsPgogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KCiAgICAgIDxkaXYgY2xhc3NOYW1lPSJib3JkZXItdCBib3JkZXItd2hpdGUvMTAiPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJjb250YWluZXIteCBmbGV4IGZsZXgtY29sIGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWJldHdlZW4gZ2FwLTMgcHktNiB0ZXh0LXhzIHRleHQtbmF2eS00MDAgc206ZmxleC1yb3ciPgogICAgICAgICAgPHA+CiAgICAgICAgICAgIMKpIHt5ZWFyfSB7c2l0ZS5uYW1lfS4gQWxsIHJpZ2h0cyByZXNlcnZlZC4KICAgICAgICAgIDwvcD4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtNCI+CiAgICAgICAgICAgIDxMaW5rIGhyZWY9Ii9wcml2YWN5IiBjbGFzc05hbWU9InRyYW5zaXRpb24tY29sb3JzIGhvdmVyOnRleHQtdGVhbC00MDAiPgogICAgICAgICAgICAgIFByaXZhY3kgUG9saWN5CiAgICAgICAgICAgIDwvTGluaz4KICAgICAgICAgICAgPExpbmsgaHJlZj0iL3Rlcm1zIiBjbGFzc05hbWU9InRyYW5zaXRpb24tY29sb3JzIGhvdmVyOnRleHQtdGVhbC00MDAiPgogICAgICAgICAgICAgIFRlcm1zIG9mIFVzZQogICAgICAgICAgICA8L0xpbms+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4KICAgICAgPC9kaXY+CiAgICA8L2Zvb3Rlcj4KICApOwp9Cg=="}
+import Link from "next/link";
+import {
+  Facebook,
+  Linkedin,
+  Twitter,
+  Youtube,
+  Mail,
+  Phone,
+  MapPin,
+} from "lucide-react";
+import Logo from "./Logo";
+import { site } from "@/lib/site";
+import { categories } from "@/lib/services";
+
+const socials = [
+  { icon: Facebook, href: site.social.facebook, label: "Facebook" },
+  { icon: Linkedin, href: site.social.linkedin, label: "LinkedIn" },
+  { icon: Twitter, href: site.social.twitter, label: "Twitter / X" },
+  { icon: Youtube, href: site.social.youtube, label: "YouTube" },
+].filter((s) => s.href);
+
+const quickLinks = [
+  { label: "Home", href: "/" },
+  { label: "About Us", href: "/about" },
+  { label: "Services", href: "/services" },
+  { label: "Packages", href: "/packages" },
+  { label: "Careers", href: "/careers" },
+  { label: "Contact", href: "/contact" },
+];
+
+export default function Footer() {
+  const year = new Date().getFullYear();
+
+  return (
+    <footer className="mt-auto bg-ink-950 text-navy-100">
+      <div className="container-x grid gap-12 py-16 md:grid-cols-2 lg:grid-cols-4">
+        {/* Brand */}
+        <div className="lg:col-span-1">
+          <Logo variant="light" />
+          <p className="mt-5 text-sm leading-relaxed text-navy-300">
+            An FTA-approved tax agency providing professional accounting, tax,
+            VAT and advisory services to clients across the UAE.
+          </p>
+          <div className="mt-6 flex gap-3">
+            {socials.map(({ icon: Icon, href, label }) => (
+              <a
+                key={label}
+                href={href}
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label={label}
+                className="inline-flex h-10 w-10 items-center justify-center rounded-lg bg-white/5 text-navy-200 transition-colors hover:bg-teal-500 hover:text-navy-950"
+              >
+                <Icon className="h-4 w-4" />
+              </a>
+            ))}
+          </div>
+        </div>
+
+        {/* Quick links */}
+        <div>
+          <h3 className="font-display text-sm font-bold uppercase tracking-wider text-white">
+            Quick Links
+          </h3>
+          <ul className="mt-5 space-y-3 text-sm">
+            {quickLinks.map((l) => (
+              <li key={l.href}>
+                <Link
+                  href={l.href}
+                  className="text-navy-300 transition-colors hover:text-teal-400"
+                >
+                  {l.label}
+                </Link>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Services */}
+        <div>
+          <h3 className="font-display text-sm font-bold uppercase tracking-wider text-white">
+            Our Services
+          </h3>
+          <ul className="mt-5 space-y-3 text-sm">
+            {Object.entries(categories).map(([key, c]) => (
+              <li key={key}>
+                <Link
+                  href={`/services#${key}`}
+                  className="text-navy-300 transition-colors hover:text-teal-400"
+                >
+                  {c.label}
+                </Link>
+              </li>
+            ))}
+            <li>
+              <Link
+                href="/packages"
+                className="text-navy-300 transition-colors hover:text-teal-400"
+              >
+                Pricing & Packages
+              </Link>
+            </li>
+          </ul>
+        </div>
+
+        {/* Contact */}
+        <div>
+          <h3 className="font-display text-sm font-bold uppercase tracking-wider text-white">
+            Get in Touch
+          </h3>
+          <ul className="mt-5 space-y-4 text-sm">
+            <li className="flex gap-3">
+              <MapPin className="mt-0.5 h-4 w-4 shrink-0 text-teal-500" />
+              <span className="text-navy-300">
+                {site.address.lines.join(", ")}
+              </span>
+            </li>
+            <li className="flex gap-3">
+              <Phone className="mt-0.5 h-4 w-4 shrink-0 text-teal-500" />
+              <span className="flex flex-col gap-1">
+                {site.phones.map((p) => (
+                  <a
+                    key={p.href}
+                    href={p.href}
+                    className="text-navy-300 transition-colors hover:text-teal-400"
+                  >
+                    {p.display}
+                  </a>
+                ))}
+              </span>
+            </li>
+            <li className="flex gap-3">
+              <Mail className="mt-0.5 h-4 w-4 shrink-0 text-teal-500" />
+              <a
+                href={`mailto:${site.email.primary}`}
+                className="text-navy-300 transition-colors hover:text-teal-400"
+              >
+                {site.email.primary}
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+
+      <div className="border-t border-white/10">
+        <div className="container-x flex flex-col items-center justify-between gap-3 py-6 text-xs text-navy-400 sm:flex-row">
+          <p>
+            © {year} {site.name}. All rights reserved.
+          </p>
+          <div className="flex items-center gap-4">
+            <Link href="/privacy" className="transition-colors hover:text-teal-400">
+              Privacy Policy
+            </Link>
+            <Link href="/terms" className="transition-colors hover:text-teal-400">
+              Terms of Use
+            </Link>
+          </div>
+        </div>
+      </div>
+    </footer>
+  );
+}

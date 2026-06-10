@@ -1,1 +1,108 @@
-{"data":"aW1wb3J0IHR5cGUgeyBNZXRhZGF0YSB9IGZyb20gIm5leHQiOwppbXBvcnQgeyBNYWlsLCBMaW5rZWRpbiwgR3JhZHVhdGlvbkNhcCwgVXNlcnMsIFNwYXJrbGVzIH0gZnJvbSAibHVjaWRlLXJlYWN0IjsKaW1wb3J0IFBhZ2VIZXJvIGZyb20gIkAvY29tcG9uZW50cy9QYWdlSGVybyI7CmltcG9ydCBSZXZlYWwgZnJvbSAiQC9jb21wb25lbnRzL1JldmVhbCI7CmltcG9ydCB7IHNpdGUgfSBmcm9tICJAL2xpYi9zaXRlIjsKCmV4cG9ydCBjb25zdCBtZXRhZGF0YTogTWV0YWRhdGEgPSB7CiAgdGl0bGU6ICJDYXJlZXJzIiwKICBkZXNjcmlwdGlvbjoKICAgICJKb2luIEFjY290YXggQWNjb3VudGluZyBTZXJ2aWNlcy4gV2Ugb2ZmZXIgYSBjcmVhdGl2ZSwgc3RpbXVsYXRpbmcgd29ya2luZyBlbnZpcm9ubWVudCBmb3IgY2FuZGlkYXRlcyB3aXRoIHN0cm9uZyBhY2FkZW1pYyBiYWNrZ3JvdW5kcyBhbmQgc29saWQgYnVzaW5lc3MgdW5kZXJzdGFuZGluZy4iLAp9OwoKY29uc3QgcGVya3MgPSBbCiAgewogICAgaWNvbjogU3BhcmtsZXMsCiAgICB0aXRsZTogIkNyZWF0aXZlIGVudmlyb25tZW50IiwKICAgIHRleHQ6ICJBIGNyZWF0aXZlIGFuZCBzdGltdWxhdGluZyB3b3JraW5nIGVudmlyb25tZW50IHdoZXJlIHlvdXIgaWRlYXMgbWF0dGVyLiIsCiAgfSwKICB7CiAgICBpY29uOiBHcmFkdWF0aW9uQ2FwLAogICAgdGl0bGU6ICJHcm93IHdpdGggdXMiLAogICAgdGV4dDogIldlIHZhbHVlIHN0cm9uZyBhY2FkZW1pYyBiYWNrZ3JvdW5kcywgcGVyc29uYWwgc2tpbGxzIGFuZCBzb2xpZCBidXNpbmVzcyB1bmRlcnN0YW5kaW5nLiIsCiAgfSwKICB7CiAgICBpY29uOiBVc2VycywKICAgIHRpdGxlOiAiUmVhbCBvcHBvcnR1bml0aWVzIiwKICAgIHRleHQ6ICJUaGUgcG9zc2liaWxpdHkgb2Ygd29ya2luZyBvbiBhIHdpZGUgcmFuZ2Ugb2YgZW5nYWdlbWVudHMgYWNyb3NzIGluZHVzdHJpZXMuIiwKICB9LApdOwoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gQ2FyZWVyc1BhZ2UoKSB7CiAgcmV0dXJuICgKICAgIDw+CiAgICAgIDxQYWdlSGVybwogICAgICAgIGV5ZWJyb3c9IkNhcmVlcnMiCiAgICAgICAgdGl0bGU9IkJ1aWxkIHlvdXIgY2FyZWVyIHdpdGggQWNjb3RheCIKICAgICAgICBkZXNjcmlwdGlvbj0iV2UgYXJlIGFsd2F5cyBoYXBweSB0byBjb25zaWRlciBhcHBsaWNhdGlvbnMgZnJvbSB0YWxlbnRlZCBwZW9wbGUgd2hvIHdhbnQgdG8gZ3JvdyB3aXRoIGEgbGVhZGluZyBVQUUgYWNjb3VudGluZyBhbmQgdGF4IGZpcm0uIgogICAgICAgIGJyZWFkY3J1bWI9e1t7IGxhYmVsOiAiSG9tZSIsIGhyZWY6ICIvIiB9LCB7IGxhYmVsOiAiQ2FyZWVycyIgfV19CiAgICAgIC8+CgogICAgICA8c2VjdGlvbiBjbGFzc05hbWU9ImJnLXdoaXRlIHB5LTIwIHNtOnB5LTI0Ij4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY29udGFpbmVyLXggZ3JpZCBnYXAtMTQgbGc6Z3JpZC1jb2xzLTIgbGc6aXRlbXMtY2VudGVyIj4KICAgICAgICAgIDxSZXZlYWw+CiAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iZXllYnJvdyI+CiAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJoLXB4IHctNiBiZy1jdXJyZW50IG9wYWNpdHktNjAiIC8+IENhcmVlciBPYmplY3RpdmUKICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICA8aDIgY2xhc3NOYW1lPSJtdC0zIGZvbnQtZGlzcGxheSB0ZXh0LTN4bCBmb250LWJvbGQgdHJhY2tpbmctdGlnaHQgdGV4dC1uYXZ5LTkwMCBzbTp0ZXh0LTR4bCI+CiAgICAgICAgICAgICAgQSB3b3JrcGxhY2UgdGhhdCBoZWxwcyB5b3UgdGhyaXZlCiAgICAgICAgICAgIDwvaDI+CiAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0ibXQtNSBsZWFkaW5nLXJlbGF4ZWQgdGV4dC1uYXZ5LTYwMCI+CiAgICAgICAgICAgICAgV2Ugb2ZmZXIgYSBjcmVhdGl2ZSBhbmQgc3RpbXVsYXRpbmcgd29ya2luZyBlbnZpcm9ubWVudCwgd2l0aCB0aGUKICAgICAgICAgICAgICBwb3NzaWJpbGl0eSBvZiB3b3JraW5nIG9uIGEgYnJvYWQgcmFuZ2Ugb2YgZW5nYWdlbWVudHMuIFdlIGFyZQogICAgICAgICAgICAgIGhhcHB5IHRvIGNvbnNpZGVyIGFwcGxpY2F0aW9ucyBmcm9tIGNhbmRpZGF0ZXMgd2l0aCBhIHN0cm9uZwogICAgICAgICAgICAgIGFjYWRlbWljIGJhY2tncm91bmQgYW5kIHBlcnNvbmFsIHNraWxscywgYXMgd2VsbCBhcyBzb2xpZCBidXNpbmVzcwogICAgICAgICAgICAgIHVuZGVyc3RhbmRpbmcuCiAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im10LTggcm91bmRlZC0yeGwgYm9yZGVyIGJvcmRlci1uYXZ5LTEwMCBiZy1uYXZ5LTUwLzQwIHAtNyI+CiAgICAgICAgICAgICAgPGgzIGNsYXNzTmFtZT0iZm9udC1kaXNwbGF5IHRleHQtbGcgZm9udC1ib2xkIHRleHQtbmF2eS05MDAiPgogICAgICAgICAgICAgICAgSG93IHRvIGFwcGx5CiAgICAgICAgICAgICAgPC9oMz4KICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9Im10LTIgdGV4dC1zbSBsZWFkaW5nLXJlbGF4ZWQgdGV4dC1uYXZ5LTYwMCI+CiAgICAgICAgICAgICAgICBQbGVhc2Ugc2VuZCB5b3VyIGFwcGxpY2F0aW9uIHRvIHRoZSBhZGRyZXNzIGJlbG93LiBXZSByZXZpZXcKICAgICAgICAgICAgICAgIGV2ZXJ5IGFwcGxpY2F0aW9uIGNhcmVmdWxseS4KICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im10LTUgZmxleCBmbGV4LWNvbCBnYXAtMyBzbTpmbGV4LXJvdyI+CiAgICAgICAgICAgICAgICA8YQogICAgICAgICAgICAgICAgICBocmVmPXtgbWFpbHRvOiR7c2l0ZS5lbWFpbC5wcmltYXJ5fT9zdWJqZWN0PUNhcmVlciBhcHBsaWNhdGlvbmB9CiAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0iYnRuLWdvbGQiCiAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgIDxNYWlsIGNsYXNzTmFtZT0iaC00IHctNCIgLz4ge3NpdGUuZW1haWwucHJpbWFyeX0KICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgICAgIDxhCiAgICAgICAgICAgICAgICAgIGhyZWY9e3NpdGUuc29jaWFsLmxpbmtlZGlufQogICAgICAgICAgICAgICAgICB0YXJnZXQ9Il9ibGFuayIKICAgICAgICAgICAgICAgICAgcmVsPSJub29wZW5lciBub3JlZmVycmVyIgogICAgICAgICAgICAgICAgICBjbGFzc05hbWU9ImJ0bi1vdXRsaW5lIgogICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICA8TGlua2VkaW4gY2xhc3NOYW1lPSJoLTQgdy00IiAvPiBGb2xsb3cgdXMgb24gTGlua2VkSW4KICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L1JldmVhbD4KCiAgICAgICAgICA8UmV2ZWFsIGRlbGF5PXsxMjB9IGNsYXNzTmFtZT0iZ3JpZCBnYXAtNSI+CiAgICAgICAgICAgIHtwZXJrcy5tYXAoKHsgaWNvbjogSSwgdGl0bGUsIHRleHQgfSkgPT4gKAogICAgICAgICAgICAgIDxkaXYKICAgICAgICAgICAgICAgIGtleT17dGl0bGV9CiAgICAgICAgICAgICAgICBjbGFzc05hbWU9ImZsZXggZ2FwLTQgcm91bmRlZC0yeGwgYm9yZGVyIGJvcmRlci1uYXZ5LTEwMCBiZy13aGl0ZSBwLTYgc2hhZG93LWNhcmQiCiAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJpbmxpbmUtZmxleCBoLTEyIHctMTIgc2hyaW5rLTAgaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIHJvdW5kZWQteGwgYmctaW5rLTk1MCB0ZXh0LXRlYWwtNDAwIj4KICAgICAgICAgICAgICAgICAgPEkgY2xhc3NOYW1lPSJoLTYgdy02IiAvPgogICAgICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICAgICAgPGRpdj4KICAgICAgICAgICAgICAgICAgPGgzIGNsYXNzTmFtZT0iZm9udC1kaXNwbGF5IHRleHQtYmFzZSBmb250LWJvbGQgdGV4dC1uYXZ5LTkwMCI+CiAgICAgICAgICAgICAgICAgICAge3RpdGxlfQogICAgICAgICAgICAgICAgICA8L2gzPgogICAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9Im10LTEgdGV4dC1zbSBsZWFkaW5nLXJlbGF4ZWQgdGV4dC1uYXZ5LTYwMCI+CiAgICAgICAgICAgICAgICAgICAge3RleHR9CiAgICAgICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICApKX0KICAgICAgICAgIDwvUmV2ZWFsPgogICAgICAgIDwvZGl2PgogICAgICA8L3NlY3Rpb24+CiAgICA8Lz4KICApOwp9Cg=="}
+import type { Metadata } from "next";
+import { Mail, Linkedin, GraduationCap, Users, Sparkles } from "lucide-react";
+import PageHero from "@/components/PageHero";
+import Reveal from "@/components/Reveal";
+import { site } from "@/lib/site";
+
+export const metadata: Metadata = {
+  title: "Careers",
+  description:
+    "Join Accotax Accounting Services. We offer a creative, stimulating working environment for candidates with strong academic backgrounds and solid business understanding.",
+};
+
+const perks = [
+  {
+    icon: Sparkles,
+    title: "Creative environment",
+    text: "A creative and stimulating working environment where your ideas matter.",
+  },
+  {
+    icon: GraduationCap,
+    title: "Grow with us",
+    text: "We value strong academic backgrounds, personal skills and solid business understanding.",
+  },
+  {
+    icon: Users,
+    title: "Real opportunities",
+    text: "The possibility of working on a wide range of engagements across industries.",
+  },
+];
+
+export default function CareersPage() {
+  return (
+    <>
+      <PageHero
+        eyebrow="Careers"
+        title="Build your career with Accotax"
+        description="We are always happy to consider applications from talented people who want to grow with a leading UAE accounting and tax firm."
+        breadcrumb={[{ label: "Home", href: "/" }, { label: "Careers" }]}
+      />
+
+      <section className="bg-white py-20 sm:py-24">
+        <div className="container-x grid gap-14 lg:grid-cols-2 lg:items-center">
+          <Reveal>
+            <span className="eyebrow">
+              <span className="h-px w-6 bg-current opacity-60" /> Career Objective
+            </span>
+            <h2 className="mt-3 font-display text-3xl font-bold tracking-tight text-navy-900 sm:text-4xl">
+              A workplace that helps you thrive
+            </h2>
+            <p className="mt-5 leading-relaxed text-navy-600">
+              We offer a creative and stimulating working environment, with the
+              possibility of working on a broad range of engagements. We are
+              happy to consider applications from candidates with a strong
+              academic background and personal skills, as well as solid business
+              understanding.
+            </p>
+            <div className="mt-8 rounded-2xl border border-navy-100 bg-navy-50/40 p-7">
+              <h3 className="font-display text-lg font-bold text-navy-900">
+                How to apply
+              </h3>
+              <p className="mt-2 text-sm leading-relaxed text-navy-600">
+                Please send your application to the address below. We review
+                every application carefully.
+              </p>
+              <div className="mt-5 flex flex-col gap-3 sm:flex-row">
+                <a
+                  href={`mailto:${site.email.primary}?subject=Career application`}
+                  className="btn-gold"
+                >
+                  <Mail className="h-4 w-4" /> {site.email.primary}
+                </a>
+                <a
+                  href={site.social.linkedin}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="btn-outline"
+                >
+                  <Linkedin className="h-4 w-4" /> Follow us on LinkedIn
+                </a>
+              </div>
+            </div>
+          </Reveal>
+
+          <Reveal delay={120} className="grid gap-5">
+            {perks.map(({ icon: I, title, text }) => (
+              <div
+                key={title}
+                className="flex gap-4 rounded-2xl border border-navy-100 bg-white p-6 shadow-card"
+              >
+                <span className="inline-flex h-12 w-12 shrink-0 items-center justify-center rounded-xl bg-ink-950 text-teal-400">
+                  <I className="h-6 w-6" />
+                </span>
+                <div>
+                  <h3 className="font-display text-base font-bold text-navy-900">
+                    {title}
+                  </h3>
+                  <p className="mt-1 text-sm leading-relaxed text-navy-600">
+                    {text}
+                  </p>
+                </div>
+              </div>
+            ))}
+          </Reveal>
+        </div>
+      </section>
+    </>
+  );
+}

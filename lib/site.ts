@@ -1,1 +1,73 @@
-{"data":"LyoqCiAqIENlbnRyYWwgc2l0ZSBjb25maWd1cmF0aW9uIOKAlCBzaW5nbGUgc291cmNlIG9mIHRydXRoIGZvciBjb21wYW55IGRldGFpbHMuCiAqIEVkaXQgY29udGFjdCBpbmZvLCBzb2NpYWwgbGlua3MsIGFuZCBuYXZpZ2F0aW9uIGhlcmUuCiAqCiAqIE5PVEU6IFRoZSBvcmlnaW5hbCBXb3JkUHJlc3MgZXhwb3J0IGNvbnRhaW5lZCB0d28gb2ZmaWNlIGFkZHJlc3NlcyBhbmQgYSBmZXcKICogaW5jb25zaXN0ZW50IHBob25lLW51bWJlciBkaWdpdHMuIFRoZSB2YWx1ZXMgYmVsb3cgdXNlIHRoZSBkZWRpY2F0ZWQKICogIkNvbnRhY3QgVXMiIHBhZ2UgYXMgdGhlIGF1dGhvcml0YXRpdmUgc291cmNlLiBQbGVhc2UgdmVyaWZ5IGJlZm9yZSBsYXVuY2guCiAqLwoKZXhwb3J0IGNvbnN0IHNpdGUgPSB7CiAgbmFtZTogIkFjY290YXggQWNjb3VudGluZyBTZXJ2aWNlcyIsCiAgc2hvcnROYW1lOiAiQWNjb3RheCIsCiAgdGFnbGluZTogIkFjY291bnRpbmcgU2VydmljZXMgJiBUYXggQWdlbmN5IOKAlCBEdWJhaSwgVUFFIiwKICBkZXNjcmlwdGlvbjoKICAgICJBY2NvdGF4IEFjY291bnRpbmcgU2VydmljZXMgaXMgYW4gRlRBLWFwcHJvdmVkIHRheCBhZ2VuY3kgaW4gRHViYWkgcHJvdmlkaW5nIGFjY291bnRpbmcsIGJvb2trZWVwaW5nLCBVQUUgQ29ycG9yYXRlIFRheCwgVkFUIGFuZCBhZHZpc29yeSBzZXJ2aWNlcyB0byBTTUVzIGFuZCBGcmVlIFpvbmUgY29tcGFuaWVzIGFjcm9zcyB0aGUgVUFFLiIsCiAgdXJsOiAiaHR0cHM6Ly93d3cuYWNjb3RheC5jbyIsCiAgZW1haWw6IHsKICAgIHByaW1hcnk6ICJjb250YWN0QGFjY290YXguY28iLAogICAgc2Vjb25kYXJ5OiAiaW5mb0BhY2NvdGF4LmNvIiwKICB9LAogIHBob25lczogWwogICAgeyBkaXNwbGF5OiAiKzk3MSA1MCA1MjAgODYwMCIsIGhyZWY6ICJ0ZWw6Kzk3MTUwNTIwODYwMCIgfSwKICAgIHsgZGlzcGxheTogIis5NzEgNTggNTI1IDgwMTAiLCBocmVmOiAidGVsOis5NzE1ODUyNTgwMTAiIH0sCiAgXSwKICAvLyBQcmltYXJ5IGxpbmUgdXNlZCBmb3IgY2xpY2stdG8tY2FsbCAvIFdoYXRzQXBwIENUQXMgKHdpdGggYSBwcmVmaWxsZWQgbWVzc2FnZSkuCiAgd2hhdHNhcHA6CiAgICAiaHR0cHM6Ly93YS5tZS85NzE1MDUyMDg2MDA/dGV4dD0iICsKICAgIGVuY29kZVVSSUNvbXBvbmVudCgKICAgICAgIkhpIEFjY290YXgsIEknZCBsaWtlIHRvIGtub3cgbW9yZSBhYm91dCB5b3VyIGFjY291bnRpbmcgYW5kIHRheCBzZXJ2aWNlcy4iLAogICAgKSwKICBhZGRyZXNzOiB7CiAgICBsaW5lczogWwogICAgICAiT2ZmaWNlIE5vLiA4MDYsIDh0aCBGbG9vciIsCiAgICAgICJBbCBNYXNyYWYgVG93ZXIsIEJhbml5YXMgUm9hZCIsCiAgICAgICJEZWlyYSwgRHViYWksIFVBRSIsCiAgICBdLAogICAgbWFwUXVlcnk6ICJBbCBNYXNyYWYgVG93ZXIsIEJhbml5YXMgUm9hZCwgRGVpcmEsIER1YmFpIiwKICB9LAogIC8vIExlYXZlIGEgdmFsdWUgZW1wdHkgKCIiKSB0byBoaWRlIHRoYXQgc29jaWFsIGljb24gYWNyb3NzIHRoZSBzaXRlLgogIHNvY2lhbDogewogICAgZmFjZWJvb2s6ICJodHRwczovL3d3dy5mYWNlYm9vay5jb20vQWNjb3RheC51YWUiLAogICAgbGlua2VkaW46ICJodHRwczovL3d3dy5saW5rZWRpbi5jb20vY29tcGFueS83NzAyNjY0Mi8iLAogICAgdHdpdHRlcjogIiIsCiAgICB5b3V0dWJlOiAiIiwKICB9LAogIGhvdXJzOiAiU3VuZGF5IOKAkyBUaHVyc2RheSwgOTowMCBBTSDigJMgNjowMCBQTSIsCn0gYXMgY29uc3Q7CgpleHBvcnQgdHlwZSBOYXZJdGVtID0gewogIGxhYmVsOiBzdHJpbmc7CiAgaHJlZjogc3RyaW5nOwogIGNoaWxkcmVuPzogeyBsYWJlbDogc3RyaW5nOyBocmVmOiBzdHJpbmcgfVtdOwp9OwoKZXhwb3J0IGNvbnN0IG1haW5OYXY6IE5hdkl0ZW1bXSA9IFsKICB7IGxhYmVsOiAiSG9tZSIsIGhyZWY6ICIvIiB9LAogIHsgbGFiZWw6ICJBYm91dCIsIGhyZWY6ICIvYWJvdXQiIH0sCiAgewogICAgbGFiZWw6ICJTZXJ2aWNlcyIsCiAgICBocmVmOiAiL3NlcnZpY2VzIiwKICAgIGNoaWxkcmVuOiBbCiAgICAgIHsgbGFiZWw6ICJBbGwgU2VydmljZXMiLCBocmVmOiAiL3NlcnZpY2VzIiB9LAogICAgICB7IGxhYmVsOiAiQWNjb3VudGluZyAmIEJvb2trZWVwaW5nIiwgaHJlZjogIi9zZXJ2aWNlcyNhY2NvdW50aW5nIiB9LAogICAgICB7IGxhYmVsOiAiQ29ycG9yYXRlIFRheCIsIGhyZWY6ICIvc2VydmljZXMjY29ycG9yYXRlIiB9LAogICAgICB7IGxhYmVsOiAiVkFUICYgSW5kaXJlY3QgVGF4IiwgaHJlZjogIi9zZXJ2aWNlcyN0YXgiIH0sCiAgICAgIHsgbGFiZWw6ICJBZHZpc29yeSBTZXJ2aWNlcyIsIGhyZWY6ICIvc2VydmljZXMjYWR2aXNvcnkiIH0sCiAgICAgIHsgbGFiZWw6ICJDb21wYW55IFNldHVwIiwgaHJlZjogIi9zZXJ2aWNlcyNzZXR1cCIgfSwKICAgIF0sCiAgfSwKICB7IGxhYmVsOiAiUGFja2FnZXMiLCBocmVmOiAiL3BhY2thZ2VzIiB9LAogIHsgbGFiZWw6ICJDYXJlZXJzIiwgaHJlZjogIi9jYXJlZXJzIiB9LAogIHsgbGFiZWw6ICJDb250YWN0IiwgaHJlZjogIi9jb250YWN0IiB9LApdOwo="}
+/**
+ * Central site configuration — single source of truth for company details.
+ * Edit contact info, social links, and navigation here.
+ *
+ * NOTE: The original WordPress export contained two office addresses and a few
+ * inconsistent phone-number digits. The values below use the dedicated
+ * "Contact Us" page as the authoritative source. Please verify before launch.
+ */
+
+export const site = {
+  name: "Accotax Accounting Services",
+  shortName: "Accotax",
+  tagline: "Accounting Services & Tax Agency — Dubai, UAE",
+  description:
+    "Accotax Accounting Services is an FTA-approved tax agency in Dubai providing accounting, bookkeeping, UAE Corporate Tax, VAT and advisory services to SMEs and Free Zone companies across the UAE.",
+  url: "https://www.accotax.co",
+  email: {
+    primary: "contact@accotax.co",
+    secondary: "info@accotax.co",
+  },
+  phones: [
+    { display: "+971 50 520 8600", href: "tel:+971505208600" },
+    { display: "+971 58 525 8010", href: "tel:+971585258010" },
+  ],
+  // Primary line used for click-to-call / WhatsApp CTAs (with a prefilled message).
+  whatsapp:
+    "https://wa.me/971505208600?text=" +
+    encodeURIComponent(
+      "Hi Accotax, I'd like to know more about your accounting and tax services.",
+    ),
+  address: {
+    lines: [
+      "Office No. 806, 8th Floor",
+      "Al Masraf Tower, Baniyas Road",
+      "Deira, Dubai, UAE",
+    ],
+    mapQuery: "Al Masraf Tower, Baniyas Road, Deira, Dubai",
+  },
+  // Leave a value empty ("") to hide that social icon across the site.
+  social: {
+    facebook: "https://www.facebook.com/Accotax.uae",
+    linkedin: "https://www.linkedin.com/company/77026642/",
+    twitter: "",
+    youtube: "",
+  },
+  hours: "Sunday – Thursday, 9:00 AM – 6:00 PM",
+} as const;
+
+export type NavItem = {
+  label: string;
+  href: string;
+  children?: { label: string; href: string }[];
+};
+
+export const mainNav: NavItem[] = [
+  { label: "Home", href: "/" },
+  { label: "About", href: "/about" },
+  {
+    label: "Services",
+    href: "/services",
+    children: [
+      { label: "All Services", href: "/services" },
+      { label: "Accounting & Bookkeeping", href: "/services#accounting" },
+      { label: "Corporate Tax", href: "/services#corporate" },
+      { label: "VAT & Indirect Tax", href: "/services#tax" },
+      { label: "Advisory Services", href: "/services#advisory" },
+      { label: "Company Setup", href: "/services#setup" },
+    ],
+  },
+  { label: "Packages", href: "/packages" },
+  { label: "Careers", href: "/careers" },
+  { label: "Contact", href: "/contact" },
+];

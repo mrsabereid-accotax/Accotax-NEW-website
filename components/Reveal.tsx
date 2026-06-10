@@ -1,1 +1,66 @@
-{"data":"InVzZSBjbGllbnQiOwoKaW1wb3J0IHsgdXNlRWZmZWN0LCB1c2VSZWYsIHVzZVN0YXRlIH0gZnJvbSAicmVhY3QiOwoKdHlwZSBSZXZlYWxQcm9wcyA9IHsKICBjaGlsZHJlbjogUmVhY3QuUmVhY3ROb2RlOwogIC8qKiBEZWxheSBpbiBtcyBiZWZvcmUgdGhlIGFuaW1hdGlvbiBzdGFydHMgb25jZSBpbiB2aWV3LiAqLwogIGRlbGF5PzogbnVtYmVyOwogIGNsYXNzTmFtZT86IHN0cmluZzsKICBhcz86IGtleW9mIEpTWC5JbnRyaW5zaWNFbGVtZW50czsKfTsKCi8qKgogKiBMaWdodHdlaWdodCBzY3JvbGwtcmV2ZWFsIHdyYXBwZXIuIEZhZGVzIGFuZCBzbGlkZXMgY29udGVudCB1cCB0aGUgZmlyc3QgdGltZQogKiBpdCBlbnRlcnMgdGhlIHZpZXdwb3J0LiBSZXNwZWN0cyBwcmVmZXJzLXJlZHVjZWQtbW90aW9uIChubyBKUyBkZXBlbmRlbmN5CiAqIGJleW9uZCBJbnRlcnNlY3Rpb25PYnNlcnZlcikgYW5kIGlzIFNTUi1zYWZlLgogKi8KZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gUmV2ZWFsKHsKICBjaGlsZHJlbiwKICBkZWxheSA9IDAsCiAgY2xhc3NOYW1lID0gIiIsCiAgYXM6IFRhZyA9ICJkaXYiLAp9OiBSZXZlYWxQcm9wcykgewogIGNvbnN0IHJlZiA9IHVzZVJlZjxIVE1MRWxlbWVudCB8IG51bGw+KG51bGwpOwogIGNvbnN0IFt2aXNpYmxlLCBzZXRWaXNpYmxlXSA9IHVzZVN0YXRlKGZhbHNlKTsKCiAgdXNlRWZmZWN0KCgpID0+IHsKICAgIGNvbnN0IGVsID0gcmVmLmN1cnJlbnQ7CiAgICBpZiAoIWVsKSByZXR1cm47CgogICAgY29uc3QgcHJlZmVyc1JlZHVjZWQgPSB3aW5kb3cubWF0Y2hNZWRpYSgKICAgICAgIihwcmVmZXJzLXJlZHVjZWQtbW90aW9uOiByZWR1Y2UpIiwKICAgICkubWF0Y2hlczsKICAgIGlmIChwcmVmZXJzUmVkdWNlZCkgewogICAgICBzZXRWaXNpYmxlKHRydWUpOwogICAgICByZXR1cm47CiAgICB9CgogICAgY29uc3Qgb2JzZXJ2ZXIgPSBuZXcgSW50ZXJzZWN0aW9uT2JzZXJ2ZXIoCiAgICAgIChbZW50cnldKSA9PiB7CiAgICAgICAgaWYgKGVudHJ5LmlzSW50ZXJzZWN0aW5nKSB7CiAgICAgICAgICBzZXRWaXNpYmxlKHRydWUpOwogICAgICAgICAgb2JzZXJ2ZXIuZGlzY29ubmVjdCgpOwogICAgICAgIH0KICAgICAgfSwKICAgICAgeyB0aHJlc2hvbGQ6IDAuMTIsIHJvb3RNYXJnaW46ICIwcHggMHB4IC00MHB4IDBweCIgfSwKICAgICk7CgogICAgb2JzZXJ2ZXIub2JzZXJ2ZShlbCk7CiAgICByZXR1cm4gKCkgPT4gb2JzZXJ2ZXIuZGlzY29ubmVjdCgpOwogIH0sIFtdKTsKCiAgY29uc3QgQ29tcG9uZW50ID0gVGFnIGFzIGFueTsKCiAgcmV0dXJuICgKICAgIDxDb21wb25lbnQKICAgICAgcmVmPXtyZWZ9CiAgICAgIHN0eWxlPXt7IHRyYW5zaXRpb25EZWxheTogYCR7ZGVsYXl9bXNgIH19CiAgICAgIGNsYXNzTmFtZT17YHRyYW5zaXRpb24tYWxsIGR1cmF0aW9uLTcwMCBlYXNlLW91dCB3aWxsLWNoYW5nZS10cmFuc2Zvcm0gJHsKICAgICAgICB2aXNpYmxlID8gIm9wYWNpdHktMTAwIHRyYW5zbGF0ZS15LTAiIDogIm9wYWNpdHktMCB0cmFuc2xhdGUteS02IgogICAgICB9ICR7Y2xhc3NOYW1lfWB9CiAgICA+CiAgICAgIHtjaGlsZHJlbn0KICAgIDwvQ29tcG9uZW50PgogICk7Cn0K"}
+"use client";
+
+import { useEffect, useRef, useState } from "react";
+
+type RevealProps = {
+  children: React.ReactNode;
+  /** Delay in ms before the animation starts once in view. */
+  delay?: number;
+  className?: string;
+  as?: keyof JSX.IntrinsicElements;
+};
+
+/**
+ * Lightweight scroll-reveal wrapper. Fades and slides content up the first time
+ * it enters the viewport. Respects prefers-reduced-motion (no JS dependency
+ * beyond IntersectionObserver) and is SSR-safe.
+ */
+export default function Reveal({
+  children,
+  delay = 0,
+  className = "",
+  as: Tag = "div",
+}: RevealProps) {
+  const ref = useRef<HTMLElement | null>(null);
+  const [visible, setVisible] = useState(false);
+
+  useEffect(() => {
+    const el = ref.current;
+    if (!el) return;
+
+    const prefersReduced = window.matchMedia(
+      "(prefers-reduced-motion: reduce)",
+    ).matches;
+    if (prefersReduced) {
+      setVisible(true);
+      return;
+    }
+
+    const observer = new IntersectionObserver(
+      ([entry]) => {
+        if (entry.isIntersecting) {
+          setVisible(true);
+          observer.disconnect();
+        }
+      },
+      { threshold: 0.12, rootMargin: "0px 0px -40px 0px" },
+    );
+
+    observer.observe(el);
+    return () => observer.disconnect();
+  }, []);
+
+  const Component = Tag as any;
+
+  return (
+    <Component
+      ref={ref}
+      style={{ transitionDelay: `${delay}ms` }}
+      className={`transition-all duration-700 ease-out will-change-transform ${
+        visible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-6"
+      } ${className}`}
+    >
+      {children}
+    </Component>
+  );
+}

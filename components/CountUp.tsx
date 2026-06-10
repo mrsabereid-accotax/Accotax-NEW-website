@@ -1,1 +1,65 @@
-{"data":"InVzZSBjbGllbnQiOwoKaW1wb3J0IHsgdXNlRWZmZWN0LCB1c2VSZWYsIHVzZVN0YXRlIH0gZnJvbSAicmVhY3QiOwoKLyoqCiAqIENvdW50cyB1cCB0byBgZW5kYCB0aGUgZmlyc3QgdGltZSBpdCBzY3JvbGxzIGludG8gdmlldy4gSG9ub3VycwogKiBwcmVmZXJzLXJlZHVjZWQtbW90aW9uIChqdW1wcyBzdHJhaWdodCB0byB0aGUgZmluYWwgdmFsdWUpLgogKi8KZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gQ291bnRVcCh7CiAgZW5kLAogIGR1cmF0aW9uID0gMTgwMCwKICBwcmVmaXggPSAiIiwKICBzdWZmaXggPSAiIiwKICBwYWQgPSBmYWxzZSwKfTogewogIGVuZDogbnVtYmVyOwogIGR1cmF0aW9uPzogbnVtYmVyOwogIHByZWZpeD86IHN0cmluZzsKICBzdWZmaXg/OiBzdHJpbmc7CiAgLyoqIFplcm8tcGFkIHRvIHR3byBkaWdpdHMgKGUuZy4gMDQpLiAqLwogIHBhZD86IGJvb2xlYW47Cn0pIHsKICBjb25zdCByZWYgPSB1c2VSZWY8SFRNTFNwYW5FbGVtZW50IHwgbnVsbD4obnVsbCk7CiAgY29uc3QgW3ZhbHVlLCBzZXRWYWx1ZV0gPSB1c2VTdGF0ZSgwKTsKCiAgdXNlRWZmZWN0KCgpID0+IHsKICAgIGNvbnN0IGVsID0gcmVmLmN1cnJlbnQ7CiAgICBpZiAoIWVsKSByZXR1cm47CgogICAgY29uc3QgcmVkdWNlID0gd2luZG93Lm1hdGNoTWVkaWEoIihwcmVmZXJzLXJlZHVjZWQtbW90aW9uOiByZWR1Y2UpIikubWF0Y2hlczsKICAgIGlmIChyZWR1Y2UpIHsKICAgICAgc2V0VmFsdWUoZW5kKTsKICAgICAgcmV0dXJuOwogICAgfQoKICAgIGNvbnN0IG9ic2VydmVyID0gbmV3IEludGVyc2VjdGlvbk9ic2VydmVyKAogICAgICAoW2VudHJ5XSkgPT4gewogICAgICAgIGlmICghZW50cnkuaXNJbnRlcnNlY3RpbmcpIHJldHVybjsKICAgICAgICBvYnNlcnZlci5kaXNjb25uZWN0KCk7CiAgICAgICAgY29uc3Qgc3RhcnQgPSBwZXJmb3JtYW5jZS5ub3coKTsKICAgICAgICBjb25zdCB0aWNrID0gKG5vdzogbnVtYmVyKSA9PiB7CiAgICAgICAgICBjb25zdCBwID0gTWF0aC5taW4oKG5vdyAtIHN0YXJ0KSAvIGR1cmF0aW9uLCAxKTsKICAgICAgICAgIGNvbnN0IGVhc2VkID0gMSAtIE1hdGgucG93KDEgLSBwLCAzKTsgLy8gZWFzZU91dEN1YmljCiAgICAgICAgICBzZXRWYWx1ZShNYXRoLnJvdW5kKGVhc2VkICogZW5kKSk7CiAgICAgICAgICBpZiAocCA8IDEpIHJlcXVlc3RBbmltYXRpb25GcmFtZSh0aWNrKTsKICAgICAgICB9OwogICAgICAgIHJlcXVlc3RBbmltYXRpb25GcmFtZSh0aWNrKTsKICAgICAgfSwKICAgICAgeyB0aHJlc2hvbGQ6IDAuNCB9LAogICAgKTsKCiAgICBvYnNlcnZlci5vYnNlcnZlKGVsKTsKICAgIHJldHVybiAoKSA9PiBvYnNlcnZlci5kaXNjb25uZWN0KCk7CiAgfSwgW2VuZCwgZHVyYXRpb25dKTsKCiAgY29uc3QgZGlzcGxheSA9IHBhZCA/IFN0cmluZyh2YWx1ZSkucGFkU3RhcnQoMiwgIjAiKSA6IFN0cmluZyh2YWx1ZSk7CgogIHJldHVybiAoCiAgICA8c3BhbiByZWY9e3JlZn0+CiAgICAgIHtwcmVmaXh9CiAgICAgIHtkaXNwbGF5fQogICAgICB7c3VmZml4fQogICAgPC9zcGFuPgogICk7Cn0K"}
+"use client";
+
+import { useEffect, useRef, useState } from "react";
+
+/**
+ * Counts up to `end` the first time it scrolls into view. Honours
+ * prefers-reduced-motion (jumps straight to the final value).
+ */
+export default function CountUp({
+  end,
+  duration = 1800,
+  prefix = "",
+  suffix = "",
+  pad = false,
+}: {
+  end: number;
+  duration?: number;
+  prefix?: string;
+  suffix?: string;
+  /** Zero-pad to two digits (e.g. 04). */
+  pad?: boolean;
+}) {
+  const ref = useRef<HTMLSpanElement | null>(null);
+  const [value, setValue] = useState(0);
+
+  useEffect(() => {
+    const el = ref.current;
+    if (!el) return;
+
+    const reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+    if (reduce) {
+      setValue(end);
+      return;
+    }
+
+    const observer = new IntersectionObserver(
+      ([entry]) => {
+        if (!entry.isIntersecting) return;
+        observer.disconnect();
+        const start = performance.now();
+        const tick = (now: number) => {
+          const p = Math.min((now - start) / duration, 1);
+          const eased = 1 - Math.pow(1 - p, 3); // easeOutCubic
+          setValue(Math.round(eased * end));
+          if (p < 1) requestAnimationFrame(tick);
+        };
+        requestAnimationFrame(tick);
+      },
+      { threshold: 0.4 },
+    );
+
+    observer.observe(el);
+    return () => observer.disconnect();
+  }, [end, duration]);
+
+  const display = pad ? String(value).padStart(2, "0") : String(value);
+
+  return (
+    <span ref={ref}>
+      {prefix}
+      {display}
+      {suffix}
+    </span>
+  );
+}
