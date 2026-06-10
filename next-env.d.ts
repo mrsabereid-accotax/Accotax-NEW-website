@@ -1,1 +1,1 @@
-{"error":{"code":"api_version_disabled","message":"v6 of this endpoint has been disabled. Please use v8 instead.","fid":"68380a26d094bb3b37470b0182d9ff4015b14854"}}
+{"data":"Ly8vIDxyZWZlcmVuY2UgdHlwZXM9Im5leHQiIC8+Ci8vLyA8cmVmZXJlbmNlIHR5cGVzPSJuZXh0L2ltYWdlLXR5cGVzL2dsb2JhbCIgLz4KCi8vIE5PVEU6IFRoaXMgZmlsZSBzaG91bGQgbm90IGJlIGVkaXRlZAovLyBzZWUgaHR0cHM6Ly9uZXh0anMub3JnL2RvY3MvYXBwL2J1aWxkaW5nLXlvdXItYXBwbGljYXRpb24vY29uZmlndXJpbmcvdHlwZXNjcmlwdCBmb3IgbW9yZSBpbmZvcm1hdGlvbi4K"}
