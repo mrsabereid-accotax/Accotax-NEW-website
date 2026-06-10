@@ -1,1 +1,4 @@
-{"error":{"code":"api_version_disabled","message":"v6 of this endpoint has been disabled. Please use v8 instead.","fid":"18a7409764c5264df685d879280fd16a29ff95cc"}}
+/** @type {import('next').NextConfig} */
+const nextConfig = {};
+
+export default nextConfig;
