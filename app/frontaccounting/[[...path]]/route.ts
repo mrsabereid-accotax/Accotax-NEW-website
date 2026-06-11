@@ -99,7 +99,6 @@ async function handler(
     return new NextResponse('Upstream error', { status: 502 });
   }
 
-  // Rewrite body: replace /frontaccounting2/ with /frontaccounting/ in text responses
   const contentType = (Array.isArray(result.headers['content-type'])
     ? result.headers['content-type'][0]
     : result.headers['content-type']) || '';
@@ -111,7 +110,17 @@ async function handler(
     contentType.includes('json') ||
     contentType.includes('xml')
   ) {
-    const text = responseBody.toString('utf-8');
+    let text = responseBody.toString('utf-8');
+
+    // Strip PHP error/notice/warning output before <!DOCTYPE or <html
+    if (contentType.includes('text/html')) {
+      const htmlStart = text.search(/<(!DOCTYPE|html)/i);
+      if (htmlStart > 0) {
+        text = text.slice(htmlStart);
+      }
+    }
+
+    // Rewrite /frontaccounting2/ paths to /frontaccounting/
     const rewritten = text.split(FA_REAL_PATH + '/').join(FA_PATH + '/');
     responseBody = Buffer.from(rewritten, 'utf-8');
   }
