@@ -5,6 +5,8 @@ export const runtime = 'nodejs';
 
 const BLUEHOST_IP = '162.241.217.174';
 const TARGET_HOST = 'www.accotax.co';
+const FA_PATH = '/frontaccounting';
+const FA_REAL_PATH = '/frontaccounting2';
 
 function makeRequest(
   method: string,
@@ -49,8 +51,8 @@ async function handler(
   const pathStr = pathSegments.join('/');
   const search = req.nextUrl.search;
   const targetPath = pathStr
-    ? `/frontaccounting/${pathStr}${search}`
-    : `/frontaccounting/${search}`;
+    ? `${FA_PATH}/${pathStr}${search}`
+    : `${FA_PATH}/${search}`;
 
   const reqHeaders: Record<string, string> = {
     Host: TARGET_HOST,
@@ -73,7 +75,7 @@ async function handler(
   try {
     result = await makeRequest(req.method, targetPath, reqHeaders, bodyBuf);
 
-    // Follow redirects internally so the browser stays at /frontaccounting/
+    // Follow redirects internally so browser stays on /frontaccounting/
     let hops = 0;
     while ([301, 302, 303, 307, 308].includes(result.status) && hops < 5) {
       const location = Array.isArray(result.headers['location'])
@@ -97,16 +99,33 @@ async function handler(
     return new NextResponse('Upstream error', { status: 502 });
   }
 
+  // Rewrite body: replace /frontaccounting2/ with /frontaccounting/ in text responses
+  const contentType = (Array.isArray(result.headers['content-type'])
+    ? result.headers['content-type'][0]
+    : result.headers['content-type']) || '';
+
+  let responseBody: Buffer = result.body;
+  if (
+    contentType.includes('text/') ||
+    contentType.includes('javascript') ||
+    contentType.includes('json') ||
+    contentType.includes('xml')
+  ) {
+    const text = responseBody.toString('utf-8');
+    const rewritten = text.split(FA_REAL_PATH + '/').join(FA_PATH + '/');
+    responseBody = Buffer.from(rewritten, 'utf-8');
+  }
+
   const responseHeaders = new Headers();
-  const skipHeaders = ['transfer-encoding', 'connection', 'keep-alive', 'location'];
+  const skipHeaders = ['transfer-encoding', 'connection', 'keep-alive', 'location', 'content-length'];
   for (const [key, value] of Object.entries(result.headers)) {
     if (skipHeaders.includes(key.toLowerCase())) continue;
     if (key.toLowerCase() === 'set-cookie') {
       const cookies = Array.isArray(value) ? value : [value as string];
       cookies.forEach((cookie) => {
         const rewritten = cookie
-          .replace(/Path=\/frontaccounting2\//gi, 'Path=/frontaccounting/')
-          .replace(/Path=\/frontaccounting2$/gi, 'Path=/frontaccounting');
+          .replace(/Path=\/frontaccounting2\//gi, `Path=${FA_PATH}/`)
+          .replace(/Path=\/frontaccounting2$/gi, `Path=${FA_PATH}`);
         responseHeaders.append(key, rewritten);
       });
       continue;
@@ -118,7 +137,7 @@ async function handler(
     }
   }
 
-  return new NextResponse(new Uint8Array(result.body), {
+  return new NextResponse(new Uint8Array(responseBody), {
     status: result.status,
     headers: responseHeaders,
   });
