@@ -89,7 +89,7 @@ async function handler(
     }
   }
 
-  return new NextResponse(result.body, {
+  return new NextResponse(new Uint8Array(result.body), {
     status: result.status,
     headers: responseHeaders,
   });
